@@ -40,7 +40,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/compile_csv/requirements.txt
       - name: Run the CSV compilation script
-        run: python scripts/compile_csv/compile_csv.py --card_dir cards/anatomie/ --output anatomie_compiled.csv --delimiter "," --schema schema/cloze.py
+        run: python scripts/compile_csv/compile_csv.py --card_dir cards/anatomie/ --output anatomie_compiled.csv --delimiter "," --schema schema/anatomie.py
       - name: Upload the CSV to the artifacts
         uses: actions/upload-artifact@v2
         with:
