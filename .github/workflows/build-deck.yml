@@ -1,0 +1,48 @@
+name: Build the deck
+on: [pull_request, workflow_dispatch]
+jobs:
+  Validate-Cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Init
+        run: |
+          echo "The job was automatically triggered by a ${{ github.event_name }} event."
+          echo "Running in branch ${{ github.ref }}."
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.5
+      - name: Check out the repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/validate_cards/requirements.txt
+      - name: Run the card validation script
+        run: python scripts/validate_cards/validate_cards.py cards/cloze/ schema/cloze.py
+
+  Compile-Cloze-CSV:
+    needs: Validate-Cards
+    runs-on: ubuntu-latest
+    steps:
+      - name: Init
+        run: |
+          echo "The job was automatically triggered by a ${{ github.event_name }} event."
+          echo "Running in branch ${{ github.ref }}."
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9.5
+      - name: Check out the repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/compile_csv/requirements.txt
+      - name: Run the CSV compilation script
+        run: python scripts/compile_csv/compile_csv.py --card_dir cards/cloze/ --output cloze_compiled.csv --delimiter "," --schema schema/cloze.py
+      - name: Upload the CSV to the artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: cloze-csv
+          path: cloze_compiled.csv
