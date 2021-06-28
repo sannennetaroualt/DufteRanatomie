@@ -43,19 +43,26 @@ foreach($item in $csv) {
 	$yaml += '20a: '''+$item.'20a'.replace("'","''")+"'`n"
 	$yaml += 'tags:'+"`n"
 
-	$tags = $item.Tags.replace("'","''").Split(' ');
-	$dirFound = 0;
-	foreach($tag in $tags) {
-		$yaml += '- '''+$tag+''''+"`n"
-		if(($dirFound -eq 0) -and ($tag -match 'DopeRanatomy::Region.*')) {
-			$dirFound = 1;
-			$path = $tag.Split('::');
-			$path = $path[2..($path.Count)];
-			$flatpath = $path -join '\';
-			$flatpath = '..\..\cards\anatomie\'+$flatpath.Replace(":", "_");
-			New-Item -ItemType Directory -Force -Path $flatpath
-		}
-	}
+	$tags = $item.tags.replace("'","''").Split(' ');
+
+# Commenting this because I want all .yaml files in the same directory
+#	$dirFound = 0;
+#	foreach($tag in $tags) {
+#		$yaml += '- '''+$tag+''''+"`n"
+#		if(($dirFound -eq 0) -and ($tag -match 'DopeRanatomy::Region.*')) {
+#			$dirFound = 1;
+#			$path = $tag.Split('::');
+#			$path = $path[2..($path.Count)];
+#			$flatpath = $path -join '\';
+#			$flatpath = '..\..\cards\anatomie\'+$flatpath.Replace(":", "_");
+#			New-Item -ItemType Directory -Force -Path $flatpath
+#		}
+#	}
+#	$file = $flatpath+'\'+$item.noteid+'.yaml'
+	
+	$flatpath = '..\..\cards\anatomie'
+	New-Item -ItemType Directory -Force -Path $flatpath
 	$file = $flatpath+'\'+$item.noteid+'.yaml'
+
 	$yaml | Set-Content $file;
 }
