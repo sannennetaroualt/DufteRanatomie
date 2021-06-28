@@ -230,4 +230,5 @@
 		'meta': {
 			'fieldName': "tags"
 		}
+    }
 }
