@@ -25,7 +25,8 @@ if args.schema != "":
 	with io.open(filePath, mode="a", encoding="utf-8") as csvFile:
 		csvFile.write((args.delimiter).join(header) + '\n')
 
-cards = list(glob.iglob(cardDir + '**/*.yaml', recursive=True))
+# cards = list(glob.iglob(cardDir + '**/*.yaml', recursive=True))
+cards = list(glob.iglob(cardDir + '*.yaml', recursive=True))
 
 for cardFile in tqdm(cards, desc="Compiling", unit="cards"):
 	with io.open(cardFile, mode="r", encoding="utf-8") as stream:
