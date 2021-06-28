@@ -59,6 +59,10 @@ foreach($item in $csv) {
 #		}
 #	}
 #	$file = $flatpath+'\'+$item.noteid+'.yaml'
+
+	foreach($tag in $tags) {
+		$yaml += '- '''+$tag+''''+"`n"
+	}
 	
 	$flatpath = '..\..\cards\anatomie'
 	New-Item -ItemType Directory -Force -Path $flatpath
