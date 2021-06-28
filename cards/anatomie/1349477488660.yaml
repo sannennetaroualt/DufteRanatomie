@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 163'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Back/Spine'
+- 'DopeRanatomy::System::Nervous::CNS'
+- 'Dufte::Rücken_und_Rückenmark::Rückenmark'
 

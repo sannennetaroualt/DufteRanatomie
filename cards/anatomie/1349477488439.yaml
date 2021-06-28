@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 261'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen::GI'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'Dufte::Abdomen::Dickdarm'
 

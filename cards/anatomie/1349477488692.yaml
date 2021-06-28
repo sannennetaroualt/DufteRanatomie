@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 150'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Back/Spine'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Spine'
+- 'Dufte::Rücken_und_Rückenmark::Wirbelsäule'
 

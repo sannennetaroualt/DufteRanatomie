@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 265'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'Dufte::Abdomen::Schnittbilder'
 

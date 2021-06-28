@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 234;See also Plate 203'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'DopeRanatomy::System::Nervous::PNS::Thorax'
+- 'Dufte::Thorax::Leitungsbahnen'
 

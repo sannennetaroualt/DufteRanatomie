@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 39'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Nasal'
+- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'Dufte::Kopf_und_Hals::Leitungsbahnen::Arterien'
 

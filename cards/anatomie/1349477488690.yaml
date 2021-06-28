@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 379'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'Dufte::Becken_Beckenboden::Analkanal'
 

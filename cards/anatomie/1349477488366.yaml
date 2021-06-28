@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 137'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck'
+- 'DopeRanatomy::System::Nervous::CNS'
+- 'Dufte::Kopf_und_Hals::Leitungsbahnen::Arterien'
 

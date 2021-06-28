@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 504'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Lower_Limb::Lower_Leg'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Lower_Limb::Lower_Leg'
+- 'Dufte::Untere_Extremitäten::Unterschenkel'
 

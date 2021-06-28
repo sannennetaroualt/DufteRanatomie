@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 311'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::Region::Abdomen::Renal'
+- 'DopeRanatomy::System::Renal'
+- 'Dufte::Abdomen::Niere'
 

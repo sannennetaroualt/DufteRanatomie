@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 30'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Neck'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Head&Neck::Neck'
+- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'Dufte::Kopf_und_Hals::Leitungsbahnen::Venen'
 

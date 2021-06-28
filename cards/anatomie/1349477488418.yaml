@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 358'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Pelvic'
+- 'Dufte::Becken_Beckenboden::Beckenboden'
 

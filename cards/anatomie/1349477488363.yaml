@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 383'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Pelvic'
+- 'DopeRanatomy::System::Reproductive::Male'
+- 'Dufte::Becken_Beckenboden::Becken::Leitungsbahnen'
 

@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 17'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Head&Neck'
+- 'Dufte::Kopf_und_Hals::Mundhöhle_und_Kauapparat'
+- 'Dufte::Kopf_und_Hals::Schädel::Knochen'
 

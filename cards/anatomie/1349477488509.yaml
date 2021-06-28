@@ -35,4 +35,10 @@ Plate: 'Atlas Plate 272'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::Region::Abdomen::GI'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
+- 'DopeRanatomy::System::Gastrointestinal::Small_Intestine'
+- 'Dufte::Abdomen::Dünndarm'
 

@@ -35,4 +35,9 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Cranial'
+- 'DopeRanatomy::System::Endocrine'
+- 'DopeRanatomy::System::Otorhinolaryngological::Pituitary'
+- 'Dufte::Kopf_und_Hals::Bonus'
 

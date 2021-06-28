@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 53'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Neck'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Neck'
+- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'Dufte::Kopf_und_Hals::Mundhöhle_und_Kauapparat::Mundboden'
 

@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 434;See also Plates  463, 464'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Hand/Wrist/Forearm'
+- 'Dufte::Obere_Extremitäten::Unterarm_Hand::Muskulatur'
 

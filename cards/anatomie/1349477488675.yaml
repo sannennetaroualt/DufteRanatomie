@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 493'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Lower_Limb::Upper_Leg'
+- 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte'
 

@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 319'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::System::Nervous::PNS::Abdomen'
+- 'DopeRanatomy::System::Renal'
+- 'Dufte::Abdomen::Leitungsbahnen'
 

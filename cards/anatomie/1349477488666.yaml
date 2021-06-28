@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 24'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Face'
+- 'DopeRanatomy::System::Endocrine'
+- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'Dufte::Kopf_und_Hals::Leitungsbahnen::Nerven'
 

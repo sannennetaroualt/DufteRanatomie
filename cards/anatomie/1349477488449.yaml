@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 408;See also Plate 179'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Upper_Limb::Shoulder'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Upper_Limb::Shoulder'
+- 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Knochen'
 

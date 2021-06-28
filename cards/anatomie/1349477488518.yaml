@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 420;See also Plate 465'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Upper_Limb::Arm'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Arm'
+- 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Muskulatur'
 

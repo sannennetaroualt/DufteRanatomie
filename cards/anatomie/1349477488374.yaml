@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 523'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Lower_Limb::Lower_Leg'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Lower_Limb::Lower_Leg'
+- 'Dufte::Untere_Extremitäten::Fuß::Leitungsbahnen'
 

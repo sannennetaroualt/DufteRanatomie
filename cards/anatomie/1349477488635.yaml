@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 310'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
+- 'DopeRanatomy::System::Renal'
+- 'Dufte::Abdomen::Leitungsbahnen'
 

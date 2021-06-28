@@ -35,4 +35,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Pelvic'
+- 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte'
 

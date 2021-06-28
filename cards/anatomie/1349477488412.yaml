@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 84'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Eye'
+- 'DopeRanatomy::System::Ophthalmological'
+- 'Dufte::Kopf_und_Hals::Auge::Muskulatur'
 

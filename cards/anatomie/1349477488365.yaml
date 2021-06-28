@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 415;See also Plates 32, 422'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Upper_Limb::Shoulder'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Upper_Limb::Shoulder'
+- 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Leitungsbahnen'
 

@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 232;See also Plate 292'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Thorax'
+- 'Dufte::Abdomen::Leitungsbahnen'
 

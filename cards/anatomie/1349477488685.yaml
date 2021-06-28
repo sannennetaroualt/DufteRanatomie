@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 174'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Nervous::PNS::Thorax'
+- 'Dufte::Thorax::Leitungsbahnen'
 

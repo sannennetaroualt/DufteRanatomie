@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 283'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen::GI'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'Dufte::Abdomen::Leitungsbahnen'
 

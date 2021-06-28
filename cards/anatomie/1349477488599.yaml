@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 220;See also Plates 129, 203'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Cardiovascular::Heart'
+- 'Dufte::Thorax::Herz_Herzbeutel'
 

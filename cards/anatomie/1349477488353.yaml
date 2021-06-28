@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 244'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::System::Musculoskeletal'
+- 'Dufte::Abdomen::Muskulatur'
 

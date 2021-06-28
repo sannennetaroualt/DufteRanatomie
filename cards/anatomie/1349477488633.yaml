@@ -35,4 +35,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Thorax'
+- 'Dufte::Thorax'
 

@@ -35,4 +35,8 @@ Plate: 'Atlas Plate 176'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Thorax'
+- 'DopeRanatomy::System::Endocrine'
+- 'Dufte::Thorax::Brust'
 

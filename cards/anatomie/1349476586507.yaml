@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 323'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::System::Gastrointestinal'
+- 'Dufte::Abdomen::Schnittbilder'
 

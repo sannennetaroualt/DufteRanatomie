@@ -35,4 +35,9 @@ Plate: 'Atlas Plate 29'
 19a: ''
 20a: ''
 tags:
+- 'DopeRanatomy::#DOPE'
+- 'DopeRanatomy::Region::Head&Neck::Neck'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Neck'
+- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'Dufte::Rücken_und_Rückenmark::Rücken::Muskulatur'
 
