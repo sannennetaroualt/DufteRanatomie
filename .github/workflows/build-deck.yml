@@ -44,5 +44,5 @@ jobs:
       - name: Upload the CSV to the artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: cloze-csv
+          name: data-csv
           path: data.csv
