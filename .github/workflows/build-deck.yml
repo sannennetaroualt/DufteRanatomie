@@ -19,9 +19,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/validate_cards/requirements.txt
       - name: Run the card validation script
-        run: python scripts/validate_cards/validate_cards.py cards/cloze/ schema/cloze.py
+        run: python scripts/validate_cards/validate_cards.py cards/anatomie/ schema/anatomie.py
 
-  Compile-Cloze-CSV:
+  Compile-Anatomie-CSV:
     needs: Validate-Cards
     runs-on: ubuntu-latest
     steps:
@@ -40,9 +40,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/compile_csv/requirements.txt
       - name: Run the CSV compilation script
-        run: python scripts/compile_csv/compile_csv.py --card_dir cards/cloze/ --output cloze_compiled.csv --delimiter "," --schema schema/cloze.py
+        run: python scripts/compile_csv/compile_csv.py --card_dir cards/anatomie/ --output anatomie_compiled.csv --delimiter "," --schema schema/cloze.py
       - name: Upload the CSV to the artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: cloze-csv
-          path: cloze_compiled.csv
+          name: anatomie-csv
+          path: anatomie_compiled.csv
