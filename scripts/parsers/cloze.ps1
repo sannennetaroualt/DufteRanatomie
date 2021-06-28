@@ -52,7 +52,7 @@ foreach($item in $csv) {
 			$path = $tag.Split('::');
 			$path = $path[2..($path.Count)];
 			$flatpath = $path -join '\';
-			$flatpath = '..\..\cards\cloze\'+$flatpath.Replace(":", "_");
+			$flatpath = '..\..\cards\anatomie\'+$flatpath.Replace(":", "_");
 			New-Item -ItemType Directory -Force -Path $flatpath
 		}
 	}
