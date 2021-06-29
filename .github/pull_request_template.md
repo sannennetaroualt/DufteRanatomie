@@ -6,6 +6,7 @@
 - [ ] Spelling/Grammar error
 - [ ] Content error
 - [ ] Improved Phrasing/Clarity
+- [ ] Missing Tag
 - [ ] Other
 	
 <!-- If you ticked "Other", please describe the issue here. -->
