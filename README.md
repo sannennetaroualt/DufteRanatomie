@@ -41,6 +41,11 @@ Wähle hier den Reiter "Edit HTML" und kopiere den Inhalt des sich öffnenden Fe
 Hier geht das etwas einfacher.
 Du kannst im Editor durch Click auf den "</>"-Button zwischen HTML und Normalansicht wechseln.
 
+Text         |  HTML
+:-------------------------:|:-------------------------:
+![IMG_7895](https://user-images.githubusercontent.com/85392967/123753766-2ab4a100-d8f5-11eb-8f63-f9670638ec59.jpeg)  |  ![IMG_7896](https://user-images.githubusercontent.com/85392967/123753916-4cae2380-d8f5-11eb-8c41-1e3cb9c19f0e.jpeg)
+
+
 ### Tags
 Bei Tags brauchst du dir keine Gedanken um Formattierung machen. Diese haben keine HTML-Tags.
 Tags sind aufgeteilt in einen Tag pro Zeile im Format:
