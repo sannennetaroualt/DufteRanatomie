@@ -7,12 +7,18 @@ Updates zum Deck umfassen zur Zeit:
 * Inhaltliche Fehler
 * Wortwahl (bei Unklarheiten)
 
-Das hinzufügen neuer Karten ist nicht vorgesehen. Bei Übersetzungen könnt ihr gerne neue, relevante Inhalte hinzufügen. Der Inhalt des Originals soll keinesfalls verloren gehen!
+! Der Inhalt des Originals soll keinesfalls verloren gehen!
+
+! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
+
+! Bei Übersetzungen könnt ihr gerne auch neue, relevante Inhalte hinzufügen.
 
 ## Editor
 Alle Karten des Dope-Ranatomy-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Collabs.
 Ein Click auf diesen Button führt dich zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
 Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bist du nicht in Github eingeloggt, oder bearbeitest eine Karte, die nicht Teil des Decks ist.
+
+Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml Textdatei gespeichert, die nach der Note ID benannt ist.
 
 ### Bearbeiten einer Karte
 <img width="800" alt="Screenshot 2021-06-29 at 15 18 47" src="https://user-images.githubusercontent.com/85392967/123748307-02c23f00-d8ef-11eb-9137-f7c8ab85eafd.png">
