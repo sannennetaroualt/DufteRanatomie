@@ -9,7 +9,7 @@
 - [ ] Other
 	
 <!-- If you ticked "Other", please describe the issue here. -->
-#### If you chose other, please describe your request:	
+If you chose other, please describe your request:	
 
 ## Sources
 <!-- If you're proposing a new card or would like to report a content error, please add sources below. Try to be precise. We have to be able to check your source and can't spend an hour backtracking. -->
