@@ -1,8 +1,3 @@
-## Note ID
-<!-- Please enter the Note ID after the colon.
-You can view it by clicking on "Note ID" on your card during review -->
-Note ID:	
-
 ## Type of request
 <!-- You can tick a box by typing replacing [ ] with [x] -->
 - [ ] Spelling/Grammar
