@@ -48,6 +48,15 @@ After:
 
 Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an. Andere Quellen sind auch OK, so lange die Quellenangabe präzise ist.
 
+Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch.
+
+|      Begriff      |  Abkürzung (sg.)  |  Abkürzung (pl.)  |
+|      :-----:      |      :-----:      |      :-----:      |
+|      Arteria      |      A.           |      Aa.          |
+|      Ligamentum   |      Lig.         |      Ligg.        |
+|      Nodus        |      Nd.          |      Ndd.         |
+|      ...          |      ...          |      ...          |
+
 # Cheatsheet
 1. Click auf den Errata-Button
 2. Bearbeite die Karte
