@@ -24,13 +24,12 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 Updates zum Deck umfassen zur Zeit:
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
-* Inhaltliche Fehler
+* Inhaltliche Fehler und Ergänzungen
 * Wortwahl (bei Unklarheiten)
 
 Einschränkungen:
 * ! Der Inhalt des Originals soll keinesfalls verloren gehen!
 * ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
-* ! Du kannst bestehenden Karten gerne auch neue Inhalte hinzufügen.
 * ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten.
 * ! Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
