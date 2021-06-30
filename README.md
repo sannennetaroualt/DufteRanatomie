@@ -12,6 +12,7 @@ Updates zum Deck umfassen zur Zeit:
 * Inhaltliche Fehler
 * Wortwahl (bei Unklarheiten)
 
+Einschränkungen:
 * ! Der Inhalt des Originals soll keinesfalls verloren gehen!
 * ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
 * ! Bei Übersetzungen könnt ihr gerne auch neue, relevante Inhalte hinzufügen.
