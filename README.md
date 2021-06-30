@@ -35,7 +35,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 
 ## Schema der Übersetzung
 * Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC).
-* Die zweite Zeile enthält den _Fachbegriff_ nach Terminologia Anatomica (bspw. "Vena cava inferior") enthalten.
+* Die zweite Zeile enthält den _Fachbegriff_ nach Terminologia Anatomica (bspw. "Vena cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
 
@@ -125,8 +125,8 @@ Im nächsten Bildschirm ist ein Formular, in dem du deinen Vorschlag kategorisie
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 03 58" src="https://user-images.githubusercontent.com/85392967/123752773-19b76000-d8f4-11eb-8566-37f7eda42469.png"></kbd></p>
 
-Wenn du das ganze einreichst, sieht das ganze für uns so aus:
+Wenn du das einreichst, sieht das ganze für uns so aus:
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 08 01" src="https://user-images.githubusercontent.com/85392967/123753256-9b0ef280-d8f4-11eb-9f4f-116922fe45ce.png"></kbd></p>
 
-Das wars dann auch schon!
+Über den Reiter "Pull Requests" kannst du jeder Zeit den Stand aller Submissions einsehen.
