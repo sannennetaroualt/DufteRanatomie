@@ -1,14 +1,14 @@
 - [Projekt DufteRanatomie](#projekt-dufteranatomie)
 - [Guidelines](#guidelines)
   * [Allgemeine Informationen](#allgemeine-informationen)
-  * [Schema der Übersetzung](#schema-der--bersetzung)
+  * [Schema der Übersetzung](#schema-der-übersetzung)
 - [Cheatsheet](#cheatsheet)
 - [Bearbeiten einer Karte](#bearbeiten-einer-karte)
   * [Editor](#editor)
     + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
     + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
   * [Tags](#tags)
-- [Einreichen der Änderung](#einreichen-der--nderung)
+- [Einreichen der Änderung](#einreichen-der-änderung)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
