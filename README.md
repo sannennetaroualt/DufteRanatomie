@@ -30,7 +30,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 **Einschränkungen:**
 * Der Inhalt des Originals soll keinesfalls verloren gehen!
 * Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
-* Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. _Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten._
+* Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases _nicht enthalten_.
 * Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
