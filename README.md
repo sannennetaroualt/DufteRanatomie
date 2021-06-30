@@ -1,3 +1,15 @@
+- [Allgemeines zum Projekt DufteRanatomie](#allgemeines-zum-projekt-dufteranatomie)
+- [Guidelines](#guidelines)
+  * [Allgemeines](#allgemeines)
+  * [Schema der Übersetzung](#schema-der--bersetzung)
+- [Cheatsheet](#cheatsheet)
+- [Editor](#editor)
+  * [Bearbeiten einer Karte](#bearbeiten-einer-karte)
+    + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
+    + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
+  * [Tags](#tags)
+- [Einreichen der Änderung](#einreichen-der--nderung)
+
 # Allgemeines zum Projekt DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https://old.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) ins Deutsche.
 
