@@ -31,7 +31,7 @@ After:
 ```
   1a: 'Leber<br>Hepar'
   ```
-(Hierbei ist <br> ein HTML-Tag für einen Zeilenumbruch.)
+(Hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch.)
 
 Gib bei einem Vorschlag als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [TA](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
 
