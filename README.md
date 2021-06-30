@@ -21,39 +21,43 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 
 # Guidelines
 ## Allgemeine Informationen
-Updates zum Deck umfassen zur Zeit:
+**Updates zum Deck umfassen zur Zeit:**
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
 * Inhaltliche Fehler und Ergänzungen
 * Wortwahl (bei Unklarheiten)
 
-Einschränkungen:
-* ! Der Inhalt des Originals soll keinesfalls verloren gehen!
-* ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
-* ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten.
-* ! Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
+**Einschränkungen:**
+* Der Inhalt des Originals soll keinesfalls verloren gehen!
+* Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
+* Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten.
+* Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
-Jedes Feld soll in der ersten Zeile den Alltagsnamen (bspw. "Linke Kammer") und in der Zweiten den Fachbegriff nach Terminologia Anatomica (bspw. "Ventriculus sinister") enthalten. Wenn es keinen Alltagsbegriff gibt, dann nur den Fachbegriff in einer Zeile.
+* Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC).
+* Die zweite Zeile enthält den _Fachbegriff_ nach Terminologia Anatomica (bspw. "Vena cava inferior") enthalten.
+* Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
+* Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
 
 Before:
 ```
-  1a: 'Liver'
+  1a: 'Inferior vena cava'
   ```
 After:
 ```
-  1a: 'Leber<br>Hepar'
+  1a: 'Untere Hohlvene (IVC)<br>Vena cava inferior'
   ```
 (Hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch.)
 
 Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an. Andere Quellen sind auch OK, so lange die Quellenangabe präzise ist.
 
-Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch.
+Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch, wenn ich nicht zu faul dafür bin.
 
 |      Begriff      |  Abkürzung (sg.)  |  Abkürzung (pl.)  |
 |      :-----:      |      :-----:      |      :-----:      |
 |      Arteria      |      A.           |      Aa.          |
 |      Ligamentum   |      Lig.         |      Ligg.        |
+|      Nervus       |      N.           |      Nn.          |
 |      Nodus        |      Nd.          |      Ndd.         |
 |      ...          |      ...          |      ...          |
 
@@ -64,11 +68,10 @@ Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine 
 4. Formular ausfüllen -> "Create Pull Request"
 
 # Bearbeiten einer Karte
-Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Projekts.
-Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
-Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
-
-Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die nach der Note ID benannt ist.
+* Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Projekts.
+* Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
+* Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
+* Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die nach der Note ID benannt ist.
 
 ## Editor
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 15 18 47" src="https://user-images.githubusercontent.com/85392967/123748307-02c23f00-d8ef-11eb-9137-f7c8ab85eafd.png"></kbd></p>
