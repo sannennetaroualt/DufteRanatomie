@@ -31,7 +31,8 @@ Einschränkungen:
 * ! Der Inhalt des Originals soll keinesfalls verloren gehen!
 * ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
 * ! Du kannst bestehenden Karten gerne auch neue Inhalte hinzufügen.
-* ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten. * ! Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
+* ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten.
+* ! Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
 Jedes Feld soll in der ersten Zeile den Alltagsnamen (bspw. "Linke Kammer") und in der Zweiten den Fachbegriff nach Terminologia Anatomica (bspw. "Ventriculus sinister") enthalten. Wenn es keinen Alltagsbegriff gibt, dann nur den Fachbegriff in einer Zeile.
