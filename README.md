@@ -20,7 +20,7 @@ Einschränkungen:
 * ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten. Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
-Jedes Feld soll in der ersten Zeile den Alltagsnamen (bspw. "Linke Kammer") und in der Zweiten den Fachbegriff nach Terminologia Anatomica (bspw. "Ventriculus sinister"). Wenn es keinen Alltagsbegriff gibt, dann nur den Fachbegriff in einer Zeile.
+Jedes Feld soll in der ersten Zeile den Alltagsnamen (bspw. "Linke Kammer") und in der Zweiten den Fachbegriff nach Terminologia Anatomica (bspw. "Ventriculus sinister") enthalten. Wenn es keinen Alltagsbegriff gibt, dann nur den Fachbegriff in einer Zeile.
 
 Before:
 
@@ -33,7 +33,7 @@ After:
   ```
 (Hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch.)
 
-Gib bei einem Vorschlag als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [TA](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
+Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an. Andere Quellen sind auch OK, so lange die Quellenangabe präzise ist.
 
 # Cheatsheet
 1. Click auf den Errata-Button
@@ -42,11 +42,11 @@ Gib bei einem Vorschlag als Quellenangabe wenn möglich entweder [Wiktionary](ht
 4. Formular ausfüllen -> "Create Pull Request"
 
 # Editor
-Alle Karten des Dope-Ranatomy-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Collabs.
+Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Projekts.
 Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
-Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine Karte, die nicht Teil des Decks ist.
+Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
 
-Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml Textdatei gespeichert, die nach der Note ID benannt ist.
+Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die nach der Note ID benannt ist.
 
 ## Bearbeiten einer Karte
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 15 18 47" src="https://user-images.githubusercontent.com/85392967/123748307-02c23f00-d8ef-11eb-9137-f7c8ab85eafd.png"></kbd></p>
