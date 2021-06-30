@@ -3,7 +3,7 @@ Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https:
 
 Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird der Inhalt über diese Github-Repository verwaltet. Das erlaubt es allen, die zum Projekt beitragen wollen parallel zueinander zu arbeiten, Änderungen des Decks genau zu dokumentieren und zwischenzuspeichern, falls man auf eine ältere Version downgraden möchte.
 
-Alle können den Status ihrer Vorschläge überprüfen. Mit diesem System regelmäßigere Releases möglich sein.
+Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sollten mit diesem System regelmäßigere Releases möglich sein.
 
 # Guidelines
 Updates zum Deck umfassen zur Zeit:
@@ -15,8 +15,7 @@ Updates zum Deck umfassen zur Zeit:
 * ! Der Inhalt des Originals soll keinesfalls verloren gehen!
 * ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
 * ! Bei Übersetzungen könnt ihr gerne auch neue, relevante Inhalte hinzufügen.
-* ! Wenn du deinen Karten Medien hinzufügst, solltest du diese den Projektleitern zukommen lassen.
-Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten. Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
+* ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten. Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 # Cheatsheet
 1. Click auf den Errata-Button
