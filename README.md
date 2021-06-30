@@ -1,16 +1,18 @@
-- [Allgemeines zum Projekt DufteRanatomie](#allgemeines-zum-projekt-dufteranatomie)
+- [Projekt DufteRanatomie](#projekt-dufteranatomie)
 - [Guidelines](#guidelines)
-  * [Allgemeines](#allgemeines)
+  * [Allgemeine Informationen](#allgemeine-informationen)
   * [Schema der Übersetzung](#schema-der--bersetzung)
 - [Cheatsheet](#cheatsheet)
-- [Editor](#editor)
-  * [Bearbeiten einer Karte](#bearbeiten-einer-karte)
+- [Bearbeiten einer Karte](#bearbeiten-einer-karte)
+  * [Editor](#editor)
     + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
     + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
   * [Tags](#tags)
 - [Einreichen der Änderung](#einreichen-der--nderung)
 
-# Allgemeines zum Projekt DufteRanatomie
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+# Projekt DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https://old.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) ins Deutsche.
 
 Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird der Inhalt über diese Github-Repository verwaltet. Das erlaubt es allen, die zum Projekt beitragen wollen parallel zueinander zu arbeiten, Änderungen des Decks genau zu dokumentieren und zwischenzuspeichern, falls man auf eine ältere Version downgraden möchte.
@@ -18,7 +20,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sollten mit diesem System regelmäßigere Releases möglich sein.
 
 # Guidelines
-## Allgemeines
+## Allgemeine Informationen
 Updates zum Deck umfassen zur Zeit:
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
@@ -53,14 +55,14 @@ Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary]
 3. New Branch -> "Propose Changes"
 4. Formular ausfüllen -> "Create Pull Request"
 
-# Editor
+# Bearbeiten einer Karte
 Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Projekts.
 Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
 Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
 
 Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die nach der Note ID benannt ist.
 
-## Bearbeiten einer Karte
+## Editor
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 15 18 47" src="https://user-images.githubusercontent.com/85392967/123748307-02c23f00-d8ef-11eb-9137-f7c8ab85eafd.png"></kbd></p>
 
 Im Editor siehst du Inhalte der Felder im Format:
