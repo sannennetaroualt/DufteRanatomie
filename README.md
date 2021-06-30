@@ -35,7 +35,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 
 ## Schema der Übersetzung
 * Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC).
-* Die zweite Zeile enthält den _Fachbegriff_ nach Terminologia Anatomica (bspw. "Vena cava inferior").
+* Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
 
@@ -45,7 +45,7 @@ Before:
   ```
 After:
 ```
-  1a: 'Untere Hohlvene (IVC)<br>Vena cava inferior'
+  1a: 'Untere Hohlvene (IVC)<br>V. cava inferior'
   ```
 (Hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch.)
 
