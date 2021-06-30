@@ -30,7 +30,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 **Einschränkungen:**
 * Der Inhalt des Originals soll keinesfalls verloren gehen!
 * Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
-* Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten.
+* Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. _Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten._
 * Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
@@ -38,6 +38,8 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
+* Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
+* Andere Quellenangaben sollen möglichst leicht nachvollziehbar sein. (~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ))
 
 Before:
 ```
@@ -47,11 +49,9 @@ After:
 ```
   1a: 'Untere Hohlvene (IVC)<br>V. cava inferior'
   ```
-(Hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch.)
+..hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch. Dieser ist notwendig, um den Inhalt der Karte richtig darzustellen.
 
-Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an. Andere Quellen sind auch OK, so lange die Quellenangabe präzise ist.
-
-Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch, wenn ich nicht zu faul dafür bin.
+_Kategorien_ (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch, wenn ich nicht zu faul dafür bin.
 
 |      Begriff      |  Abkürzung (sg.)  |  Abkürzung (pl.)  |
 |      :-----:      |      :-----:      |      :-----:      |
@@ -62,16 +62,16 @@ Kategorien (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine 
 |      ...          |      ...          |      ...          |
 
 # Cheatsheet
-1. Click auf den Errata-Button
-2. Bearbeite die Karte
-3. New Branch -> "Propose Changes"
-4. Formular ausfüllen -> "Create Pull Request"
+1. Click auf den _Errata-Button_
+2. Bearbeite die Karte im _Editor_
+3. New Branch -> "_Propose Changes_"
+4. Formular ausfüllen -> "_Create Pull Request_"
 
 # Bearbeiten einer Karte
-* Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben sind Teil dieses Projekts.
-* Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte Plattformunabhängig funktionieren.
+* Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
+* Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte _Plattformunabhängig_ und _Unabhängig von deiner Anki-Version_ funktionieren.
 * Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
-* Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die nach der Note ID benannt ist.
+* Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die _nach der Note ID benannt_ ist. Diese findest du über den Button "_Note ID_" in der Kopfzeile
 
 ## Editor
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 15 18 47" src="https://user-images.githubusercontent.com/85392967/123748307-02c23f00-d8ef-11eb-9137-f7c8ab85eafd.png"></kbd></p>
@@ -88,13 +88,14 @@ Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren g
   Feldname1: 'Inhalt des <b>ersten Felds</b> mit HTML-Tags'
   Feldname2: 'Inhalt des zweiten Felds'
   ```
+Aufgrund der aktuell horrenden Implementierung unseres Programms darf der Text allerdings _keine Gänsefüßchen_ enthalten. Weder einfach noch doppelt.
 
 ### HTML-Quelltext aus Anki-Desktop
 Hierfür musst du den Anki-Editor (Taste E beim reviewen) öffnen und auf den Sandwichbutton clicken:
 
 <p align="center"><img width="800" alt="Screenshot 2021-06-29 at 15 30 17" src="https://user-images.githubusercontent.com/85392967/123748735-909e2a00-d8ef-11eb-9dad-c65a37e429a7.png"></p>
 
-Wähle hier den Reiter "Edit HTML" und kopiere den Inhalt des sich öffnenden Fensters:
+Wähle hier den Reiter "_Edit HTML_" und kopiere den Inhalt des sich öffnenden Fensters:
 
 <p align="center"><img width="800" alt="Screenshot 2021-06-29 at 15 37 57" src="https://user-images.githubusercontent.com/85392967/123749127-0b674500-d8f0-11eb-86ab-a72571ab1704.png"></p>
 
@@ -113,15 +114,15 @@ Tags sind aufgeteilt in einen Tag pro Zeile im Format:
 ```
   - 'Parent::Child::Leberkas'
   ```
-Um neue Tags hinzuzufügen, könnt ihr einfach eine neue Zeile nach dem selben Schema hinzufügen.
+Um neue Tags hinzuzufügen, könnt ihr einfach neue Zeilen nach bestehendem Schema hinzufügen.
 
 # Einreichen der Änderung
 Wenn du zum Ende der Seite scrollst, kannst du die Änderung einreichen. Im unteren Beispiel habe ich einen neuen Tag hinzugefügt.
-Wähle die Option "New Branch" und clicke anschließend auf Propose Changes. Du brauchst die anderen Felder nicht zu bearbeiten.
+Wähle die Option "_New Branch_" und clicke anschließend auf "_Propose Changes_". Du kannst die übrigen Felder gerne ignorieren.
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 01 44" src="https://user-images.githubusercontent.com/85392967/123752482-c80ed580-d8f3-11eb-8b84-8d02345f4bc6.png"></kbd></p>
 
-Im nächsten Bildschirm ist ein Formular, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
+Im nächsten Bildschirm ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 03 58" src="https://user-images.githubusercontent.com/85392967/123752773-19b76000-d8f4-11eb-8566-37f7eda42469.png"></kbd></p>
 
@@ -129,4 +130,4 @@ Wenn du das einreichst, sieht das ganze für uns so aus:
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 08 01" src="https://user-images.githubusercontent.com/85392967/123753256-9b0ef280-d8f4-11eb-9f4f-116922fe45ce.png"></kbd></p>
 
-Über den Reiter "Pull Requests" kannst du jeder Zeit den Stand aller Submissions einsehen.
+Über den Reiter "_Pull Requests_ kannst du jeder Zeit den Stand aller Submissions einsehen.
