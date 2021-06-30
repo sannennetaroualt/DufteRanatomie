@@ -6,6 +6,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sollten mit diesem System regelmäßigere Releases möglich sein.
 
 # Guidelines
+## Allgemeines
 Updates zum Deck umfassen zur Zeit:
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
@@ -17,6 +18,11 @@ Einschränkungen:
 * ! Das hinzufügen neuer Karten ist zur Zeit nicht vorgesehen.
 * ! Bei Übersetzungen könnt ihr gerne auch neue, relevante Inhalte hinzufügen.
 * ! Wenn du deinen Karten Medien (Bilder, Audio, etc.) hinzufügst, solltest du diese den Projektleitern zukommen lassen. Andernfalls sind diese in zukünftigen Deck-Releases nicht enthalten. Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
+
+## Schema der Übersetzung
+Jedes Feld soll in der ersten Zeile den Alltagsnamen (bspw. "Linke Kammer") und in der Zweiten den Fachbegriff nach Terminologia Anatomica (bspw. "Ventriculus sinister").
+
+Gib bei einem Vorschlag als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [TA](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
 
 # Cheatsheet
 1. Click auf den Errata-Button
