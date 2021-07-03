@@ -15,9 +15,12 @@
 # Projekt DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https://old.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) und des Histologie-Decks [Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/) ins Deutsche.
 
-Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird der Inhalt über diese Github-Repository verwaltet. Das erlaubt es allen, die zum Projekt beitragen wollen parallel zueinander zu arbeiten, Änderungen des Decks genau zu dokumentieren und zwischenzuspeichern, falls man auf eine ältere Version downgraden möchte.
-
-Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sollten mit diesem System regelmäßigere Releases möglich sein.
+Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird der Inhalt über diese Github-Repository verwaltet. Das erlaubt es allen, die zum Projekt beitragen wollen:
+- Parallel zu arbeiten
+- Sich gegenseitig über die Schulter zu schauen
+- Änderungen des Decks zu dokumentieren und zwischenzuspeichern, falls man auf eine ältere Version downgraden möchte
+- Jeder Zeit den aktuellen Stand des Decks zu überprüfen
+- Regelmäßig und (hoffentlich bald) auf Knopfdruck Decks zu releasen
 
 # Guidelines
 ## Allgemeine Informationen
@@ -26,7 +29,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 * Rechtschreib-/Grammatikfehler
 * Inhaltliche Fehler und Ergänzungen
 * Wortwahl (bei Unklarheiten)
-* Hinzufügen neuer, einheitlicher Tags (die meisten Deutschen Tags fehlen)
+* Hinzufügen neuer, einheitlicher Tags (die meisten deutschsprachigen Tags fehlen, der Rest ist ein ziemliches Durcheinander)
 
 **Einschränkungen:**
 * Der Inhalt des Originals soll keinesfalls verloren gehen!
@@ -39,8 +42,8 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
-* Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
-* Andere Quellenangaben sollen möglichst leicht nachvollziehbar sein. ~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ)
+* Gib bei deiner Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
+* Quellenangaben aus Büchern sollten leicht nachvollziehbar sein. ~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ)
 
 Before:
 ```
@@ -52,7 +55,7 @@ After:
   ```
 ..hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch. Dieser ist notwendig, um den Inhalt der Karte richtig darzustellen.
 
-_Kategorien_ (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Eine vollständige Tabelle mit Worten und dazugehörigen Abkürzungen folgt noch, wenn ich nicht zu faul dafür bin.
+_Klassen_ (Nervus, Nodus, Arteria, etc.) sollten bitte nach diesem Schema abgekürzt werden.
 
 |      Begriff      |  Abkürzung (sg.)  |  Abkürzung (pl.)  |
 |      :-----:      |      :-----:      |      :-----:      |
@@ -69,7 +72,7 @@ _Kategorien_ (Nervus, Nodus, Arteria, etc.) sollten bitte abgekürzt werden. Ein
 4. Formular ausfüllen -> "_Create Pull Request_"
 
 # Bearbeiten einer Karte
-* Alle Karten des Dufte-Ranatomie-Decks (!!!ich muss das noch hochladen!!!), die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
+* Alle Karten des Dufte-Ranatomie-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
 * Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte _Plattformunabhängig_ und _Unabhängig von deiner Anki-Version_ funktionieren.
 * Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
 * Du kannst auch manuell nach einer Karte suchen, indem du im Suchfenster die Note ID der Karte einfügst. Der Inhalt jeder Karte ist in einer .yaml-Textdatei gespeichert, die _nach der Note ID benannt_ ist. Diese findest du über den Button "_Note ID_" in der Kopfzeile
