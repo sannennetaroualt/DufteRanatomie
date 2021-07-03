@@ -26,6 +26,7 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 * Rechtschreib-/Grammatikfehler
 * Inhaltliche Fehler und Ergänzungen
 * Wortwahl (bei Unklarheiten)
+* Hinzufügen neuer, einheitlicher Tags (die meisten Deutschen Tags fehlen)
 
 **Einschränkungen:**
 * Der Inhalt des Originals soll keinesfalls verloren gehen!
