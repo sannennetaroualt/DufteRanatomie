@@ -34,12 +34,12 @@ Alle können den Status ihrer Vorschläge jeder Zeit überprüfen. Weiterhin sol
 * Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
-* Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC).
+* Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC) gefolgt von einem Komma ",".
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
 * Gib bei einem Übersetzung als Quellenangabe wenn möglich entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) oder [Amboss](https://www.amboss.com/de) an.
-* Andere Quellenangaben sollen möglichst leicht nachvollziehbar sein. (~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ))
+* Andere Quellenangaben sollen möglichst leicht nachvollziehbar sein. ~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ)
 
 Before:
 ```
@@ -47,7 +47,7 @@ Before:
   ```
 After:
 ```
-  1a: 'Untere Hohlvene (IVC)<br>V. cava inferior'
+  1a: 'Untere Hohlvene (IVC),<br>V. cava inferior'
   ```
 ..hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch. Dieser ist notwendig, um den Inhalt der Karte richtig darzustellen.
 
