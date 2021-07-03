@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '.f:[0pl1P8'
+guid: '.f:[0ol1P8'
 
 noteid: '1555433861079'
 
 Title: 'Pancreas'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.58.00 AM.png">'
-Clinical: '<img src="paste-9c5971792d0763316fbcfc0f5ec798ec68b6d5e0.jpg">'
-Comment: '<img src="paste-7875a0ce8ecca1e761194b2aaae62e8dcb75e92d.jpg">'
+Clinical: '<img src="paste-9c5971792d0763316fbcfc0f5ec798ec68b6d5e0.jpg"><br>Of all malignancies of the digestive tract, pancreatic adenocarcinoma is the second leading cause of death from cancer. Tumors arise from pancreatic ducts or acinar cells and have a tendency to spread rapidly. Signs and symptoms usually appear when the disease is already well advanced. High-protein and high-fat diets, cigarette smoking, and exposure to industrial carcinogens are thought to be causative factors.'
+Comment: '<img src="paste-7875a0ce8ecca1e761194b2aaae62e8dcb75e92d.jpg"><br>Comment: The parenchyma of the pancreas develops embryonically from foregut endoderm. In the adult, it is an accessory digestive gland, 18 cm to 20 cm long and about 100 g in weight. It has a head, neck, body, and tail. It is covered by a thin connective tissue capsule, which sends inward septae that subdivide the gland into indistinct lobules. The pancreas has both exocrine and endocrine parts; the exocrine part is about 99% of the gland by weight. Secretory acini and their associated ducts constitute the parenchyma of the exocrine pancreas. Two cell types—acinar and centroacinar cells—with different functions comprise each acinus.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Pancreas'
 

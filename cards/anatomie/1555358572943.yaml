@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '9JV?2On14A'
+guid: '9JV?2Nn14A'
 
 noteid: '1555358572943'
 
 Title: 'Fibrocartilage'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.03.12 PM.png">'
-Clinical: '<img src="paste-791da008bee1012a1b86ac4613ca1b7ba8b25289.jpg">'
-Comment: '<img src="paste-5352cf8735293cb9a669c98ca4b0e68687651e97.jpg">'
+Clinical: '<img src="paste-791da008bee1012a1b86ac4613ca1b7ba8b25289.jpg"><br>A herniated (slipped) disc is a common condition that affects the intervertebral disc and can cause severe pain or numbness if the protruding disc impinges on a nerve or the spinal cord. It results from an overall loss of elasticity of the disc and subsequent rupture of the annulus fibrosis, which allows the protrusion of the nucleus  pulposis through the annulus fibrosis into the surrounding area of the spinal column.'
+Comment: '<img src="paste-5352cf8735293cb9a669c98ca4b0e68687651e97.jpg"><br>Comment: Fibrocartilage is found in the annulus fibrosis of intervertebral discs, symphysis pubis, menisci of synovial joints, and at points of attachment of tendons to bone. It is a mixture between dense regular connective tissue, similar in many respects to tendon or ligament, and hyaline cartilage. Functionally, it combines the tensile strength, firmness, and durability of tendon and the resistance to compression of cartilage. In contrast to the other two types of cartilage, fibrocartilage is devoid of a distinct perichondrium, blending imperceptibly with surrounding connective tissue or hyaline cartilage. Its matrix is intensely eosinophilic due to the presence of numerous collagen fibers.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Fibrocartilage'
 

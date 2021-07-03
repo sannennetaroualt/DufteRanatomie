@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '3P5<cCgYx^'
+guid: '3P5<cBgYx^'
 
 noteid: '1555365074362'
 
 Title: 'Lips'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.51.43 PM.png">'
-Clinical: '<img src="paste-3449ec5cb18c959b3f243a9e81360a7dd931e62f.jpg">'
-Comment: '<img src="paste-da31558c3edd6557b4e83171b3dcb025fec8c3ea.jpg">'
+Clinical: '<img src="paste-3449ec5cb18c959b3f243a9e81360a7dd931e62f.jpg"><br>The most common type of malignancy of the oral cavity is  carcinoma of the lip, and nearly 95% of lip cancers are squamous cell carcinomas. They are often due to chronic sun exposure.  In contrast to other head and neck cancers, lip carcinoma is readily curable.'
+Comment: '<img src="paste-da31558c3edd6557b4e83171b3dcb025fec8c3ea.jpg"><br>Comment: Lips constitute a mucocutaneous junction between the body exterior and digestive system. They guard the entrance to the digestive tract. Each lip has 3 parts: a cutaneous portion, red (vermilion) border, and innermost oral mucosa. The vermilion border—the free edge of the lip—is a transitional zone between skin and oral mucosa. It is composed of a thick, stratified squamous epithelium that either is poorly keratinized or lacks keratin. Tall connective tissue papillae immediately under the epithelium are close to the surface. The relatively translucent epithelium and the blood in capillaries in the papillae cause the vermilion border to be pinkish red in color.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Lips'
 

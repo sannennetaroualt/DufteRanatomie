@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '0EkUObj9y{'
+guid: '0EkUOaj9y{'
 
 noteid: '1555435397378'
 
 Title: 'Ureter'
 
 OccludedImage: '<img src="paste-d612a8e6a9a3a03a02427def581b92a784774f77.jpg">'
-Clinical: '<img src="paste-68ba3c18ddf65dcbdfe48ea8a9d1e1b22f31f878.jpg">'
-Comment: '<img src="paste-946d69b4d5cd481edda8fcbab9388cc9446d23ee.jpg">'
+Clinical: '<img src="paste-68ba3c18ddf65dcbdfe48ea8a9d1e1b22f31f878.jpg"><br>Renal-ureteral colic is severe, sporadic abdominal pain most commonly due to the passage of kidney stones (calculi) down the ureter with acute obstruction of its lumen. The pain is intermittent because it arises from waves of peristaltic contraction of ureteral smooth muscle in response to the calculus. Blood in the urine (hematuria) is a usual clinical manifestation, and an abdominal computed axial tomography (CAT) scan is the most reliable diagnostic test.'
+Comment: '<img src="paste-946d69b4d5cd481edda8fcbab9388cc9446d23ee.jpg"><br>Comment: The ureters are hollow fibromuscular tubes that are 4 to 5mm in diameter and 14 cm long. They deliver urine via peristaltic smooth muscle contraction from the renal pelvis to the urinary bladder. An expandable transitional epithelium (urothelium) lines the lumen. It consists of 2 to 3 cell layers in the upper part of the ureter and 4 to 5 layers in the lower third. A highly cellular lamina propria supports the epithelium. A muscularis externa is composed of an inner longitudinal and outer circular layer of loosely arranged smooth muscle. Plexuses of nerve fibers are between the muscle layers. An outer adventitia of loose connective tissue blends with that of surrounding structures.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Ureter'
 

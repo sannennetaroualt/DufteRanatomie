@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ',[H(z(zffC'
+guid: ',[H(z&zffC'
 
 noteid: '1555364477521'
 
 Title: 'Melanocytes'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.41.34 PM.png">'
-Clinical: '<img src="paste-9105cdc63e9de13438d0d7f6c1f9085883829ee7.jpg">'
-Comment: '<img src="paste-e42641a227f53ddadc5185347f27cd5f89e13448.jpg">'
+Clinical: '<img src="paste-9105cdc63e9de13438d0d7f6c1f9085883829ee7.jpg"><br>Tanning caused by ultraviolet exposure represents an increased eumelanin content of the epidermis. Malignant melanoma causes more than 75% of deaths from skin cancer. If it is diagnosed early, treatment is usually effective; melanoma diagnosed at a late stage is more likely to metastasize and cause death.'
+Comment: '<img src="paste-e42641a227f53ddadc5185347f27cd5f89e13448.jpg"><br>Comment: Melanocytes are melanin pigment-producing cells that determine skin and hair color. Melanin is produced in membrane- bound organelles known as melanosomes. Darkly pigmented skin, hair, and eyes have melanosomes that contain more melanin than in more lightly pigmented areas. Melanin protects against damaging effects of ultraviolet radiation on DNA. Two major forms of melanin in humans, eumelanin and pheomelanin, are both derived from tyrosine.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Melanocytes'
 

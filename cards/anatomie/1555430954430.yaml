@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'U4^1#[]TUD'
+guid: 'U4^1#@]TUD'
 
 noteid: '1555430954430'
 
 Title: 'Parietal Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.09.21 AM.png">'
-Clinical: '<img src="paste-13514bb946751f69f48b8e0341b9660ebcf18d2d.jpg">'
-Comment: '<img src="paste-77fc3e7e642cc9467a38b844fa2ea3cc5e8aa548.jpg">'
+Clinical: '<img src="paste-13514bb946751f69f48b8e0341b9660ebcf18d2d.jpg"><br>Pernicious anemia is a chronic disease caused by impaired vitamin B,2 absorption. It is usually due to failure of parietal cells to produce intrinsic factor. Antibodies to parietal cells occur in 90% of patients. Lack of vitamin B;2 causes neurologic deficits as well as megaloblastic anemia, whereby erythrocyte formation in the bone marrow is abnormal. Treatment is by oral intake or intramuscular injection of supplementary vitamin B;2 (cyalocobalamin).'
+Comment: '<img src="paste-77fc3e7e642cc9467a38b844fa2ea3cc5e8aa548.jpg"><br>Comment: Parietal cells—the most numerous cell type in the body of gastric glands—produce hydrochloric acid and vitamin B,» intrinsic factor. They are large, rounded, or pyramidal shaped cells with a single, central nucleus. In hematoxylin and eosin sections they are either washed out (due to preparation artifact) or have a deeply eosinophilic cytoplasm (due to high concentrations of mitochondria). By electron microscopy they contain an extensive canalicular system (infoldings of the apical plasma membrane) lined by microvilli, a small, basal Golgi complex, and rough endoplasmic reticulum (RER).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Parietal_Cells'
 

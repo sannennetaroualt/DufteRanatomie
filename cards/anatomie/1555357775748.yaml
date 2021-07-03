@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'UdZ%K*[!>f'
+guid: 'UdZ%K)[!>f'
 
 noteid: '1555357775748'
 
 Title: 'Neuron'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.49.43 PM.png">'
-Clinical: '<img src="paste-a4627fd68d5e2e5d5a6b4f3cb60751cd9930ecb8.jpg">'
-Comment: '<img src="paste-72bd689ed7c7d4319ab3dea2a268a2e727790ef2.jpg">'
+Clinical: '<img src="paste-a4627fd68d5e2e5d5a6b4f3cb60751cd9930ecb8.jpg"><br>Parkinson disease affects motor neurons in the central nervous system. Primary symptoms involve a decrease in function and activity of dopaminergic neurons in the brain. Although most cases are idiopathic (of unknown origin), others can be caused by toxicity, drugs, trauma, or genetic mutation.'
+Comment: '<img src="paste-72bd689ed7c7d4319ab3dea2a268a2e727790ef2.jpg"><br>Comment: Dominating the cytoplasm of neurons are multiple, flattened cisternae of rough endoplasmic reticulum with numerous free ribosomes between the cisternae. They correspond to the basophilic Nissl substance seen in light micrographs. Their major function is protein synthesis for internal use as well as export. A highly developed Golgi complex with multiple stacks of flattened sacs and associated vesicles and vacuoles are commonly found close to the nucleus. This organelle is responsible for packaging and concentration of secretory products as well as post-translational modification of macromolecules. It is also the source of lysosomes,  which accumulate wear-and-tear lipofuscin pigment in these long- lived cells with advancing age.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Neuron'
 

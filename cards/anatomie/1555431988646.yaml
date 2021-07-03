@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '1&a,PXrsST'
+guid: '1&a,PWrsST'
 
 noteid: '1555431988646'
 
 Title: 'Portal Tract and Central Vein'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.27.04 AM.png">'
-Clinical: '<img src="paste-520096cc268179dedd86257fd6cb7bc1b958dba6.jpg">'
-Comment: '<img src="paste-b16a04358307db137261ef1697dfadd17f39774f.jpg">'
+Clinical: '<img src="paste-520096cc268179dedd86257fd6cb7bc1b958dba6.jpg"><br>Many clinical conditions can cause hepatitis—an inflammation of the liver. Viral hepatitis is caused by several different hepatotropic viruses, the most common of which are types A, B, and C. Hepatitis A is transmitted mainly via a fecal-oral route, and is especially common in poorly developed countries. It is characterized by hepatocellular injury, detection of serum IgM and anti-HAV antibody, and elevated serum aminotransferases.'
+Comment: '<img src="paste-b16a04358307db137261ef1697dfadd17f39774f.jpg"><br>Comment: Each triad consists of a branch of the bile duct, portal vein, and hepatic artery, which progressively divide into smaller branches. The portal vein has terminal branches, which regularly give off inlet venules. They, in turn, empty directly into hepatic sinusoids that are in close contact with hepatocytes. Terminal branches of hepatic arteries, which ramify with portal vein branches, end as arterioles that also drain into sinusoids. Sinusoids converge toward a central vein, also known as a terminal hepatic venule, which unites with other central veins to form sublobular veins. They lead into larger hepatic veins that travel alone and branch repeatedly. The main drainage route of blood from the liver is the inferior vena cava.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Portal_Tract_Central_Vein'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'X{+Pu,Vyr-'
+guid: 'X{+Pu+Vyr-'
 
 noteid: '1555354769615'
 
 Title: 'Serous Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.59.50 PM.png">'
-Clinical: '<img src="paste-412d24f87ffe66169268fedd3927443fdd89cc11.jpg">'
-Comment: '<img src="paste-701dc55979329c661265c6493d4d2c52de1f37e7.jpg">'
+Clinical: '<img src="paste-412d24f87ffe66169268fedd3927443fdd89cc11.jpg"><br>Parotitis, a painful swelling of the glandular tissue in the parotid gland, is commonly caused by the contagious viral disease mumps (paramyxovirus), or by bacterial infection, and can cause destruction  of the serous acinar cells. Recovery is usually complete, and immunity to the disease persists over a lifetime.'
+Comment: '<img src="paste-701dc55979329c661265c6493d4d2c52de1f37e7.jpg"><br>Comment: Serous cells are polarized secretory cells that produce a watery proteinaceous secretion that typically contains enzymes. They are found in secretory units of pure serous glands such as the parotid, lacrimal gland, and exocrine pancreas. They are also present in mixed sero-mucous glands such as the major and minor salivary glands of the digestive tract and in the walls of the upper airways of the respiratory tract. Ultrastructurally, serous cells contain condensing vacuoles that concentrate the secretory product and give rise to electron-dense vesicles (also known as zymogen granules). They accumulate in the apical cytoplasm for temporary storage prior to release. The contents of the mature secretory vesicles are discharged from the apical part of the cell by the mechanism of exocytosis.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Serous_Cells'
 

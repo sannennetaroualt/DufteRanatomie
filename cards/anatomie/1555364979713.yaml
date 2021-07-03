@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '%ej(m|WJfo'
+guid: '%ej(m{WJfo'
 
 noteid: '1555364979713'
 
 Title: 'Nails'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.49.50 PM.png">'
-Clinical: '<img src="paste-4008c95ef196a898d5e68e86d84ab3e734d90ee3.jpg">'
-Comment: '<img src="paste-5ece21e078682bccecae0fb392000a49498a335e.jpg">'
+Clinical: '<img src="paste-4008c95ef196a898d5e68e86d84ab3e734d90ee3.jpg"><br>Onychomycosis is a fungal infection of the nail plate that causes fingernails and toenails to thicken, discolor, disfigure, and split. It is difficult to treat because nails grow slowly and receive very little blood supply.'
+Comment: '<img src="paste-5ece21e078682bccecae0fb392000a49498a335e.jpg"><br>Comment: Nails are modifications of the stratum corneum on the dorsum of terminal phalanges of fingers and toes. The eponychium is a superficial layer of epidermis that eventually degenerates during early development, except at the base, where it persists as the cuticle. The nail plate consists of keratin, which is intensely eosinophilic in hematoxylin and eosin sections. It is derived from germinative cells in the nail matrix. The nail bed, or hyponychium, underlies the nail plate. It is similar to the epidermis, except its dermal papillae are aligned parallel to the nail surface. This longitudinal orientation allows the nail plate to move outward.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Nails'
 

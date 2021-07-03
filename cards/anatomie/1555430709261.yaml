@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '!X-T<l51Lq'
+guid: '!X-T<k51Lq'
 
 noteid: '1555430709261'
 
 Title: 'Esophago-Gastric Junction'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.05.18 AM.png">'
-Clinical: '<img src="paste-7e54da2bc0285e0557536a8c9997071af95cfe85.jpg">'
-Comment: '<img src="paste-9f61d36aa9fa9d440981492a90675d0f4ac7c396.jpg">'
+Clinical: '<img src="paste-7e54da2bc0285e0557536a8c9997071af95cfe85.jpg"><br>Inflammation of the esophagus with damage to the epithelium is called esophagitis. Its most common cause is reflux of gastric contents into the lower esophagus, which impairs reparative capacity of esophageal mucosa. Gastroesophageal reflux disease,  a common chronic condition, usually affects adults older than  40 years.'
+Comment: '<img src="paste-9f61d36aa9fa9d440981492a90675d0f4ac7c396.jpg"><br>Comment: An abrupt histologic transition occurs at the esophago- gastric junction. The epithelial lining constitutes a squamocolumnar junction, which is clinically important as it is the most common site of esophageal carcinoma. Known as the Z line, this serrated border is easily identified by endoscopy and shows a typical change in color from pale, above, to deep red, below. Nonkeratinized stratified squamous epithelium changes to simple columnar epithelium of the stomach. Lymphoid tissue aggregates also occur in the lamina propria near the junction.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Esophago-Gastric_Junction'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '0-hj#.A5&d'
+guid: '0-hj#-A5&d'
 
 noteid: '1555433985434'
 
 Title: 'Respiratory Mucosa'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.00.28 PM.png">'
-Clinical: '<img src="paste-1df9b7e101fe0fc2e703cd40ec7a4c8570bed84a.jpg">'
-Comment: '<img src="paste-f4639fe617a8041e0480e992e36f9cda4928371f.jpg">'
+Clinical: '<img src="paste-1df9b7e101fe0fc2e703cd40ec7a4c8570bed84a.jpg"><br>Acute or chronic infections, such as those associated with the common cold, may lead to swelling of the respiratory mucosa (mucous membrane) and respiratory congestion. Sinusitis is a common clinical condition involving inflammation of the mucous membrane of the sinuses. Inflamed sinuses become blocked with mucus and can become infected.'
+Comment: '<img src="paste-f4639fe617a8041e0480e992e36f9cda4928371f.jpg"><br>Comment: The upper airways comprise the conducting (conveys air from outside the body to the lungs) part of the respiratory system. The conducting passageways consist of the nose and paranasal sinuses, pharynx, larynx, trachea, bronchi, and bronchioles. They are lined by respiratory mucosa, which consists of pseudostratified ciliated columnar epithelium with goblet cells and an underlying, richly vascularized lamina propria. Goblet cells produce mucus, which entraps foreign particles. Basal cells in the epithelium rest on a basement membrane and serve as stem cells for continual replacement of the other cells in the epithelium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Respiratory_Mucosa'
 

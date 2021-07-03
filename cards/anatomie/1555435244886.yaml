@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Spk7:ByiJQ'
+guid: 'Spk7:AyiJQ'
 
 noteid: '1555435244886'
 
 Title: 'Proximal Tubule'
 
 OccludedImage: '<img src="paste-cbb362651b75f937aaf0792f98fb27ad6d831f5e.jpg">'
-Clinical: '<img src="paste-f22ae371b59f4a42584ba5fae1a5eb92748c8440.jpg">'
-Comment: '<img src="paste-375e20043b72cefaf9218e4b0da4e05000c6c281.jpg">'
+Clinical: '<img src="paste-f22ae371b59f4a42584ba5fae1a5eb92748c8440.jpg"><br>Acute tubular necrosis—a serious disorder leading to impaired renal function—is characterized by destruction of epithelial cells of proximal and distal tubules. Proximal tubule cells are vulnerable to toxins and ischemia and often show a denuded brush border. This disorder is the most common cause of acute renal failure.'
+Comment: '<img src="paste-375e20043b72cefaf9218e4b0da4e05000c6c281.jpg"><br>Comment: The proximal convoluted tubule is the longest segment of the nephron and comprises most of the cortical parenchyma. Their walls are made of simple columnar epithelium with a finely granular, eosinophilic cytoplasm and a prominent brush border on the luminal surface. Distal tubules, in contrast, are smaller in diameter, and are devoid of a brush border. Proximal tubule cells resorb more than 60% of the glomerular filtrate, and their ultrastructural features are consistent with active transport. Mitochondria with tightly packed internal cristae are large and numerous. Apical parts of cells show tubular invaginations of the cell membrane and many vesicles and canaliculi in the cytoplasm.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Proximal_Tubule'
 

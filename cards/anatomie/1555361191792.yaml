@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '8kmQ4YMjXJ'
+guid: '8kmQ4XMjXJ'
 
 noteid: '1555361191792'
 
 Title: 'Aorta'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.46.42 PM.png">'
-Clinical: '<img src="paste-1ff7ed111b07dceb0295cdc69b9b2b2bad923723.jpg">'
-Comment: '<img src="paste-189b85b6d3af1f9a3493fe46d8d8c6cdf4b59255.jpg">'
+Clinical: '<img src="paste-1ff7ed111b07dceb0295cdc69b9b2b2bad923723.jpg"><br>An aneurysm is an abnormal localized dilatation in the weakened wall of an artery. In the aorta, an aneurysm occurs when the diameter of a portion of this vessel has increased by 50% or more. A true aneurysm develops when all 3 tunics create a large bulge in the aortic wall. When rupture occurs, fatal bleeding may ensue within a few minutes. Atherosclerosis is a major cause of most aortic aneurysms.'
+Comment: '<img src="paste-189b85b6d3af1f9a3493fe46d8d8c6cdf4b59255.jpg"><br>Comment: Elastic arteries conduct blood from the heart to the muscular arteries. They have a large lumen relative to the thickness of their walls. The media constituting the wall of these vessels is the most prominent of the 3 layers. It has an abundance of elastic fibers organized as multiple, concentric, and fenestrated laminae, which are interspersed by scattered, circularly arranged smooth muscle cells. The intima of the elastic artery is relatively thick and makes up as much as 20% of the thickness of its wall. The luminal surface is lined internally by an endothelium made of flattened cells resting on a basal lamina. A deeper, subendothelial layer of connective tissue consists mostly of a mixture of collagen and elastic fibers in ground substance.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Aorta'
 

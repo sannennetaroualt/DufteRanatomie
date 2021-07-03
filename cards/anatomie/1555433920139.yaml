@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ')mlH:J4$CO'
+guid: ')mlH:I4$CO'
 
 noteid: '1555433920139'
 
 Title: 'Pancreatic Acinus'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.59.02 AM.png">'
-Clinical: '<img src="paste-cba627e0b8713090a8c2e51632dc0f53cf94d35f.jpg">'
-Comment: '<img src="paste-b7f44b788e0557240cf02b86c7d37e63048e21a4.jpg">'
+Clinical: '<img src="paste-cba627e0b8713090a8c2e51632dc0f53cf94d35f.jpg"><br>An acute inflammatory disorder of the exocrine pancreas, known as acute pancreatitis, is often associated with alcoholism or excessive alcohol consumption. It may have mild to life-threatening clinical manifestations. Acinar cell injury or pancreatic duct obstruction leads to elevated serum amylase and lipase levels, which are diagnostic markers for this disorder.'
+Comment: '<img src="paste-b7f44b788e0557240cf02b86c7d37e63048e21a4.jpg"><br>Comment: The pancreas is a compound tubulo-acinar gland. Each acinus has a single layer of cuboidal-to-pyramidal shaped acinar cells around a central lumen. The cells secrete several digestive enzymes or their inactive precursors. A salient feature is the presence of initial parts of the excretory duct system, composed of centroacinar cells, which partially protrude into the acinar lumen. Acinar cells are polarized cells with all the organelles needed for protein synthesis for export. Many membrane-bound secretory vesicles are in the apical cytoplasm prior to discharge by exocytosis into the acinar lumen.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Pancreatic_Acinus'
 

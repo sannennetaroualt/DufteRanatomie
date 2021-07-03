@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '0A!vUk*yaI'
+guid: '0A!vUj*yaI'
 
 noteid: '1555365495212'
 
 Title: 'Esophagus'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.58.26 PM.png">'
-Clinical: '<img src="paste-b9d3f06880d04c0c130708edf92841e85957f3eb.jpg">'
-Comment: '<img src="paste-2ff39b833bd50785a518d9b006f6cf41e13cfe3f.jpg">'
+Clinical: '<img src="paste-b9d3f06880d04c0c130708edf92841e85957f3eb.jpg"><br>Barrett esophagus is characterized by metaplasia of the esophageal epithelium whereby simple columnar epithelium similar to that of the stomach replaces the usual stratified squamous epithelium. A burning pain, known as heartburn, is a common  symptom.'
+Comment: '<img src="paste-2ff39b833bd50785a518d9b006f6cf41e13cfe3f.jpg"><br>Comment: The esophagus—a hollow tube about 25 cm long in adults—propels partially digested food from the pharynx to the stomach. Its wall is composed of 4 concentric layers: mucosa, submucosa, muscularis externa, and adventitia. The esophageal mucosa consists of stratified squamous nonkeratinized epithelium, underlying lamina propria, and prominent muscularis mucosae.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Esophagus'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Ss#GWDI4c2'
+guid: 'Ss#GWCI4c2'
 
 noteid: '1555359670491'
 
 Title: 'Eosinophil'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.21.20 PM.png">'
-Clinical: '<img src="paste-8e30c3f8c3fb0b249eca47d7acd160407e4abf29.jpg">'
-Comment: '<img src="paste-acf9ba16406173c30421bc5c021d7f9313b9b62f.jpg">'
+Clinical: '<img src="paste-8e30c3f8c3fb0b249eca47d7acd160407e4abf29.jpg"><br>Eosinophilia is an increase in the absolute number of circulating eosinophils above normal levels. It occurs in allergic reactions, parasitic infestations, and some malignancies. Eosinophils play a central role in controlling parasitic diseases such as schistosomiasis. They kill parasitic helminth worms at the larval stage by releasing toxic molecules from their specific granules.'
+Comment: '<img src="paste-acf9ba16406173c30421bc5c021d7f9313b9b62f.jpg"><br>Comment: Eosinophils make up 1% to 3% of the leukocyte count. They are slightly larger than neutrophils, with a diameter of 12 to  15 um. Their nucleus is typically bilobed, and their specific granules are distinctive, uniform in size, and highly refractile. They have an affinity for acid dyes and stain dark pink to crimson in coloration. Specific granules contain a variety of hydrolytic enzymes. They also secrete histaminase, which inactivates the histamine produced by basophils and mast cells. By electron microscopy, the specific granules of the eosinophil are membrane-bounded and irregular in outline, ranging from ellipsoid to football-shaped, and contain an internal crystalloid core.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Eosinophil'
 

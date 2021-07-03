@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'ZP6_c~e2Fs'
+guid: 'ZP6_c}e2Fs'
 
 noteid: '1555365444209'
 
 Title: 'Striated Ducts'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.57.39 PM.png">'
-Clinical: '<img src="paste-93e53868f7cde69ffcd1d0eb4989689a8a1aea5f.jpg">'
-Comment: '<img src="paste-b28c7a02f8adf6e7a1533e3d8990910a5e8205c7.jpg">'
+Clinical: '<img src="paste-93e53868f7cde69ffcd1d0eb4989689a8a1aea5f.jpg"><br>Oncocytoma—a rare benign neoplasm usually occurring in the parotid—is thought to arise from striated duct cells. Such tumors are composed of oncocytes with granular eosinophilic cytoplasm and a large number of atypical mitochondria.'
+Comment: '<img src="paste-b28c7a02f8adf6e7a1533e3d8990910a5e8205c7.jpg"><br>Comment: Striated ducts are unique to salivary glands. They modify the composition of saliva, making it hypotonic. Basal striations in the simple columnar epithelial cells forming these ducts set them apart from other parts of the duct system. In hematoxylin and eosin sections, the ductal cells are intensely eosinophilic due to high concentrations of mitochondria. The basal striations represent infoldings of the plasma membrane. The ultrastructure of striated ducts is consistent with their role as an ion-transporting epithelium. Basal infoldings of the plasma membrane, which are perpendicular to the base of the cells, dramatically increase surface area for function. Elongated mitochondria are organized in parallel rows between these infoldings. This arrangement facilitates active ion transport by providing energy as ATP at sites where sodium ions (Na2+) are actively resorbed.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Striated_Ducts'
 

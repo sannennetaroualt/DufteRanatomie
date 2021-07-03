@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '%(^;)MzUTR'
+guid: '%(^;)LzUTR'
 
 noteid: '1555365271666'
 
 Title: 'Palate'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.54.42 PM.png">'
-Clinical: '<img src="paste-3bfa00f401186a390c5b9f888f1d820d180ebed4.jpg">'
-Comment: '<img src="paste-352aeb7ac43741cac646ffae74f0674d6b7d8bc3.jpg">'
+Clinical: '<img src="paste-3bfa00f401186a390c5b9f888f1d820d180ebed4.jpg"><br>Cleft palate is a congenital deformity caused by failure of fusion of the palatine processes during gestation. Surgical treatment shortly after birth has highly successful results.'
+Comment: '<img src="paste-352aeb7ac43741cac646ffae74f0674d6b7d8bc3.jpg"><br>Comment: The palate forms the roof of the mouth and separates oral and nasal cavities. The anterior part is the hard palate; the posterior, the soft palate. Masticatory mucosa covers the rigid hard palate that serves as a working surface for the tongue as it presses against the palate during mastication and swallowing. Ducts connect small mucus-secreting palatine glands in the submucosa to the epithelial surface. The soft palate—a mobile fold with a conical projection, called the uvula—closes off the nasopharynx from the oropharynx during swallowing. Unlike the hard palate, the soft palate lacks bone. Mucous glands in the submucosa of the soft palate are near the oral surface. In contrast, mixed seromucous glands are on the nasopharyngeal side.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Palate'
 

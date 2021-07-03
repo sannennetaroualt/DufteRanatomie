@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'U9>9?pN.q)'
+guid: 'U9>9?oN.q)'
 
 noteid: '1555365326573'
 
 Title: 'Teeth'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.55.40 PM.png">'
-Clinical: '<img src="paste-91c65c4d50afc768b5be87d0a70894611fd90498.jpg">'
-Comment: '<img src="paste-9edaf2fdd8ef8e331968a5bfc05178639d0c0ca9.jpg">'
+Clinical: '<img src="paste-91c65c4d50afc768b5be87d0a70894611fd90498.jpg"><br>Tooth decay or dental caries is caused by acid-forming bacteria that dissolve enamel. The bacteria may penetrate deeper layers of teeth into the pulp, leading to pain, local infection, and tooth loss. Fluoridation has dramatically reduced the incidence of caries.'
+Comment: '<img src="paste-9edaf2fdd8ef8e331968a5bfc05178639d0c0ca9.jpg"><br>Comment: Each tooth consists of a free crown, which projects above the gingiva, and 1 or more roots that are embedded in a bony socket (or alveolus) of the jaws. A central pulp chamber extends into root canals, and dental pulp contains blood vessels, lymphatics, and nerves that enter and leave via apical foramina. Three mineralized tissues—dentin, enamel, and cementum—constitute tooth walls. Dentin surrounds the pulp cavity and comprises the bulk of the tooth. It is a hard yet resilient tissue, appearing radially striated because of dentinal tubules. The lumen of a dentinal tubule contains the apical cytoplasmic process of an odontoblast.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Teeth'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'SNhTUX2M-{'
+guid: 'SNhTUW2M-{'
 
 noteid: '1555361687761'
 
 Title: 'Endothelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.55.16 PM.png">'
-Clinical: '<img src="paste-86e8dd80ddeb142e785e83bd0666fbe26dcf8af5.jpg">'
-Comment: '<img src="paste-827560272fb3f510817a38f56074b080163a78a2.jpg">'
+Clinical: '<img src="paste-86e8dd80ddeb142e785e83bd0666fbe26dcf8af5.jpg"><br>A defect in the endothelium nitric oxide system has been implicated in a number of cardiovascular diseases, especially in hypertension and development of atherosclerosis. Nitric oxide gas  is a bioactive molecule that is an important mediator of vascular dilator tone and blood pressure.'
+Comment: '<img src="paste-827560272fb3f510817a38f56074b080163a78a2.jpg"><br>Comment: Endothelium is a simple squamous epithelium that lines the entire cardiovascular system. Endothelial cells serve as a selective permeability barrier, regulate hemostasis, and perform many metabolic and secretory functions including secreting prostaglandins and releasing nitric oxide, as well as actively mediating leukocyte adhesion and transmigration. Endothelial cells rest on a thin basal lamina that they secrete and that separates them from surrounding tissues. Ultrastructurally, their attenuated cytoplasm contains a small Golgi complex, scattered free ribosomes, a few mitochondria, and a sparse rough endoplasmic reticulum. Membrane-bounded vesicles and caveolae, measuring 70 to 90 nm in diameter, are numerous.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Endothelium'
 

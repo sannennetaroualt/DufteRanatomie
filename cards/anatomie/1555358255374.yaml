@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '57WJ7;U&tu'
+guid: '57WJ7:U&tu'
 
 noteid: '1555358255374'
 
 Title: 'Peripheral Ganglia'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.57.44 PM.png">'
-Clinical: '<img src="paste-283c5080aeac748257aa4000caf564f4ab4921cb.jpg">'
-Comment: '<img src="paste-565f5fca4b08f83985c0fd4cf5c7f38d9c6992dc.jpg">'
+Clinical: '<img src="paste-283c5080aeac748257aa4000caf564f4ab4921cb.jpg"><br>Nerve blocks are administered locally to selectively block the neural transmission in sensory nerves or ganglia as a treatment for pain. Short- or long-acting anesthetics as well as other agents such as corticosteroids, opioids, or alcohol are used for nerve block  therapies.'
+Comment: '<img src="paste-565f5fca4b08f83985c0fd4cf5c7f38d9c6992dc.jpg"><br>Comment: Ganglia are aggregations of nerve cell bodies located outside the CNS. They include sensory ganglia of cranial nerves, dorsal root ganglia of spinal nerves, and autonomic ganglia located at various sites in the periphery. They are all derived from neural crest. Nerve cell bodies within the cranial or spinal sensory ganglia are typically pseudounipolar in shape, whereas those in autonomic ganglia are commonly multipolar. Autonomic ganglia usually contain cholinergic synapses between preganglionic and postganglionic neurons, whereas synapses do not occur in the spinal ganglia. Within the ganglion, a single layer of neural crest-derived satellite cells usually surrounds each nerve cell body. Satellite cells are modified Schwann cells and form a continuous investment around the cell bodies of ganglion cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Peripheral_Ganglia'
 

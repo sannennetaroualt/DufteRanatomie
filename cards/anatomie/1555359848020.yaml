@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ';Zor)8<0?J'
+guid: ';Zor)7<0?J'
 
 noteid: '1555359848020'
 
 Title: 'Monocyte'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.24.23 PM.png">'
-Clinical: '<img src="paste-1185fff3ab0bbb7799f1051283082e364a949943.jpg">'
-Comment: '<img src="paste-5027bca4f6f0bf6216441ef469f1e59918bce3fa.jpg">'
+Clinical: '<img src="paste-1185fff3ab0bbb7799f1051283082e364a949943.jpg"><br>Monocytosis is an abnormal rise in the blood monocyte count above 0.8 x 10°/L. Although monocytosis is rare, there are many conditions that may cause it. They include chronic bacterial infections, bacterial endocarditis, typhoid, malaria, syphilis, and protozoan infections.'
+Comment: '<img src="paste-5027bca4f6f0bf6216441ef469f1e59918bce3fa.jpg"><br>Comment: Monocytes are agranular leukocytes that serve as immediate precursors to cells of the mononuclear phagocytic system. They constitute 3% to 8% of the total leukocyte count and are the largest of the leukocytes in blood smears. They measure 12 to 20 um in diameter. They normally circulate in the bloodstream for only 1 to 3 days and perform virtually all their functions outside the circulation. They are actively motile and leave the circulation to enter the connective tissues to become macrophages (or phagocytes). Each cell possesses a nucleus that is variable in form and may be ovoid, kidney, or horseshoe shaped. In contrast to the coarse and darkly stained nuclear chromatin of lymphocytes, the nuclear chromatin of monocytes is finely granular, pale stained, and indented.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Monocyte'
 

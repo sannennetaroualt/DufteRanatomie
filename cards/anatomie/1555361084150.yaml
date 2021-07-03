@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ';o6:!0~p:&'
+guid: ';o6:!Z~p:&'
 
 noteid: '1555361084150'
 
 Title: 'Heart Wall and Pericardium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.45.11 PM.png">'
-Clinical: '<img src="paste-72766742b22f4d928c971c69508e9782246379bf.jpg">'
-Comment: '<img src="paste-28408edff053396ab49ebbd81d6109eb582b26cc.jpg">'
+Clinical: '<img src="paste-72766742b22f4d928c971c69508e9782246379bf.jpg"><br>Pericarditis is an inflammation of the thin mesothelial cell lining of the pericardial surfaces. It is commonly characterized by sharp pain behind the sternum or in the neck or left shoulder and, if left untreated, can lead to accumulation of fluid within the pericardial sac and cardiac tamponade. A pericardiocentesis can be performed to aspirate the fluid from the pericardial cavity.'
+Comment: '<img src="paste-28408edff053396ab49ebbd81d6109eb582b26cc.jpg"><br>Comment: The epicardium, also known as visceral pericardium, consists of 2 layers. A deep layer of loose, fatty, connective tissue functions as a shock absorber to support the branches of the coronary arteries, veins lymphatics, nerve fascicles, and ganglia within the epicardium. On the surface, a covering epithelium consisting of simple squamous to cuboidal mesothelial cells resting on a basal lamina serves to protect and lubricate the heart surface. These cells resemble mesothelial cells that line the pleural and peritoneal cavities, and are mainly secretory. The heart is suspended in a fibroelastic, fluid-filled pericardial sac made of a parietal pericardium that reflects onto the heart surface as the visceral pericardium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Heart_Wall_and_Pericardium'
 

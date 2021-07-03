@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ')6CZ|/0~H6'
+guid: ')6CZ|.0~H6'
 
 noteid: '1555364838135'
 
 Title: 'Hair and its Follicle'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.47.44 PM.png">'
-Clinical: '<img src="paste-defd608d710afd05738c155da605722906039dd6.jpg">'
-Comment: '<img src="paste-dae4327f5f2988bb77230ecf2405db7e1466cb71.jpg">'
+Clinical: '<img src="paste-defd608d710afd05738c155da605722906039dd6.jpg"><br>Baldness (alopecia) occurs in both sexes when there is a change in the hair growth cycle. The most common type of hair loss is androgenetic alopecia, which is caused by genetic and environmental factors. In this progressive disorder, hair follicles gradually become miniaturized in response to the androgen hormone, dihydrostenone (DHT), resulting in hair loss over the top (vertex) of the scalp. Treatments include surgical approaches, such as hair follicle transplantation, and use of topical and systemic medications that promote hair growth.'
+Comment: '<img src="paste-dae4327f5f2988bb77230ecf2405db7e1466cb71.jpg"><br>Comment: Hair follicles are responsible for production of hair. They arise as thickenings of epidermis that proliferate as cords and penetrate the dermis. Cylindrical hair follicles are composed of an epithelial root sheath originating from epidermis and an outermost connective tissue sheath derived from dermis. The epithelial root sheath consists of an external and internal root sheath. The latter, in turn, comprises 3 layers that help secure hair within a follicle: an outer Henle sheath, a Huxley layer of flattened keratinized cells, and a cuticle, which surrounds the cortex and medulla of the hair shaft.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Hair_Follicle'
 

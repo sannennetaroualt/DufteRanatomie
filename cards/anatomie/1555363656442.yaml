@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '$Yz(#[yBtD'
+guid: '$Yz(#@yBtD'
 
 noteid: '1555363656442'
 
 Title: 'Posterior Pituitary'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.27.59 PM.png">'
-Clinical: '<img src="paste-e306eec758b3f78fa7929193848611aeeaa3683a.jpg">'
-Comment: '<img src="paste-a8ad19919b28d78ecaa267d002d0efd8f564aa37.jpg">'
+Clinical: '<img src="paste-e306eec758b3f78fa7929193848611aeeaa3683a.jpg"><br>Damage to the supraoptic and paraventricular nuclei of the hypothalamus or destruction of the hypothalamo-hypophyseal tract may interfere with the production of antidiuretic hormone, leading to the rare condition known as diabetes insipidus. It is characterized by polyuria whereby copious amounts (15 to 20 L) of hypotonic urine are produced daily, and polydipsia, or extreme thirst, with a tendency to drink large quantities of fluid.'
+Comment: '<img src="paste-a8ad19919b28d78ecaa267d002d0efd8f564aa37.jpg"><br>Comment: The two peptide hormones released in the posterior lobe of the pituitary are oxytocin and antidiuretic hormone (also known as vasopressin). Synthesized in the supraoptic and paraventricular nuclei of the hypothalamus, these peptides are conveyed by axoplasmic transport in the hypothalamo-hypophyseal tract to the pars nervosa and are stored in Herring bodies. Here, in response to arrival of an action potential, they are discharged by exocytosis of neurosecretory granules directly to thin-walled sinusoidal capillaries with fenestrae.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Posterior_Pituitary'
 

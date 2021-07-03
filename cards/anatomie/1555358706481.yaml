@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'R&BiEHQ5Vu'
+guid: 'R&BiEGQ5Vu'
 
 noteid: '1555358706481'
 
 Title: 'Chondrocyte'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.09.32 PM.png">'
-Clinical: '<img src="paste-0182ef6a032dd1834ee02866c2fc12f352cac190.jpg">'
-Comment: '<img src="paste-4d1bbaee93ee4764c219b85d84c1127d0518b3d6.jpg">'
+Clinical: '<img src="paste-0182ef6a032dd1834ee02866c2fc12f352cac190.jpg"><br>Growth and activity of chondrocytes, especially those in the growth plate of bones, are highly responsive to growth factors such as insulin-like growth factor 1 (IGF-1). Growth hormone (somatotropin) secreted by the anterior pituitary stimulates the production of IGF-1 by liver cells. In growth hormone deficiency, the production of IGF-1 is compromised, resulting in the slowing of bone elongation and maturation. Synthetic growth hormones can be used for treatment to activate IGF-1 production and subsequent growth of chondrocytes.'
+Comment: '<img src="paste-4d1bbaee93ee4764c219b85d84c1127d0518b3d6.jpg"><br>Comment: Chondrocytes share similar fine structural features of other connective tissue cells, such as fibroblasts and osteoblasts. They synthesize and secrete proteins (e.g., collagen) and ground substance (e.g., proteoglycans, glycosaminoglycans, glycoproteins). In hyaline cartilage, type II collagen fibrils predominate in the matrix and form a loose three-dimensional network. At least two other collagens, types IX and XI, assist in stabilizing the type II collagen fibrils.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Chrondrocyte'
 

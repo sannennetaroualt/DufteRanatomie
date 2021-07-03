@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Q:?c_AzukR'
+guid: 'Q:?c_zzukR'
 
 noteid: '1555357192361'
 
 Title: 'Cardiac Muscle'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.39.57 PM.png">'
-Clinical: '<img src="paste-acfc4111b57a9f326e896e7d7bbd67a5f941bc34.jpg">'
-Comment: '<img src="paste-b32c22fd476139372a69be9b14a1deed71dc49ee.jpg">'
+Clinical: '<img src="paste-acfc4111b57a9f326e896e7d7bbd67a5f941bc34.jpg"><br>In familial dilated cardiomyopathy (DCM), a heritable form of heart failure, mutations exist mostly in cytoskeletal proteins that disrupt intercalated disc morphology by dissociating junctions between myocardial cells and disrupting myofibrillar organization and contractile function. Weakened junctions lead to overstretching and  thinning of the ventricular wall.'
+Comment: '<img src="paste-b32c22fd476139372a69be9b14a1deed71dc49ee.jpg"><br>Comment: The size of cardiac muscle cells is intermediate to that of the cells of skeletal muscle and smooth muscle. Their cytoplasm is eosinophilic in H&E stained sections due to the high content of contractile proteins. The interstitium contains numerous capillaries filled with erythrocytes. Intercalated discs mechanically and electrically link the cells, allowing them to function in a coordinated fashion. The disc is an aggregate of three junctional specializations: desmosomes, fascia adherens, and gap junctions.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::4_Muscle_Tissue::Cardiac_Muscle'
 

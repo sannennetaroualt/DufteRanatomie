@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ',=S|T|`^P-'
+guid: ',=S|T{`^P-'
 
 noteid: '1555364153990'
 
 Title: 'Pineal Gland'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.36.01 PM.png">'
-Clinical: '<img src="paste-7d6f931d7063833cb16a7fc3599296449fbaa945.jpg">'
-Comment: '<img src="paste-4b374e95198666c14aa8451bf8feb8f779ab8c9e.jpg">'
+Clinical: '<img src="paste-7d6f931d7063833cb16a7fc3599296449fbaa945.jpg"><br>In children, the pineal may control gonadal development before puberty via the hypothalamic-pituitary axis by suppressing growth hormone and gonadotropin. Childhood tumors of the pineal result in gonadal hypertrophy and precocious puberty.'
+Comment: '<img src="paste-4b374e95198666c14aa8451bf8feb8f779ab8c9e.jpg"><br>Comment: The pineal is a small, cone-shaped, and richly vascularized neuroendocrine organ. It is ~7 mm long and weighs less than 0.2 g. It projects from the roof of the third ventricle in front of the midbrain and is supplied by both sympathetic and parasympathetic nerves. It is subdivided into poorly defined lobules by delicate connective tissue septae and stroma that extend inward from the capsule formed around the gland by pia mater. The pineal has a predominantly glandular architecture and consists mainly of closely packed and pale stained cells, known as pinealocytes. They are the source of the hormone melatonin, which is released from long terminal expansions of the cells into closely associated fenestrated capillaries. This hormone exerts powerful effects on circadian rhythms and, in some species, regulates reproductive activity. After puberty, mineralized extracellular concretions, called corpora aranacea (or “brain sand”), are a salient feature in the gland.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Pineal_Gland'
 

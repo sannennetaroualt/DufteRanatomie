@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '*:4qm0]zv7'
+guid: '*:4qmZ]zv7'
 
 noteid: '1555435171554'
 
 Title: 'Renal Filtration Barrier'
 
 OccludedImage: '<img src="paste-1e949f31ce2839233889046e1dff6d2b042633cc.jpg">'
-Clinical: '<img src="paste-7136c4741e60d8fce45bac904f0058008dc38c89.jpg">'
-Comment: '<img src="paste-de8162365ab02092fdf06712cac473467f4b5510.jpg">'
+Clinical: '<img src="paste-7136c4741e60d8fce45bac904f0058008dc38c89.jpg"><br>Goodpasture syndrome is a rare antiglomerular basement membrane disease caused by circulating antibodies directed against the glomerular basement membrane. As a severe and progressive glomerulonephritis, it is characterized by altered permeability of the renal filtration barrier with rapid destruction of renal corpuscles. Most patients also have hemorrhage in the lungs due to defective capillary-alveolar basement membranes.'
+Comment: '<img src="paste-de8162365ab02092fdf06712cac473467f4b5510.jpg"><br>Comment: The tripartite renal filtration barrier consisting of glomerular capillary endothelium, basement membrane, and podocyte allows water and ions to pass from a capillary lumen to Bowman’s space but retains large molecules and cells. Pedicels of podocytes interdigitate and envelop the abluminal aspect of the glomerular capillary. Filtration slits between pedicels are bridged by a ribbon-like filtration slit membrane. The basement membrane between endothelium and podocyte is 320 nm to 340 nm wide in humans. It contains laminin, fibronectin, different types of collagen, proteoglycans, and heparan sulfate.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Renal_Filtration_Barrier'
 

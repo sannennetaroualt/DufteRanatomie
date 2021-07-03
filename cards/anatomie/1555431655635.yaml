@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '&@2(1Im>Kg'
+guid: '&@2(1Hm>Kg'
 
 noteid: '1555431655635'
 
 Title: 'Paneth Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.21.12 AM.png">'
-Clinical: '<img src="paste-0fa4de772009eadcba7941ec16728035ab466ede.jpg">'
-Comment: '<img src="paste-fff534b375be44283e36a38fae72c5368d4091d0.jpg">'
+Clinical: '<img src="paste-0fa4de772009eadcba7941ec16728035ab466ede.jpg"><br>In ulcerative colitis, distal metaplasia of Paneth cells accompanies leukocyte infiltration of the lamina propria and distorted architecture of intestinal mucosa. Conversely, a loss of Paneth cells occurs in adult immune enteropathy.'
+Comment: '<img src="paste-fff534b375be44283e36a38fae72c5368d4091d0.jpg"><br>Comment: Paneth cells are in the bases of crypts in the small intestine and appendix. They are most numerous in the ileum, and originate from undifferentiated stem cells, having a lifespan of 20 to 30 days. They mainly produce lysozyme, which regulates bacterial flora in the crypts. In hematoxylin and eosin sections, a distinct feature is the presence of prominent eosinophilic granules in the apical cytoplasm. Ultrastructurally, Paneth cells resemble other protein-secreting cells. The cytoplasm has many tightly packed and polarized organelles above a single, basal nucleus. Golgi-derived secretory vesicles are large and electron-dense. Vesicle contents are discharged by exocytosis by fusion of the vesicle’s limiting membrane with the apical plasma membrane.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Paneth_Cells'
 

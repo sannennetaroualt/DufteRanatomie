@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '.$-p_p~uG>'
+guid: '.$-p_o~uG>'
 
 noteid: '1555364300443'
 
 Title: 'Thick Skin'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.38.27 PM.png">'
-Clinical: '<img src="paste-455599b8dd521b6eb957457fc71847fdc9f914e5.jpg">'
-Comment: '<img src="paste-c253fb4ba478602af3ca22eee9c27d8cfa7da85b.jpg">'
+Clinical: '<img src="paste-455599b8dd521b6eb957457fc71847fdc9f914e5.jpg"><br>Squamous cell carcinoma is associated with long-term exposure to sun and has a greater likelihood of metastasis than basal cell carcinoma. It is the second most common form of skin cancer, and usually occurs in people over the age of 50.'
+Comment: '<img src="paste-c253fb4ba478602af3ca22eee9c27d8cfa7da85b.jpg"><br>Comment: Dermis of thick skin is devoid of pilosebaceous units and is divided into 2 layers, a superficial papillary layer of loose connective tissue and a deeper reticular layer of dense irregular connective tissue. Thick skin typically has a thicker layer of keratin and deeper epidermal ridges than thin skin. The epidermis is stratified squamous epithelium, which consists mostly of keratinocytes organized into 4 to 5 distinct layers (or strata): stratum basale, spinosum, granulosum, and corneum. A poorly defined stratum lucidum, interposed between granulosum and corneum, is often found in thick skin but absent in thin skin. The papillary layer of the dermis is loose, richly vascularized connective tissue. Sensory receptors, such as Meissner’s corpuscles, are typically found in dermal papillae.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Thick_Skin'
 

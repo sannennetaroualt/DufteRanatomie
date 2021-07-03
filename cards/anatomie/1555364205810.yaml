@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '&GJ*PI%3mS'
+guid: '&GJ*PH%3mS'
 
 noteid: '1555364205810'
 
 Title: 'Thin Skin'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.37.24 PM.png">'
-Clinical: '<img src="paste-3774c78ccc90304f10b1ae90bc6d173cc3ed2e16.jpg">'
-Comment: '<img src="paste-f915b6d25db15ab52d13e6db00050c3242e84160.jpg">'
+Clinical: '<img src="paste-3774c78ccc90304f10b1ae90bc6d173cc3ed2e16.jpg"><br>Skin cancer is the most common malignant disease in North America. The 3 major types are basal cell and squamous cell carcinoma (arise from keratinocytes) and melanoma (originates from melanocytes). Basal cell carcinoma accounts for more than 90% of  all skin cancers. It grows slowly and seldom spreads to other parts of the body.'
+Comment: '<img src="paste-f915b6d25db15ab52d13e6db00050c3242e84160.jpg"><br>Comment: The integument is the largest organ of the body. It consists of skin, skin appendages, nails, hair, sweat glands, and sebaceous glands. The total weight and surface area of skin in the adult is 3 to 5 kg and 1.5 to 2 m2, respectively. Skin is a protective barrier against injury, infectious pathogens, and ultraviolet radiation. Skin also assists in body temperature regulation, ion excretion, sensory reception, and vitamin D synthesis. It has a remarkable regenerative capacity. Skin may be classified as thick or thin depending on structural complexity and thickness of the epidermis. Thin skin covers most of the body surface, whereas thick skin is restricted to the palms of the hands and soles of the feet. Dermis of thin skin normally contains most skin appendages, such as hair follicles, sweat, and sebaceous glands.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Thin_Skin'
 

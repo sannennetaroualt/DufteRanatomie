@@ -1,5 +1,5 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'QBvcf.j[dp'
+guid: 'QBvcf-j[dp'
 
 noteid: '1555360002685'
 
@@ -7,7 +7,7 @@ Title: 'Megakaryocyte'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.26.57 PM.png">'
 Clinical: ''
-Comment: '<img src="paste-e43ad5c9b9bf034e246c77b1d1ceba0203df7408.jpg">'
+Comment: '<img src="paste-e43ad5c9b9bf034e246c77b1d1ceba0203df7408.jpg"><br>Comment: Megakaryocytes are the largest cells in bone marrow, measuring 50 to 100 um in diameter. Their lobulated nucleus is highly convoluted and displays coarse chromatin. Its uniquely polyploid nucleus is due to multiple replication of nuclear DNA without division of the cytoplasm. By LM, its homogeneous cytoplasm is lightly basophilic due to the presence of large numbers of free ribosomes and many small azurophilic granules. Platelets are formed by fragmentation of the cytoplasm along demarcation channels at the periphery of these cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Megakaryocyte'
 

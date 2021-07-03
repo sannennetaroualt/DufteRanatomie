@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 's9%>&G]I^'
+guid: 's9%>&G]I]'
 
 noteid: '1555431783179'
 
 Title: 'Rectoanal Junction'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.23.21 AM.png">'
-Clinical: '<img src="paste-3c3586b2e23d84e347358831d2c7e4e81eb9ca06.jpg">'
-Comment: '<img src="paste-08a032b5c132e29f2a272074a2e0076c80f5ea98.jpg">'
+Clinical: '<img src="paste-3c3586b2e23d84e347358831d2c7e4e81eb9ca06.jpg"><br>Hemorrhoids are varicosities in the plexus of hemorrhoidal veins that protrude into the rectum and anal canal, and are classified as either internal or external hemorrhoids. The most common type of rectal cancer is adenocarcinoma. Prognosis and treatment depend on how deeply it invades the rectal wall and surrounding lymph nodes. A high-fat, low-fiber diet is implicated in the development of most colorectal cancers.'
+Comment: '<img src="paste-08a032b5c132e29f2a272074a2e0076c80f5ea98.jpg"><br>Comment: The rectal mucosa resembles that of the colon. It lacks villi and is lined by simple columnar epithelium with an abundance of goblet cells. Intestinal (rectal) crypts are longer than those elsewhere in the colon, and many solitary lymphoid nodules are in the lamina propria. The rectoanal junction is marked by a serrated area of mucosa, known as the pectinate line, where an abrupt change to stratified squamous nonkeratinized epithelium occurs. Submucosa above and below the pectinate line has a plexus of superior and inferior hemorrhoidal veins, respectively.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Rectoanal_Junction'
 

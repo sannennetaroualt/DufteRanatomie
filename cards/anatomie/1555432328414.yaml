@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '2F-29KhAAS'
+guid: '2F-29JhAAS'
 
 noteid: '1555432328414'
 
 Title: 'Hepatic Sinusoid'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.32.28 AM.png">'
-Clinical: '<img src="paste-f28188124db2997e487278fb7ce65b3715a7a6f8.jpg">'
-Comment: '<img src="paste-a4b9dc00f4ff26807c49f2d8fabfd614a6d109b7.jpg">'
+Clinical: '<img src="paste-f28188124db2997e487278fb7ce65b3715a7a6f8.jpg"><br>Cirrhosis of the liver, the end stage of chronic liver disease, is usually caused by alcohol abuse, viral hepatitis, or biliary obstruction. It is characterized by excessive deposition of connective tissue stroma leading to persistent liver cell necrosis and marked disruption in microscopic architecture of the liver. Progression of disease may cause portal hypertension and liver failure.'
+Comment: '<img src="paste-a4b9dc00f4ff26807c49f2d8fabfd614a6d109b7.jpg"><br>Comment: Hepatic sinusoids are in intimate contact with hepatocytes and are highly permeable for rapid exchange. They are drained by terminal branches of hepatic arteries and portal veins, so a mixture of arterial and venous blood is provided to them. Hepatic sinusoids have a diameter of 9-15 um and are larger and less regular in shape than capillaries. Their attenuated walls are lined by flattened endothelial cells interspersed with plumper Kupffer cells. Derived from blood monocytes, Kupffer cells contain numerous endocytotic vesicles, lysosomes, and phagocytosed particulate matter. Kupffer cells remove viruses, bacteria, tumor cells, and parasites from the circulation.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Hepatic_Sinusoid'
 

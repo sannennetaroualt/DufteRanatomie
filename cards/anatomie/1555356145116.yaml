@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'X@1$d%k%aQ'
+guid: 'X@1$d$k%aQ'
 
 noteid: '1555356145116'
 
 Title: 'Plasma Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.22.46 PM.png">'
-Clinical: '<img src="paste-a59e0eee2802f3434997b206a3a6a6c8046cc2f4.jpg">'
-Comment: '<img src="paste-61f241f094f1438262d2d2134c3110e4e57c24d8.jpg">'
+Clinical: '<img src="paste-a59e0eee2802f3434997b206a3a6a6c8046cc2f4.jpg"><br>Multiple myeloma is a disorder that exhibits abnormal plasma cells, known as myeloma cells, which accumulate in the bone marrow and form multiple tumors, mostly within bones.'
+Comment: '<img src="paste-61f241f094f1438262d2d2134c3110e4e57c24d8.jpg"><br>Comment: Plasma cells are mature B-lymphocytes that are specialized for antibody (immunoglobulin) production. Their relatively large cytoplasm appears basophilic due to the high content of RER. Plasma cells are free cells of the connective tissues, able to move slowly through them. Most are distributed widely in the connective tissues throughout the body, especially in the lamina propria of the gastrointestinal tract and in lymphatic organs. They are occasionally found in the peripheral blood and also normally comprise 0.2% to 2.8% of the bone marrow leukocyte count. Mature plasma cells are typically oval shaped, measuring 10 to 20 um in diameter.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::3_Connective_Tissue::Plasma_Cells'
 

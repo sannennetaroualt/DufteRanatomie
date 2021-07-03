@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '.O-s;qcl<Y'
+guid: '.O-s;pcl<Y'
 
 noteid: '1555357577285'
 
 Title: 'Cerebrum'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.46.25 PM.png">'
-Clinical: '<img src="paste-e5780151aa93f3f20964005cd6dfb086f049a360.jpg">'
-Comment: '<img src="paste-936a18f0989b3d82037c34990df6527fdd2d4d34.jpg">'
+Clinical: '<img src="paste-e5780151aa93f3f20964005cd6dfb086f049a360.jpg"><br>Damage to myelin is a common feature of neurologic diseases, leading to blocked axonal conduction, secondary damage to axons, and possible permanent neurologic deficits. Multiple sclerosis is a demyelinating disease that is caused by an autoimmune reaction to the myelin sheath. Destruction of the sheath leads to slower axonal conduction and inflammatory reactions at sites of degeneration.'
+Comment: '<img src="paste-936a18f0989b3d82037c34990df6527fdd2d4d34.jpg"><br>Comment: The cerebrum consists of two hemispheres with an outer cortex of gray matter and a central region of white matter. The cerebral cortex is 1.5 to 4.5 mm thick. Gray matter consists mostly of nerve cell bodies, unmyelinated neuronal processes, and glial cells, whereas white matter consists of tracts of myelinated nerve fibers and associated glia. The CNS contains a rich vascular supply consisting of a profuse network of capillaries, which are typically more abundant in the gray matter. In the spinal cord, gray matter is localized internally and enveloped by an external layer of white matter.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Cerebrum'
 

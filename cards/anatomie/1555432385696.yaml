@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Yv!ikvvW!K'
+guid: 'Yv!ikuvW!K'
 
 noteid: '1555432385696'
 
 Title: 'Bile Duct System'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.33.22 AM.png">'
-Clinical: '<img src="paste-d6598fe1c6da1198af2e9468a8f845a34c61eba8.jpg">'
-Comment: '<img src="paste-c19f9ccb170271fa47bbc12d065f21fe2dd856ad.jpg">'
+Clinical: '<img src="paste-d6598fe1c6da1198af2e9468a8f845a34c61eba8.jpg"><br>Reduced bile flow or formation is known as cholestasis. It may occur within (intrahepatic) or outside (extrahepatic) the liver, and often leads to jaundice—a yellowing of the skin and sclera of the eyes. Many different causes of extrahepatic cholestasis may lead to partial or complete obstruction of the duct system. Intrahepatic cholestasis is a pathologic condition of reduced bile formation. It may be due to an ionic pump abnormality, permeability defect, or altered contractility of canaliculi and bile ducts.'
+Comment: '<img src="paste-c19f9ccb170271fa47bbc12d065f21fe2dd856ad.jpg"><br>Comment: Bile is secreted by hepatocytes into bile canaliculi—the first and smallest biliary passages (about 1 tm in diameter). About 0.5 ml of bile is produced by hepatocytes each minute. Canaliculi, which are intercellular channels between adjacent hepatocytes, are best seen with electron microscopy. Canaliculi, in turn, converge at the periphery of each hepatic lobule to form small intrahepatic bile ducts lined by a single layer of cuboidal epithelial cells. Larger bile ducts with a simple columnar epithelium around a central lumen are, in turn, surrounded by dense irregular connective tissue.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Biliary_Duct_System'
 

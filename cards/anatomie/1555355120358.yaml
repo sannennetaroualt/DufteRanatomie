@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '=5L9vj3k|S'
+guid: '=5L9vi3k|S'
 
 noteid: '1555355120358'
 
 Title: 'Dense Connective Tissue'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.05.27 PM.png">'
-Clinical: '<img src="paste-bcb78ba4b88afcc0673450c2dc154a5b86c3cf76.jpg">'
-Comment: '<img src="paste-e34c674c5e7a963ffe8fe81e63d4c06f5644b89d.jpg">'
+Clinical: '<img src="paste-bcb78ba4b88afcc0673450c2dc154a5b86c3cf76.jpg"><br>Tendinopathies are commonly associated with rheumatoid arthritis. Tendons can become inflamed, weakened, and “click,” or even rupture.'
+Comment: '<img src="paste-e34c674c5e7a963ffe8fe81e63d4c06f5644b89d.jpg"><br>Comment: Connective tissue is the most versatile of the basic tissues and consists of connective tissue proper and specialized forms such as bone, cartilage, and blood. Connective tissue proper includes a range of recognizable histologic types and can be classified as loose or dense connective tissue. Dense connective tissue may have a regular arrangement, as in tendon, or an irregular arrangement, as in the dermis of skin. The main function of the collagen fibers is to impart tensile strength to the tissue.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::3_Connective_Tissue::Dense_Connective_Tissue'
 

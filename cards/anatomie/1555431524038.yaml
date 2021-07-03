@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '4NH#SYAD1C'
+guid: '4NH#SXAD1C'
 
 noteid: '1555431524038'
 
 Title: 'Enterocytes'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.19.02 AM.png">'
-Clinical: '<img src="paste-863e0be7a35ae37ceb52e2848aa7ff2b22113777.jpg">'
-Comment: '<img src="paste-cf7e22296f58710b500f18d14e67216f68878ea7.jpg">'
+Clinical: '<img src="paste-863e0be7a35ae37ceb52e2848aa7ff2b22113777.jpg"><br>Many congenital and acquired malabsorption syndromes affect the ability of enterocytes in the small intestine to adequately absorb, hydrolyze, and transport nutrients across the mucosa. Celiac disease (or gluten enteropathy) is the most common malabsorption syndrome occurring worldwide. It is caused by damage to enterocyte microvilli, which leads to abnormal villous architecture.'
+Comment: '<img src="paste-cf7e22296f58710b500f18d14e67216f68878ea7.jpg"><br>Comment: Enterocytes are cells that line the lumen of the small and large intestine. To enhance surface area, the apical plasma membrane is studded with microvilli. Interdigitating lateral borders of cells contain intercellular junctions that provide a permeability barrier. The cytoplasm contains a wide assortment of tightly packed organelles engaged in many functions such as breakdown of ingested nutrients, absorption, intracellular processing, and active transport.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Enterocytes'
 

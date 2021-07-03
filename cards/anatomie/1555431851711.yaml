@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'V,?YK.l&kC'
+guid: 'V,?YK-l&kC'
 
 noteid: '1555431851711'
 
 Title: 'Liver'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.24.51 AM.png">'
-Clinical: '<img src="paste-d794c62f8fcbb2a8347b32a1fbbafae3f9b60ee4.jpg">'
-Comment: '<img src="paste-a9b6c03c85324a05aa1c472826206c9faf2898b5.jpg">'
+Clinical: '<img src="paste-d794c62f8fcbb2a8347b32a1fbbafae3f9b60ee4.jpg"><br>Liver transplantation is life-saving therapy for patients with chronic end-stage liver disease, advanced cirrhosis, hepatocellular carcinoma, and acute liver failure. In addition to the use of cadaver livers, improved surgical techniques have led to successful live-donor liver transplantation, whereby a part of the organ (commonly the right lobe) from a living donor is transplanted into a recipient (usually a family member).'
+Comment: '<img src="paste-a9b6c03c85324a05aa1c472826206c9faf2898b5.jpg"><br>Comment: The liver—the largest and heaviest internal organ—is the most versatile and vascular. It is an accessory organ of the digestive tract—both exocrine and endocrine. It is wedge-shaped and situated immediately below the diaphragm in the upper right quadrant of the abdominal cavity. It has two main lobes—right and left. Two smaller lobes—caudate and quadrate—on the inferior (visceral) surface are poorly demarcated. The porta hepatis on the visceral surface is the gateway for the common bile duct, portal vein, and hepatic artery.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Liver'
 

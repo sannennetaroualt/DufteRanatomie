@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '+Ua.8QDy3y'
+guid: '+Ua.8PDy3y'
 
 noteid: '1555354089312'
 
 Title: 'Simple Squamous Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.49.52 PM.png">'
-Clinical: '<img src="paste-8b044d52e8cebdc3c9e45d18c37337e2e001a74d.jpg">'
-Comment: '<img src="paste-26919a7a90976eba8166d20f13f763edb8b9a6a1.jpg">'
+Clinical: '<img src="paste-8b044d52e8cebdc3c9e45d18c37337e2e001a74d.jpg"><br>Malignant mesotheliomas are rare and aggressive tumors that can arise from the parietal and visceral serous membranes of the pleural, peritoneal, and pericardial cavities. Pleural mesothelioma—the most common type—is usually caused by occupational exposure to asbestos and can have a long latency period from initial exposure to onset of symptoms.'
+Comment: '<img src="paste-26919a7a90976eba8166d20f13f763edb8b9a6a1.jpg"><br>Comment: Simple squamous epithelium lines visceral cavities, lumina of vessels, and tubules of the body. The epithelium is extremely thin and delicate and is susceptible to histologic artifact during preparation. It serves as an active barrier for rapid diffusion of many substances such as water in the loop of Henle, air diffusion in the lung, endothelium of blood, and lymphatic vessels. It also lines the organs and mesenteries of the thoracic and peritoneal cavities, where it is known as mesothelium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Simple_Squamous_Epithelium'
 

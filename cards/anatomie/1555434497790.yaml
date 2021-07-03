@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '#`MUa?aV-q'
+guid: '#`MUa>aV-q'
 
 noteid: '1555434497790'
 
 Title: 'Clara Cell'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.08.35 PM.png">'
-Clinical: '<img src="paste-df291d6e8ba51ae89fa115bbff373f9aa17e3e98.jpg">'
-Comment: '<img src="paste-0eecd52502642221f2fd842b222198c88b0ddb97.jpg">'
+Clinical: '<img src="paste-df291d6e8ba51ae89fa115bbff373f9aa17e3e98.jpg"><br>Chronic obstructive pulmonary disease (COPD)—characterized by partial obstruction of airflow in the airways—is a group of disorders that includes chronic bronchitis, emphysema, and chronic asthma. Commonly due to cigarette smoking and inhalation of other airborne irritants, COPD is not fully reversible. It leads to loss of airway elasticity and increased mucus production.'
+Comment: '<img src="paste-0eecd52502642221f2fd842b222198c88b0ddb97.jpg"><br>Comment: Clara cells are nonciliated columnar, secretory cells unique to bronchioles. They constitute the majority of epithelial cells lining the lumina of these airways. They are scattered amongst ciliated cells, and their apical surfaces bulge into the bronchiolar lumen. Their apical cytoplasm has abundant smooth endoplasmic reticulum and electron-dense secretory vesicles. Their secretions are believed to play antiinflammatory roles. Clara cells engage in water and electrolyte balance, detoxify inhaled substances, and elaborate a surfactant-like substance. They are also mitotically active stem cells that respond to bronchiolar injury and provide renewal of nonciliated and ciliated bronchiolar epithelial cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Clara_Cell'
 

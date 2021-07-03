@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Xg/qWG$JWd'
+guid: 'Xg/qWF$JWd'
 
 noteid: '1555359254166'
 
 Title: 'Compact Bone'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.14.35 PM.png">'
-Clinical: '<img src="paste-4fcb390b2d7d0e35f1aaee3e65547bf47033c93f.jpg">'
-Comment: '<img src="paste-91a1a141db9670d09ece22cbea078a6839c6785d.jpg">'
+Clinical: '<img src="paste-4fcb390b2d7d0e35f1aaee3e65547bf47033c93f.jpg"><br>Osteoporosis is a systemic skeletal disease characterized by low bone mass and microarchitectural deterioration of bone tissue with a consequent increase in bone fragility and susceptibility to fracture. An imbalance between bone resorption and bone formation causes the disease. While hormone replacement therapy (HRT) in postmenopausal women is effective in slowing the rate of bone loss, there are potentially deleterious side effects of HRT on the cardiovascular system. Administration of calcitonin also inhibits bone resorption and can prevent postmenopausal bone loss.'
+Comment: '<img src="paste-91a1a141db9670d09ece22cbea078a6839c6785d.jpg"><br>Comment: Most bones contain both compact (cortical) and spongy (trabecular) bone. Their relative amounts and distribution within bone varies with age and according to function. Compact bone is limited to the outer shell or cortex of the bone. It is composed of many adjacent Haversian systems, or osteons, that appear round to oval in transverse section and are usually oriented in the long axis of the bone. Each osteon is a cylindrical unit measuring about 250 um in diameter. It consists of a central Haversian canal, which contains small blood vessels and nerves, and is surrounded by 4 to 20 concentrically arranged lamellae.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Compact_Bone'
 

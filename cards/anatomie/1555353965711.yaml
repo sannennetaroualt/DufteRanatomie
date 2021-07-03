@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '8EpB4I5M89'
+guid: '8EpB4H5M89'
 
 noteid: '1555353965711'
 
 Title: 'Classification of Epithelia'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.46.22 PM.png">'
-Clinical: '<img src="paste-575ed11c543d1c4dd03ba03823c7c6807933bc1a.jpg">'
-Comment: '<img src="paste-1b83a4ee350a87293a18f840eb2db61af0409083.jpg">'
+Clinical: '<img src="paste-575ed11c543d1c4dd03ba03823c7c6807933bc1a.jpg"><br>Epithelium is exposed to surfaces where it may be freely accessible to carcinogens. Thus, the most common types of cancerous tumors (or neoplasms) in adults originate from epithelial cells. Neoplasms that are slow growing are benign tumors, whereas those that invade (or metastasize) to distant tissues and organs are malignant tumors.'
+Comment: '<img src="paste-1b83a4ee350a87293a18f840eb2db61af0409083.jpg"><br>Comment: Epithelium is composed of continuous sheets of cells that line internal cavities and exposed surfaces of the body. It can also form glands within underlying connective tissue. The main function of epithelium is to serve as a selective barrier that protects tissues. Epithelial cells can engage in synthesis, secretion, absorption, and sensory reception. They have a high mitotic index due to mechanical stress and trauma at their free surface.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Epithelia_Classification'
 

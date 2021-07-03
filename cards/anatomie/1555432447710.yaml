@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'OGaY}R##Ar'
+guid: 'OGaY}Q##Ar'
 
 noteid: '1555432447710'
 
 Title: 'Gallbladder'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.34.12 AM.png">'
-Clinical: '<img src="paste-e426c3fe775aa3cae5549128e0f48858a00f29c1.jpg">'
-Comment: '<img src="paste-f7e1e682b4c7aad8991c7512bb68bde0b0ed578b.jpg">'
+Clinical: '<img src="paste-e426c3fe775aa3cae5549128e0f48858a00f29c1.jpg"><br>Cancers arising from the epithelium of the gallbladder and the biliary tract are rare. Definitive diagnosis is difficult, and overall prognosis is usually poor. In most patients, chronic gallbladder inflammation typically caused by gallstones is a major contributing factor. At diagnosis, most patients have regional lymph node metastasis and tumor invasion to adjacent organs.'
+Comment: '<img src="paste-f7e1e682b4c7aad8991c7512bb68bde0b0ed578b.jpg"><br>Comment: The gallbladder is a pear-shaped hollow organ that measures 3 to 5cm in diameter and 10 cm long. It stores bile and concentrates it by absorbing water and electrolytes. The organ has a capacity of about 50 ml and drains through the cystic duct, which connects to both the liver and duodenum by the biliary duct system. Histologically, the gallbladder wall consists of 3 layers: a mucosa, a muscularis, and an adventitia or serosa. The mucosa of an empty or contracted gallbladder shows many folds lined by simple columnar epithelium, which flatten out when the organ fills with bile.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::14_Liver_Gallbladder_Exocrine_Pancreas::Gallbladder'
 

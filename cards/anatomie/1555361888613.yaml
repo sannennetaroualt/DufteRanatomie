@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '&?YuGgn8pn'
+guid: '&?YuGfn8pn'
 
 noteid: '1555361888613'
 
 Title: 'Lymphatic Vessel'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.58.22 PM.png">'
-Clinical: '<img src="paste-3e394845109a40e6bf653e8162401acfb4685d50.jpg">'
-Comment: '<img src="paste-7c2dc8fadbe04f11dfd8a2cf9c3814ee152075f0.jpg">'
+Clinical: '<img src="paste-3e394845109a40e6bf653e8162401acfb4685d50.jpg"><br>Lymphedema is a condition in which protein-rich fluid accumulates in the interstitial spaces of tissues. It often involves the swelling of the extremities and results from blockage of lymphatic vessels. These complications typically occur after lymph node resection, surgical procedures on blood vessels in limbs, and in radiation therapy of lymph nodes to treat cancer.'
+Comment: '<img src="paste-7c2dc8fadbe04f11dfd8a2cf9c3814ee152075f0.jpg"><br>Comment: Lymphatic capillaries are delicate, anastamosing channels. They begin as blind-ended dilatations (10 to 50 um wide) and are often found close to blood capillaries. They constitute a drainage system. They absorb lymph, which is a protein-rich exudate of blood, as well as electrolytes and water, from the blood capillaries. This fluid normally fills the extracellular connective tissue spaces, and some of it is reabsorbed back into the venous end of blood capillaries. However, excess fluid, together with wandering lymphocytes and other cells, are continually taken up by lymphatic capillaries and eventually added back to the systemic circulation. They thus play a role in homeostasis by regulating interstitial fluid pressure and maintaining plasma volume.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Lymphatic_Vessel'
 

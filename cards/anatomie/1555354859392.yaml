@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Yp1>%.tJkr'
+guid: 'Yp1>%-tJkr'
 
 noteid: '1555354859392'
 
 Title: 'Mucous Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.00.52 PM.png">'
-Clinical: '<img src="paste-0187689331d1f4d706eee08d358392d6b39e8996.jpg">'
-Comment: '<img src="paste-e2a9523b84ad8a33ba620921cbe5d044b77474ee.jpg">'
+Clinical: '<img src="paste-0187689331d1f4d706eee08d358392d6b39e8996.jpg"><br>Excessive mucus production in the respiratory system can be caused by an immune response to allergens (e.g., asthma), chronic obstructive pulmonary disease (COPD), pollutants, infection, or by genetic diseases such as cystic fibrosis. Excess mucus blocks airway passages and leads to wheezing and dyspnea.'
+Comment: '<img src="paste-e2a9523b84ad8a33ba620921cbe5d044b77474ee.jpg"><br>Comment: Mucus (or mucin) is a highly viscous glycoprotein that provides protection and lubrication to surfaces. Cells that produce mucus have a wide distribution in the body. They are found either singly as goblet cells in the epithelium of the digestive, respiratory, and reproductive tracts or in groups organized as tubules or acini. Most notably, they are encountered in the major and minor salivary glands of the oral cavity that are either purely mucous or mixed sero- mucous in composition. Because mucus droplets that dominate in the cytoplasm are dissolved out by most histologic methods, the cytoplasm is typically pale staining and vacuolated in routine hematoxylin and eosin sections.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Mucous_Cells'
 

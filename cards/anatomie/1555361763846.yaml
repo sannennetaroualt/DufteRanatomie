@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '*w~xPOdnV?'
+guid: '*w~xPNdnV?'
 
 noteid: '1555361763846'
 
 Title: 'Tight Capillary'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.56.32 PM.png">'
-Clinical: '<img src="paste-16caca8e432705936efb1abd0ffe4e082fdd34e2.jpg">'
-Comment: '<img src="paste-f7bc9a7d6a180fd6b262723328c5490e2c0f4c04.jpg">'
+Clinical: '<img src="paste-16caca8e432705936efb1abd0ffe4e082fdd34e2.jpg"><br>Pericytes and their branching processes partially surround capillaries. These mesenchymally derived pleuripotential stem cells are able to differentiate into endothelial cells, fibroblasts, or smooth muscle cells in the walls of capillaries and other blood vessels, particularly in response to injury or when stimulated by growth  factors.'
+Comment: '<img src="paste-f7bc9a7d6a180fd6b262723328c5490e2c0f4c04.jpg"><br>Comment: Tight capillaries, the most common type of capillary, are found in muscle tissues and in regions where a blood tissue barrier exists. These include the blood-brain barrier, blood-air barrier in the lungs, and the blood-thymus, blood-ocular, and blood-testis barriers. Tight capillaries have an uninterrupted endothelium that selectively restricts the indiscriminate passage of material from capillary lumen to surrounding tissues. Numerous tight junctions, as well as desmosomes and gap junctions, link the endothelial cells in tight capillaries. Although lipids and lipid-soluble molecules, including gases, diffuse freely across the endothelial cell membrane, water-soluble molecules are shuttled across the endothelial cell by small, spherical transcytotic vesicles.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Tight_Capillary'
 

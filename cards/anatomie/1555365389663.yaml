@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '&;g8:guX~r'
+guid: '&;g8:fuX~r'
 
 noteid: '1555365389663'
 
 Title: 'Salivary Glands'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.56.27 PM.png">'
-Clinical: '<img src="paste-87c2dc1c53c0c3c0e823953f984159a236b14888.jpg">'
-Comment: '<img src="paste-778bce4fd4a5d609a20e49dab4fa39dd68084140.jpg">'
+Clinical: '<img src="paste-87c2dc1c53c0c3c0e823953f984159a236b14888.jpg"><br>The oral mucosa is the point of entry for pathogens and irritants from the outside into the digestive and respiratory tracts. Repair of oral mucosa in response to disease or infection is much more efficient than that of skin because there is almost no scar formation after injury.'
+Comment: '<img src="paste-778bce4fd4a5d609a20e49dab4fa39dd68084140.jpg"><br>Comment: Three pairs of major salivary glands—parotid, submandibular, and sublingual—and several minor salivary glands produce saliva, and empty secretory products via ducts in the oral cavity. Saliva is a watery, viscous suspension of mucus, enzymes, inorganic ions, and antibodies. It lubricates and protects oral tissues and is an aqueous solvent for taste. It also aids control of microbial flora in the oral cavity (via immunoglobulins) and inhibits dental caries (via bacterial lysozyme). The parenchyma of salivary glands is organized into lobules of varying size, which are separated by intervening stroma made of connective tissue.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Salivary_Glands'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '9wQZLZiyM}'
+guid: '9wQZLYiyM}'
 
 noteid: '1555353920202'
 
 Title: 'Cytoskeleton'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.45.36 PM.png">'
-Clinical: '<img src="paste-4dd8be0ab50004267b8eb6b9bd4800ee9d6ad473.jpg">'
-Comment: '<img src="paste-0ef83954c89e68bdc15e491092207eb800dbf648.jpg">'
+Clinical: '<img src="paste-4dd8be0ab50004267b8eb6b9bd4800ee9d6ad473.jpg"><br>Microtubule targeting drugs, such as Taxol and Vinblastine, are used in cancer therapies to treat many human malignancies. They prevent mitotic spindle formation in tumor cells by inhibiting cell division at the metaphase/anaphase transition. Whereas taxol mainly acts to stabilize microtubules, vinblastine blocks mitosis by depolymerizing microtubules.'
+Comment: '<img src="paste-0ef83954c89e68bdc15e491092207eb800dbf648.jpg"><br>Comment: Microtubules are hollow, semirigid cylindrical organelles of uniform diameter (25 nm) but extremely variable in length and are particularly abundant in neurons, platelets, leukocytes, and dividing cells. They form a major component of the cytoskeleton by helping to provide mechanical strength and establish cell shape. They engage in intracellular transport of organelles (such as mitochondria and cytoplasmic vesicles), ciliary and flagellar motility, mitotic spindle formation, chromosome translocation, and cytokinesis during cell division. They are not bound by a membrane, and their walls are composed of linear polymers (or protofilaments) of the globular protein, tubulin. Microtubules are the main constituent of cilia, flagella, and centrioles.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Cytoskeleton'
 

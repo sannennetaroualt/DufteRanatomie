@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ':PEfn[aSA?'
+guid: ':PEfn@aSA?'
 
 noteid: '1555356402104'
 
 Title: 'Skeletal Muscle'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.26.58 PM.png">'
-Clinical: '<img src="paste-e6d197e11e7668eb780b62d9c3eefbdaa6ec63e5.jpg">'
-Comment: '<img src="paste-1e82ed7d5f3a0aa3b24b75543cbb6fae07ade361.jpg">'
+Clinical: '<img src="paste-e6d197e11e7668eb780b62d9c3eefbdaa6ec63e5.jpg"><br>Duchenne muscular dystrophy is an X-linked genetic disorder caused by a deficiency of dystrophin, a large sarcolemmal- associated cytoskeletal protein. Dystrophin is required to maintain mechanical integrity of the cell during contraction by anchoring elements of the cytoskeleton. Young boys are mainly affected, and myodegeneration progresses with age.'
+Comment: '<img src="paste-1e82ed7d5f3a0aa3b24b75543cbb6fae07ade361.jpg"><br>Comment: When viewed in the longitudinal plane, skeletal muscle fibers show an alternating series of transverse bands or striations. Striations are due to adjacent myofibrils in lateral register with each other across the width of the fiber. The cylindrical myofibrils are surrounded by a membranous network, collectively termed the sarcotubular system that is involved in excitation-contraction coupling. Transverse tubules are sarcolemmal invaginations that allow membrane depolarizations to travel deep into the muscle fiber and stimulate calcium release from the sarcoplasmic reticulum.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::4_Muscle_Tissue::Skeletal_Muscle'
 

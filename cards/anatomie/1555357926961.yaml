@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '.{n0Gj}7{#'
+guid: '.{n0Gi}7{#'
 
 noteid: '1555357926961'
 
 Title: 'Blood-Brain Barrier'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.52.35 PM.png">'
-Clinical: '<img src="paste-a0f7dee21ca01263fbddd4c37c8ec79bc59802c2.jpg">'
-Comment: '<img src="paste-4ed6af4d00b317ca227c58ef546f38074b7b74dc.jpg">'
+Clinical: '<img src="paste-a0f7dee21ca01263fbddd4c37c8ec79bc59802c2.jpg"><br>Encephalitis is an inflammation of the parenchyma of the brain. Acute encephalitis is most commonly a viral infection, whereas a form that leads to abscess formation usually implies a highly destructive bacterial infection of brain tissue.'
+Comment: '<img src="paste-4ed6af4d00b317ca227c58ef546f38074b7b74dc.jpg"><br>Comment: While the blood-brain barrier restricts the passage of large molecules from the capillary lumen to the surrounding tissue, it allows free passage of gases and selected molecules such as glucose. The barrier protects neurons in the CNS from toxins, drugs, and other potential harmful substances that may enter the bloodstream. Most antibiotics such as penicillin do not cross the barrier in sufficient quantities due to their large molecular weight and low degree of lipid solubility. A few regions of the brain are devoid of a blood-brain barrier and contain capillaries that are highly permeable and of the fenestrated variety. These areas include the pineal gland, posterior pituitary, and parts of the hypothalamus.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Blood-Brain_Barrier'
 

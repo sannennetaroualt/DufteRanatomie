@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '7Ub|oV;!G%'
+guid: '7Ub|oU;!G%'
 
 noteid: '1555361831211'
 
 Title: 'Fenestrated Capillary'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.57.33 PM.png">'
-Clinical: '<img src="paste-06761112463faf53376e2373fd4100b45c71c0d6.jpg">'
-Comment: '<img src="paste-976485ebf32cafa8f0eed0082ab8b24f9fdc1af3.jpg">'
+Clinical: '<img src="paste-06761112463faf53376e2373fd4100b45c71c0d6.jpg"><br>Membranous glomerulopathy, the most common nephrotic syndrome in Caucasian adults, is characterized by proteinuria and decreased glomerular filtration rate in the kidneys. Accumulation of immune complexes and thickening of the basement membrane in the walls of fenestrated glomerular capillaries are pathologic features of  this disease.'
+Comment: '<img src="paste-976485ebf32cafa8f0eed0082ab8b24f9fdc1af3.jpg"><br>Comment: Because fenestrated capillaries are highly permeable, they are found in areas engaged in fluid transport and secretion of hormones. They occur mainly in the lamina propria of the intestines, glomeruli of renal corpuscles, choroid plexus of the brain, choriocapillaris of the eye, and all endocrine organs. Although their endothelial cells resemble those of tight capillaries in their content of transcytotic vesicles and other cytoplasmic organelles, their endothelium is extremely thin, often measuring 0.1 um or less, and contains numerous fenestrae (60 to 80 nm in diameter) usually spanned by a thin diaphragm. Fenestrae are important to allow the rapid diffusion of fluid and larger molecules (e.g., hormones) from secretory cells to the bloodstream. Glomerular capillaries in the kidney are devoid of diaphragms but are surrounded by a thick basal lamina.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Fenestrated_Capillary'
 

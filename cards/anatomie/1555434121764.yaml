@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '>%$U+$yl*+'
+guid: '>%$U+#yl*+'
 
 noteid: '1555434121764'
 
 Title: 'Larynx and Vocal Cord'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.02.12 PM.png">'
-Clinical: '<img src="paste-e32b46bf39fbd983125d16a6979f830d87390c56.jpg">'
-Comment: '<img src="paste-e5b6be9c2c38bf1cedb2fee8b5803ef52d3f2614.jpg">'
+Clinical: '<img src="paste-e32b46bf39fbd983125d16a6979f830d87390c56.jpg"><br>Most cancers of the larynx are laryngeal squamous cell carcinomas. They are usually associated with advancing age and often tend to metastasize to distant sites. Cigarette smoking and chronic ingestion of alcohol are risk factors. Symptoms include hoarseness or other voice changes and persistent cough. Diagnosis is by physical examination and laryngoscopy.'
+Comment: '<img src="paste-e5b6be9c2c38bf1cedb2fee8b5803ef52d3f2614.jpg"><br>Comment: The larynx, which plays a critical role in phonation (speech), lies between pharynx and trachea and is 4cm to 5cm long. Part of the conducting part of the respiratory system, it contains 2 sets of prominent folds—the false (or ventricular) and true vocal folds (or cords). Whereas false vocal folds contain mixed seromucous glands, true vocal cords contain elastic fibers into which skeletal muscle fibers of the vocalis muscle insert. Stratified squamous nonkeratinized epithelium normally covers the true vocal cords, which are subject to wear-and-tear induced by friction. Vibration of the vocal cords controls airflow and results in the production of sounds during phonation. Closure of the larynx during swallowing also prevents food from entering the lower airways.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Larynx_and_Vocal_Cord'
 

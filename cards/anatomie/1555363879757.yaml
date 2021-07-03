@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '06vFBT4]~+'
+guid: '06vFBS4]~+'
 
 noteid: '1555363879757'
 
 Title: 'Adrenal'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.31.30 PM.png">'
-Clinical: '<img src="paste-21f4065a90293a708004ca24434edf5c06f3ba2c.jpg">'
-Comment: '<img src="paste-c825fe139a3ced2ef0a7e2a22f9e2b0f6f02581c.jpg">'
+Clinical: '<img src="paste-21f4065a90293a708004ca24434edf5c06f3ba2c.jpg"><br>Pheochromocytoma is a neoplasm of the adrenal medulla that occurs mostly in adults. The neoplasm arises from the catecholamine-producing cells of the adrenal medulla, and  the ensuing elevated levels of epinephrine and norepinephrine in the blood lead to sustained or intermittent high blood pressure.'
+Comment: '<img src="paste-c825fe139a3ced2ef0a7e2a22f9e2b0f6f02581c.jpg"><br>Comment: The adrenals have a rich vascular supply. The cortex receives blood from arterioles in the capsule that enter the gland and branch into sinusoidal fenestrated capillaries; these pass downward into all 3 layers of the cortex. At the corticomedullary junction,  they drain into veins that enter the medulla. Some arterioles from the capsule pass directly into the medulla and drain into sinusoidal fenestrated capillaries, which subsequently lead into collecting veins. Thus, the medulla has a dual blood supply from cortical capillaries and from medullary vessels. Venous blood from both the cortex and medulla is eventually drained by a large central vein, which exits at the hilus of the gland as the adrenal (or suprarenal) vein.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Adrenal'
 

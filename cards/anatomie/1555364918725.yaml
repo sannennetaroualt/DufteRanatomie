@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ',+?^k!@29&'
+guid: ',+?^k9@29&'
 
 noteid: '1555364918725'
 
 Title: '<div>Sebaceous Gland</div>'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.48.58 PM.png">'
-Clinical: '<img src="paste-67245673a99d5d0b43558b677c4b18881130bf33.jpg">'
-Comment: '<img src="paste-535df67d0720803bf1f19ee6aff26957bdbdb42f.jpg">'
+Clinical: '<img src="paste-67245673a99d5d0b43558b677c4b18881130bf33.jpg"><br>Sebaceous glands are under hormonal control and enlarge during puberty, when they produce a substantial amount of sebum, which may lead to development of acne in adolescents.'
+Comment: '<img src="paste-535df67d0720803bf1f19ee6aff26957bdbdb42f.jpg"><br>Comment: Sebaceous glands are usually associated with hair and are located between a hair follicle and its arrector pili muscle in the dermis. They are holocrine glands in which part of the secretory product, known as sebum, is made of lipid-rich decomposed cells. These simple or branched alveolar glands are pale staining and ovoid. The lipid of sebum is synthesized in abundant smooth endoplasmic reticulum, and aggregates as lipid droplets in well- developed Golgi complex. Holocrine secretion involves breakdown of the entire sebaceous cell: lysosomal enzymes are responsible for this autolysis. Sebum is a complex oily mixture of lipids (glycerides, free fatty acids, and cholesterol). It reduces water loss from the skin surface and lubricates hair. It may also protect skin from infection and bacteria.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Sebaceous_Gland'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '#ql8;=5,e)'
+guid: '#ql8;<5,e)'
 
 noteid: '1555358074575'
 
 Title: 'Spinal Cord'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.54.53 PM.png">'
-Clinical: '<img src="paste-a7b951392f75b926ec1d87169a20f8fa6b166ad7.jpg">'
-Comment: '<img src="paste-6c6ddbdff4921234feadc826ba70200ed47808e2.jpg">'
+Clinical: '<img src="paste-a7b951392f75b926ec1d87169a20f8fa6b166ad7.jpg"><br>Amyotrophic lateral sclerosis, also known as Lou Gehrig disease, is a progressive neuromuscular disorder caused by a destruction of specific nerve cells in the brain and spinal cord. It belongs to a class of disorders known as motor neuron diseases and results in the loss of nervous control of skeletal muscles, leading to degeneration and atrophy of the muscle fibers. Ultimately, the respiratory muscles are affected, leading to death due to an inability to breathe.'
+Comment: '<img src="paste-6c6ddbdff4921234feadc826ba70200ed47808e2.jpg"><br>Comment: White matter of the spinal cord consists of ascending and descending tracts of myelinated nerve fibers, whereas the gray matter consists chiefly of cell bodies and unmyelinated nerve fibers. The gray matter has two ventral horns and two dorsal horns connected at the center by an isthmus of gray commissures. The cell bodies of motor neurons are easily identified in the anterior horn due to their relatively large size and Niss! substance within their cytoplasm. Sensory nerve fibers enter the spinal cord via the dorsal horns, and motor nerve fibers exit from the ventral horns as spinal nerves.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Spinal_Cord'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'YsIjFhQQ-s'
+guid: 'YsIjFgQQ-s'
 
 noteid: '1555363834745'
 
 Title: 'Adrenal'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.30.49 PM.png">'
-Clinical: '<img src="paste-1c7a412cf927ee646ac283e73b93a694a661d442.jpg">'
-Comment: '<img src="paste-81ee7e4c0f5a417f16cd398c1602d4e3ff51ed5b.jpg">'
+Clinical: '<img src="paste-1c7a412cf927ee646ac283e73b93a694a661d442.jpg"><br>Conn’s disease, or hyperaldosteronism, is a disorder of the adrenal cortex that occurs predominantly in women. It is often caused by a tumor of the adrenal gland (adrenal adenoma). Symptoms include increased aldosterone secretion and subsequent sodium retention resulting in hypertension.'
+Comment: '<img src="paste-81ee7e4c0f5a417f16cd398c1602d4e3ff51ed5b.jpg"><br>Comment: The paired adrenal glands are located on the superior pole of each kidney. They are roughly triangular, flattened, encapsulated glands. They are about 7 cm long, 3cm high, and 1 cm thick. Their combined weight is about 10 g. Each is a composite organ composed of 2 distinct portions—a cortex and medulla—that differ structurally, functionally, and developmentally. Although the adrenal cortex is essential to life, the medulla is not. The outer cortex comprises 90% of the gland. It has a yellow color to the naked eye, and its secretory cells produce mineralocorticoids (e.g., aldosterone), corticosteroids (e.g., cortisol), and androgens (e.g., testosterone). The inner medulla contains chromaffin cells, which are the source of the catecholamines—epinephrine and norepinephrine—and are stored in their secretory granules.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Adrenal'
 

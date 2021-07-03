@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ';uK_%jMl$A'
+guid: ';uK_%iMl$A'
 
 noteid: '1555431075263'
 
 Title: 'Enteroendocrine Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.11.48 AM.png">'
-Clinical: '<img src="paste-5e5b1bfcbc53cd3c305bc9628c561cd1457cda16.jpg">'
-Comment: '<img src="paste-181f31823553ac9132970c134afa0e0a95a6b138.jpg">'
+Clinical: '<img src="paste-5e5b1bfcbc53cd3c305bc9628c561cd1457cda16.jpg"><br>Rare and slow-growing carcinoid tumors develop from hormone- producing cells of the gastrointestinal tract. The most common sites of origin are the appendix, small intestine, and rectum. Since they arise from enteroendocrine cells, such tumors retain the capacity to produce hormones in large quantities. According to the type of hormone produced by the tumor cells, carcinoid tumors cause a wide variety of signs and symptoms.'
+Comment: '<img src="paste-181f31823553ac9132970c134afa0e0a95a6b138.jpg"><br>Comment: More than 30 gastrointestinal hormones are produced by enteroendocrine cells in the digestive tract. These cells are diffusely scattered in the epithelium from esophagus to colon. While difficult to see in routine sections, immunocytochemistry and electron microscopy can reveal them. They make up a family of cells comprising the neuroendocrine system that produce powerful effects on target cells and tissues. Small membrane-bound secretory vesicles abound in their cytoplasm.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Enteroendocrine_Cells'
 

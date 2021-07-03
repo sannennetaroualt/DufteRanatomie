@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '7.m)6VCWN9'
+guid: '7.m)6UCWN9'
 
 noteid: '1555435095192'
 
 Title: 'Renal Corpuscle and Podocytes'
 
 OccludedImage: '<img src="paste-ca3b263a4115ca5c04af394f7e3d0606300401fb.jpg">'
-Clinical: '<img src="paste-48b8415fedd56abacd41ce9fb4963c6282cea321.jpg">'
-Comment: '<img src="paste-fafbfef7cd5e4bec4b279e355753bd5e9592fa8b.jpg">'
+Clinical: '<img src="paste-48b8415fedd56abacd41ce9fb4963c6282cea321.jpg"><br>A common type of adult nephrotic syndrome is the immune- mediated disease—membranous glomerulonephritis. Diagnosis made by biopsy, immunofluorescence microscopy, and electron microscopy shows thickening of the glomerular basement membrane due to the presence of subepithelial immune deposits. Fusion of podocyte processes, also seen in this disorder, alters renal filtration.'
+Comment: '<img src="paste-fafbfef7cd5e4bec4b279e355753bd5e9592fa8b.jpg"><br>Comment: The organization of the renal corpuscle is consistent with its role in glomerular filtration, transport, and permeability. The complex filter through which fluid passes from blood in glomerular capillaries to the urinary (Bowman’s) space comprises 3 distinct, closely apposed parts: glomerular capillary endothelium, intervening basement membrane, and visceral layer of Bowman’s capsule made of podocytes. Lining glomerular capillaries is an attenuated endothelium with multiple fenestrae that lack diaphragms and are highly permeable. Each podocyte is a highly modified epithelial cell that resembles an octopus perched on the outside of the capillary.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Renal_Corpuscle_and_Podocytes'
 

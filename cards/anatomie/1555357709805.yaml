@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ';:q|RqnZlB'
+guid: ';:q|RpnZlB'
 
 noteid: '1555357709805'
 
 Title: 'Neuron'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.48.39 PM.png">'
-Clinical: '<img src="paste-15288a92e8efae6d62ce2c504bb5e5ed161d4e0b.jpg">'
-Comment: '<img src="paste-03482b4745e5865de89eaf43286bc749d1f00ecb.jpg">'
+Clinical: '<img src="paste-15288a92e8efae6d62ce2c504bb5e5ed161d4e0b.jpg"><br>Senile dementia of the Alzheimer’s type, or Alzheimer disease, is characterized by progressive memory loss. The histopathologic hallmark of Alzheimer disease is an increased number of neuritic, or “senile” plaques, occurring mostly in the cerebral cortex. They are composed of tortuous neuritic processes formed mainly by degenerative presynaptic endings, which surround a central amyloid core. Other histologic features include proliferation of intracytoplasmic neurofibrillary tangles.'
+Comment: '<img src="paste-03482b4745e5865de89eaf43286bc749d1f00ecb.jpg"><br>Comment: The neuronal cell body is the trophic center of the nerve cell and varies considerably in size and shape depending on the type of neuron and its specific location in the CNS. Reflecting its role in genetic regulation and transcription, the nucleus of a typical neuron is euchromatic with small patches of peripherally displaced heterochromatin immediately under the nuclear envelope. The nucleus is usually spherical to ovoid in shape, and its size is large relative to the surrounding perikaryon.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::5_Nervous_Tissue::Neuron'
 

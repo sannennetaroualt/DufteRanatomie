@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'YZvi-rcvl,'
+guid: 'YZvi-qcvl,'
 
 noteid: '1555434269823'
 
 Title: 'Tracheal Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.04.46 PM.png">'
-Clinical: '<img src="paste-e47fd6f38347b0a5e5852ffda578cfbbc3ffb54e.jpg">'
-Comment: '<img src="paste-4ebf35b8464f5a0449bec5110b8574e1901f0160.jpg">'
+Clinical: '<img src="paste-e47fd6f38347b0a5e5852ffda578cfbbc3ffb54e.jpg"><br>Cystic fibrosis is a genetic disorder caused by defective Cl ion transport in mucous cells of seromucous glands in the respiratory tract. Resulting thick and sticky mucus predisposes patients to developing severe and life-threatening lung infections. Gene therapy is a promising curative approach to this disease.'
+Comment: '<img src="paste-4ebf35b8464f5a0449bec5110b8574e1901f0160.jpg"><br>Comment: The surface epithelium of the trachea consists mainly of tall, ciliated columnar cells intermixed with goblet-shaped mucous cells (goblet cells) and small, rounded to triangular basal cells. Ciliated columnar cells bear apical cilia, which beat synchronously to sweep entrapped particles toward the oral cavity. Goblet cells have distinctive shapes and produce a surface layer of mucus, which traps foreign particulate matter. Small, basal cells immediately above the basement membrane are stem cells for continuous cellular renewal. A basement membrane supports the epithelium, separating it from underlying lamina propria. Deeply situated seromucous glands deliver secretions via small ducts to the luminal surface.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Tracheal_Epithelium'
 

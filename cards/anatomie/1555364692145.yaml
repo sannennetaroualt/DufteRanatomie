@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Ou}h0a(I)Z'
+guid: 'Ou}h0~(I)Z'
 
 noteid: '1555364692145'
 
 Title: 'Eccrine Sweat Gland'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.45.17 PM.png">'
-Clinical: '<img src="paste-ce90723975e8658ce5dc1215f213a881752321d6.jpg">'
-Comment: '<img src="paste-95d8b46eb9a38d91523018819e11c927a7118805.jpg">'
+Clinical: '<img src="paste-ce90723975e8658ce5dc1215f213a881752321d6.jpg"><br>Cystic fibrosis (CF) is characterized by defective ion reabsorption by excretory ducts of eccrine sweat glands. The gene responsible for this autosomal recessive congenital disease encodes a membrane- associated protein, which usually resides in apical membranes of epithelial cells.'
+Comment: '<img src="paste-95d8b46eb9a38d91523018819e11c927a7118805.jpg"><br>Comment: Eccrine sweat glands are simple, coiled tubular glands consisting of a secretory (acinar) portion and a narrower excretory duct portion. They mainly serve a thermoregulatory role and may produce as much as 500 mL-750 mL of sweat daily in response to thermal and emotional stimuli. Two types of secretory cells—clear and dark—comprise the secretory acini. Clear cells primarily secrete water and electrolytes, whereas dark cells contribute macromolecular substances, such as glycoproteins, to sweat. Small, intensely eosinophilic myoepithelial cells at the base of the acinus help expel sweat into the lumen of the gland.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Eccrine_Sweat_Gland'
 

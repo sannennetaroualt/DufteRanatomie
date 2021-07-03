@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'U!H.>4}d`X'
+guid: 'U!H.>3}d`X'
 
 noteid: '1555365213943'
 
 Title: 'Tongue'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.53.50 PM.png">'
-Clinical: '<img src="paste-3d56c409149d906389cd95207a8bf271d1edbe3f.jpg">'
-Comment: '<img src="paste-47387af7f36ec2b6944288a27811b306121ca030.jpg">'
+Clinical: '<img src="paste-3d56c409149d906389cd95207a8bf271d1edbe3f.jpg"><br>Although oral cancers are relatively rare, major risk factors for the development of squamous cell carcinoma of the tongue are alcohol consumption and tobacco use. Lingual carcinomas are more common in men than in women.'
+Comment: '<img src="paste-47387af7f36ec2b6944288a27811b306121ca030.jpg"><br>Comment: The tongue is a mobile, muscular organ covered externally by a mucous membrane. Smooth nonkeratinized stratified squamous epithelium covers its undersurface, but keratinized mucosa covers the roughened dorsal surface on the anterior two- thirds of the tongue. Three main types of surface projections—lingual papillae—are seen. Due to differences in form, they are called filiform, fungiform, and circumvallate papillae. Circumvallate papillae are the largest with a diameter of up to 3 mm. They are either keratinized or incompletely keratinized. Each is countersunk beneath the surface and is surrounded by a trench-like circular furrow. Serous glands of von Ebner deep in the lamina propria drain into the base of each furrow, their watery secretions clearing it of debris.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::12_Upper_Digestive::Tongue'
 

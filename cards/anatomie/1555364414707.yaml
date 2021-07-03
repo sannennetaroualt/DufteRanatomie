@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '%}N!UDSN/n'
+guid: '%}N!UCSN/n'
 
 noteid: '1555364414707'
 
 Title: 'Keratinocytes'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.40.30 PM.png">'
-Clinical: '<img src="paste-9844f8a0444fcfc3d1673fd1baf5357bbe26044b.jpg">'
-Comment: '<img src="paste-b32352df9e03a9f4033a12ccf2eab9ed4f8f4db6.jpg">'
+Clinical: '<img src="paste-9844f8a0444fcfc3d1673fd1baf5357bbe26044b.jpg"><br>Some debilitating blistering disorders of skin result from disrupted epidermal adhesion and attachment. Pemphigus is the most common disease with anti-keratinocyte cell surface antibodies;  the related bullous pemphigoid causes subepidermal blisters.'
+Comment: '<img src="paste-b32352df9e03a9f4033a12ccf2eab9ed4f8f4db6.jpg"><br>Comment: All epithelial cells contain keratins, and almost 50 different types of keratins are found in skin. Keratinocytes of the strata basale and spinosum are connected by desmosomes.  These complex intercellular junctions mediate and enhance cellular adhesion by anchoring keratin filaments to keratinocyte plasma membranes. A desmosome between 2 adjacent keratinocytes consists of a central core region that bridges the gap between cells and separates 2 identical electron-dense plaques. The tonofilaments of the cytoskeleton are associated with the cytoplasmic plaque regions. By linking tonofilament bundles of adjacent cells, desmosomes provide the epidermis with structural continuity and mechanical strength.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Keratinocytes'
 

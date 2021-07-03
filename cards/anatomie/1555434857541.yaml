@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '!@-BnrPt8|'
+guid: '!@-BnqPt8|'
 
 noteid: '1555434857541'
 
 Title: 'Kidney'
 
 OccludedImage: '<img src="paste-a104488819cdfb310914b2a9e5b7207e1b9cc4c3.jpg">'
-Clinical: '<img src="paste-19caadf9ee5d8caee3c6412dea1b1a90335c2ec0.jpg">'
-Comment: '<img src="paste-0a658988cd51a048e1038153a553767decc033bb.jpg">'
+Clinical: '<img src="paste-19caadf9ee5d8caee3c6412dea1b1a90335c2ec0.jpg"><br>Wilms’ tumor (or nephroblastoma) is a malignant tumor of the kidney in infants and children. Histologically, tumor cells form cords resembling fetal kidney consisting of immature mesenchymal tissue mingled with abortive glomeruli and renal tubules. Loss of the growth-regulating gene WT-1 probably causes the tumor. It is highly  responsive to treatment; surgery and chemotherapy result in fairly effective cures.'
+Comment: '<img src="paste-0a658988cd51a048e1038153a553767decc033bb.jpg"><br>Comment: The kidneys are compound tubular glands covered by a thin fibrous capsule of dense connective tissue. They are flattened and bean-shaped with an indented slit, or hilum, through which blood vessels, ureters, nerves, and lymphatics pass. The kidneys filter blood and produce urine. Urine formation involves filtration, secretion, and reabsorption of fluid by renal corpuscles and tubules. The parenchyma is divided into a dark outer cortex, a lighter striated medulla, and a funnel-shaped pelvis. The medulla has 12 to 15 renal pyramids, which drain urine into minor and major calyces of the pelvis, and subsequently to the ureter.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Kidney'
 

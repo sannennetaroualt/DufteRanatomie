@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '/`,gDAG{1d'
+guid: '/`,gDzG{1d'
 
 noteid: '1555359747427'
 
 Title: 'Basophil'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.22.42 PM.png">'
-Clinical: '<img src="paste-f6b658d2e47f860e8bca0804ddfe3f849b6f3ed0.jpg">'
-Comment: '<img src="paste-0b3b08056df919c2f071da32424bb039485cef72.jpg">'
+Clinical: '<img src="paste-f6b658d2e47f860e8bca0804ddfe3f849b6f3ed0.jpg"><br>Basophilia—an elevated basophil count in peripheral blood—rarely occurs in most benign conditions. Mild basophilia may be part of a generalized inflammatory response to some infections, for example, smallpox, chicken pox, or influenza. It also occurs in allergic disorders or autoimmune inflammation such as rheumatoid arthritis or ulcerative colitis.'
+Comment: '<img src="paste-0b3b08056df919c2f071da32424bb039485cef72.jpg"><br>Comment: Basophils are the least numerous of leukocytes, comprising less than 1% of the normal leukocyte count. They are the smallest of the granulocytes and measure 8 to 10 um in diameter. They possess large and distinctive specific granules that are intensely basophilic and fill the cytoplasm of the cell. The nucleus of each cell is often irregular in shape or bilobed. In blood smears, it is commonly obscured by the many closely packed basophilic granules, which are often more deeply stained than the chromatin of the nucleus. The granules contain histamine and heparin; basophils also produce platelet-activating and eosinophilic chemotaxic factors that exert powerful pharmacologic effects outside the circulation.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Basophil'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'XG84$8QQNM'
+guid: 'XG84$7QQNM'
 
 noteid: '1555364362359'
 
 Title: 'Epidermis'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.39.35 PM.png">'
-Clinical: '<img src="paste-508e721a75566d12728af644a43f1787bfbb9422.jpg">'
-Comment: '<img src="paste-c1bdfc680253608c657f12f6a68670c93a8d47ee.jpg">'
+Clinical: '<img src="paste-508e721a75566d12728af644a43f1787bfbb9422.jpg"><br>Pigmentation disorders of skin can result from a change in the number of melanocytes or a decrease or increase in their activity. Leukoderma in association with inflammatory disorders of the skin, such as atopic dermatitis, and vitiligo, are 2 more common disorders of hypopigmentation.'
+Comment: '<img src="paste-c1bdfc680253608c657f12f6a68670c93a8d47ee.jpg"><br>Comment: The epidermis consists of cells that undergo mitosis, differentiation, maturation, and keratinization as they are displaced outward toward the skin surface to be shed. Four or five distinct layers constitute the epidermis: stratum basale, spinosum, granulosum, lucidum, and corneum. The most superficial cells are continuously shed in a process known as keratinization. Besides keratinocytes, which make up 90% of the cell population, other epidermal cell types are melanocytes, Langerhans cells, and Merkel cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Epidermis'
 

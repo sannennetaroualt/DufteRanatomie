@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '(KP/?^Cy-^'
+guid: '(KP/?]Cy-^'
 
 noteid: '1555354431557'
 
 Title: 'Stratified Squamous Keratinized Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.54.31 PM.png">'
-Clinical: '<img src="paste-eb793da3a2a432aa791ec7b5ca146883bc034f40.jpg">'
-Comment: '<img src="paste-43c8897745749920c303a52f4f83fea04a27763a.jpg">'
+Clinical: '<img src="paste-eb793da3a2a432aa791ec7b5ca146883bc034f40.jpg"><br>Basal cell and squamous cell carcinoma are the most common types of skin cancer. These malignant growths can be caused by overexposure to the sun, chemicals, burns, or genetic disease. Diagnosis can usually be made by a simple biopsy of the affected area, and tumors are often removed surgically.'
+Comment: '<img src="paste-43c8897745749920c303a52f4f83fea04a27763a.jpg"><br>Comment: Stratified squamous keratinized epithelium is a tough and resilient epithelium that is mainly protective against abrasion and dehydration. It also prevents invasion of pathogens, bacteria, and other infectious agents. In the epidermis of skin, the surface layer contains dead cells devoid of nuclei. Their cytoplasm is transformed into plates of the protein keratin, which strengthens and waterproofs the tissue. This epithelium has a dry and scale-like surface. It also lines the outer surface of the tympanic membrane, parts of the oral cavity, and mucocutaneous junctions. The keratinized epithelium that constitutes the epidermis of skin is renewed every 15 to 30 days.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Stratified_Squamous_Keratinized_Epithelium'
 

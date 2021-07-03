@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '#4omYd-#QH'
+guid: '#4omYc-#QH'
 
 noteid: '1555353745860'
 
 Title: 'Cytoplasm'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.42.34 PM.png">'
-Clinical: '<img src="paste-64e50a9245bac2b4b0e42d21229c3a94677cc971.jpg">'
-Comment: '<img src="paste-31b91b30381aabf86d2b6c54a37cceb8996d8825.jpg">'
+Clinical: '<img src="paste-64e50a9245bac2b4b0e42d21229c3a94677cc971.jpg"><br>Zellweger (or cerebrohepatorenal) syndrome is a pero xisomal disorder that usually leads to abnormalities in the brain, kidneys, and  liver. Affected infants die soon after birth, which is most likely due to faulty neural cell myelination in utero.'
+Comment: '<img src="paste-31b91b30381aabf86d2b6c54a37cceb8996d8825.jpg"><br>Comment: The cytoplasm is a complex aqueous gel made of water (about 70%), proteins, lipids, carbohydrates, and organic and inorganic molecules. Organelles and inclusions are in the cytoplasm. Electron-dense glycogen particles within the cytoplasm form aggregates and are not membrane-bound. Peroxisomes are enveloped by a single membrane and contain crystalline or strand- like deposits. Mitochondria are distinguished from peroxisomes by an inner and outer membrane.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::1_The_Cell::Cytoplasm'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'XgS2T-D6LD'
+guid: 'XgS2T,D6LD'
 
 noteid: '1555364064706'
 
 Title: 'Islet of Langerhans'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.34.49 PM.png">'
-Clinical: '<img src="paste-4ae627e0e190c703983f3920b125496ca00e5c27.jpg">'
-Comment: '<img src="paste-ba3fb47de867aca8830f0900ebe096b245646497.jpg">'
+Clinical: '<img src="paste-4ae627e0e190c703983f3920b125496ca00e5c27.jpg"><br>Islet transplantation has been used with varying success as a therapeutic technique to restore the insulin secretion in type 1 diabetes. However, because of the high numbers of islets required, limited donor pool, and the risk of rejection from donors, it remains limited in use. Further advances in tissue engineering of islets may provide a future for this technique.'
+Comment: '<img src="paste-ba3fb47de867aca8830f0900ebe096b245646497.jpg"><br>Comment: The predominant feature of islet cells is the abundance of membrane-bounded secretory vesicles of varying size and internal density within their cytoplasm. Islet cells are arranged in cords with their free surfaces in close contact with fenestrated capillaries. Their location in the islet, size, and internal morphology of secretory vesicles permit islet cells to be separated into at least four main types with specific hormone associations—alpha cells: glucagon; beta cells: insulin; delta (D) cells: somatostatin; and F-cells: pancreatic polypeptide.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Islet_of_Langerhans'
 

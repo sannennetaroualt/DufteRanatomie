@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'VY]B?QQx3.'
+guid: 'VY]B?PQx3.'
 
 noteid: '1555435029847'
 
 Title: 'Renal Corpuscle'
 
 OccludedImage: '<img src="paste-8f7521dd031d30db95bd2030ba5c2cef1e86ee94.jpg">'
-Clinical: '<img src="paste-a70bb48aeaf711a199205eaf5bc1a19a8a61d9ae.jpg">'
-Comment: '<img src="paste-5fcbfa6c0ada58d049a2f0faa7b675e8dab853a5.jpg">'
+Clinical: '<img src="paste-a70bb48aeaf711a199205eaf5bc1a19a8a61d9ae.jpg"><br>Alport syndrome is an inherited progressive nephropathy, which can be evaluated via biopsy or electron microscopy. A genetic mutation results in abnormal type IV collagen in the glomerular basement membrane and leads to renal failure. Patients have blood (hematuria) and protein in urine, which is due to leakage of  erythrocytes and plasma proteins across the defective basement membrane.'
+Comment: '<img src="paste-5fcbfa6c0ada58d049a2f0faa7b675e8dab853a5.jpg"><br>Comment: The spherical renal corpuscles in the renal cortex are 200 um in diameter. They have a vascular pole (where afferent and efferent arterioles enter and leave) and a urinary pole (where the proximal tubule begins). Each corpuscle has an epithelial part—the renal corpuscle—and a vascular part—a tuft of glomerular capillaries (formed by an afferent arteriole and drained by an efferent arteriole). Bowman’s capsule consists of an outer (parietal) layer of simple squamous epithelium and an inner (visceral) layer of podocytes. A basement membrane intervenes between podocytes and endothelial cells of glomerular capillaries.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Renal_Corpuscle'
 

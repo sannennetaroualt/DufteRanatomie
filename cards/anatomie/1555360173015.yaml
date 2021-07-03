@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '6LMC~LY[Nx'
+guid: '6LMC~KY[Nx'
 
 noteid: '1555360173015'
 
 Title: 'Erythropoeisis and Granulocytopoeisis'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.29.40 PM.png">'
-Clinical: '<img src="paste-1ae6f38cb02ef76ef57abdd2b05174657f0a7e41.jpg">'
-Comment: '<img src="paste-2f9a0ea10c3b224cb9443966d110e869f9d4799d.jpg">'
+Clinical: '<img src="paste-1ae6f38cb02ef76ef57abdd2b05174657f0a7e41.jpg"><br>Aplastic anemia is a hematologic disorder caused by failure of the bone marrow. It is usually defined as a pancytopenia or reduction in the blood cell count of all the major cell lines of the erythroid and myeloid series. Common clinical signs are bruising or bleeding due to a low platelet count, infection due to diminished production of white blood cells, and lethargy due to reduction in red blood cells and low hemoglobin.'
+Comment: '<img src="paste-2f9a0ea10c3b224cb9443966d110e869f9d4799d.jpg"><br>Comment: All the mature cells of blood are ultimately derived from pleuripotential stem cells in bone marrow. They have capacity for prolonged self-renewal, asymmetric replication, and differentiation. Four types of colony-forming units (CFU) are committed to the production of granulocytes and monocytes, erythrocytes, platelets, and lymphocytes, respectively. The erythroid developmental sequence includes the proerythroblast, basophilic erythroblast, polychromatophilic erythroblast, normoblast, and erythroblast. The myeloid sequence includes myeloblast, promyelocyte, myelocyte, metamyelocyte, band cell, and mature granular leukocyte (e.g., neutrophil, eosinophil, or basophil).'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Erythropoeisis_and_Granulocytopoeisis'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Tr<1wh&Q|O'
+guid: 'Tr<1wg&Q|O'
 
 noteid: '1555363936591'
 
 Title: 'Spongiocyte'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.32.28 PM.png">'
-Clinical: '<img src="paste-4c6f8c0d9c8dbdc900248f3749e4b9250815a900.jpg">'
-Comment: '<img src="paste-d96b1381048959bd6473fa918c3bd8dd79c4e483.jpg">'
+Clinical: '<img src="paste-4c6f8c0d9c8dbdc900248f3749e4b9250815a900.jpg"><br>Addison disease, or primary adrenocortical insufficiency, is a disorder of the adrenal cortex leading to inadequate production of glucocorticoid and mineralocorticoid hormones. It may result from incomplete development of the adrenal cortex or its progressive destruction by autoimmune disease or severe infection, such as tuberculosis or idiopathic atrophy.'
+Comment: '<img src="paste-d96b1381048959bd6473fa918c3bd8dd79c4e483.jpg"><br>Comment: Spongiocytes of the adrenal cortex contain nonmembrane-bound lipid droplets that are storage sites for cholesterol, a precursor to corticosteroid hormones. Cholesterol is shuttled to mitochondria, where it is further processed and modified. Mitochondria in these cells play a role in the cleavage of cholesterol, and the surface area of their internal cristae is increased to accommodate catalytic enzymes involved in this process. The membranes of the smooth endoplasmic reticulum (SER) also contain enzymes involved in subsequent modification and synthesis of hormone. As a general rule, these steroid-secreting cells do not store their secretory products, but synthesize them only when needed. Lipid-soluble hormones are released into the bloodstream in adjacent fenestrated capillaries.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Spongiocyte'
 

@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'O[;4JnYqqo'
+guid: 'O[;4JmYqqo'
 
 noteid: '1555434066809'
 
 Title: 'Epiglottis'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.01.21 PM.png">'
-Clinical: '<img src="paste-f3357aa9d9906e9de8cf44ef2b46e0942b3ee80d.jpg">'
-Comment: '<img src="paste-f51b72f9c88f0fd8577665953c7900175be980a9.jpg">'
+Clinical: '<img src="paste-f3357aa9d9906e9de8cf44ef2b46e0942b3ee80d.jpg"><br>A common congenital anomaly of infancy is laryngomalacia—an abnormal flaccidity of the epiglottis due to faulty maturation of its cartilage. It leads to epiglottal prolapse and partial upper airway obstruction during inspiration. Rarely life threatening, it is the most common cause of noisy breathing (stridor) in infants.'
+Comment: '<img src="paste-f51b72f9c88f0fd8577665953c7900175be980a9.jpg"><br>Comment: The epiglottis is an unpaired leaf-shaped structure that covers the entrance to the larynx during swallowing. Highly flexible elastic cartilage in the central core forms a supportive framework. Because the lingual surface of the epiglottis is subject to wear-and- tear, it is covered by stratified squamous nonkeratinized epithelium. It changes to a stratified columnar, and, then, pseudostratified epithelium on the laryngeal surface. Small seromucous glands are scattered in the underlying connective tissue. At rest, the epiglottis is usually upright and allows air to pass into the larynx and the rest of the lower respiratory airways. During swallowing, it folds back like a flap to cover the entrance to the larynx, to prevent food and liquid from entering the trachea.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Epiglottis'
 

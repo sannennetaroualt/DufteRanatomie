@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'SS7ED0Mr*}'
+guid: 'SS7EDZMr*}'
 
 noteid: '1555364561744'
 
 Title: 'Langerhans Cells'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.43.00 PM.png">'
-Clinical: '<img src="paste-56c81ccabd108296751a5c915137b8ed2d6e1abc.jpg">'
-Comment: '<img src="paste-97612784844113c05cf56e79c94ab6af10014f37.jpg">'
+Clinical: '<img src="paste-56c81ccabd108296751a5c915137b8ed2d6e1abc.jpg"><br>Langerhans cells increase in number in various inflammatory conditions, such as contact dermatitis. The rare autoimmune histiocytosis X also involves Langerhans cells. In addition, these cells are depleted in late stages of acquired immunodeficiency syndrome (AIDS), where human immunodeficiency virus (HIV) particles are located.'
+Comment: '<img src="paste-97612784844113c05cf56e79c94ab6af10014f37.jpg"><br>Comment: Langerhans cells are monocyte-derived dendritic cells found in superficial layers of the stratum spinosum and stratum granulosum of the epidermis of skin. They account for 2% to 8% of the total epidermal cell population. They require special stains or electron microscopy to positively identify them. They have a single, highly indented nucleus. Their cytoplasm contains a Golgi complex, lysosomes, and unique inclusions known as Birbeck granules. They are phagocytic and antigen-processing cells of the immune system.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::11_Integumentary::Langerhans_Cells'
 

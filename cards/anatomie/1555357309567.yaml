@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'Y9w-{Ur0_/'
+guid: 'Y9w-{Tr0_/'
 
 noteid: '1555357309567'
 
 Title: 'Cardiac Conduction System'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.40.54 PM.png">'
-Clinical: '<img src="paste-97bf8ca75c45ca8090bda8ecf6d3a80581697cd5.jpg">'
-Comment: '<img src="paste-550880b7ac9b3851c7a770884ce03b5fade3b652.jpg">'
+Clinical: '<img src="paste-97bf8ca75c45ca8090bda8ecf6d3a80581697cd5.jpg"><br>Ventricular tachycardia (faster than normal heart rhythm originating in one of the ventricles) is a cardiac conduction disturbance that may lead to more severe ventricular fibrillation (abnormal disorganized heart rhythm). Many ventricular arrhythmias are initiated by Purkinje fibers via enhanced automaticity because of their unique propagation properties and anatomic distribution.'
+Comment: '<img src="paste-550880b7ac9b3851c7a770884ce03b5fade3b652.jpg"><br>Comment: Purkinje fibers, which are modified cardiac muscle cells, are scattered along the innermost part of the myocardium adjacent to the endocardium. They are found especially in the interventricular septum, organized into discrete bundles and embedded in connective tissue. They are part of the cardiac conduction system, which includes fibers specialized for conduction of electrical impulses. Purkinje fibers are larger and thicker than ordinary cardiac muscle cells and have scattered myofibrils around the cell periphery. Their glycogen content is greater than that in ordinary cardiac muscle cells. Purkinje fibers thus appear pale and washed-out in routine H&E.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::4_Muscle_Tissue::Cardiac_Conduction_System'
 

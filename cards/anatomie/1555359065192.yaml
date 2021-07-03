@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '/d;4faJa5M'
+guid: '/d;4f~Ja5M'
 
 noteid: '1555359065192'
 
 Title: 'Growth Plate'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.11.23 PM.png">'
-Clinical: '<img src="paste-270b9741222167426b57dbd53e83c1827408962f.jpg">'
-Comment: '<img src="paste-d085dc094b7003b23d0e56e76478882350697f14.jpg">'
+Clinical: '<img src="paste-270b9741222167426b57dbd53e83c1827408962f.jpg"><br>Achondroplasia is a rare, autosomal dominant disorder of epiphyseal growth plates of developing long bones. Chondrocytes in the growth plates fail to proliferate in endochondral ossification, resulting in premature fusion of the epiphyses with the diaphyses. Because the bones of the face and skull normally develop by intramembranous ossification, they are not affected. Failure of long  bones to elongate results in a form of dwarfism characterized by short limbs but normal body size.'
+Comment: '<img src="paste-d085dc094b7003b23d0e56e76478882350697f14.jpg"><br>Comment: In the fetus, hyaline cartilage forms a provisional skeleton, which is replaced by endochondral bone formation. Soon after fetal life and up to adolescence, hyaline cartilage at epiphyseal growth plates is responsible for the growth, elongation, and shape of long bones. The cartilagenous growth plates in a typical long bone are confined to its 2 ends and provide temporary scaffolding on which new bone is laid down. The growth plate promotes apposition of new hyaline cartilage at the end facing the epiphysis. This is followed by cartilage destruction in lower regions and its replacement to primary spongy bone in the deepest region, the metaphysis.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::6_Cartilage_and_Bone::Growth_Plate'
 

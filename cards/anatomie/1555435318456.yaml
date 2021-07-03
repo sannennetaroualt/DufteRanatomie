@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '.9GQl,<Nkf'
+guid: '.9GQl+<Nkf'
 
 noteid: '1555435318456'
 
 Title: 'Collecting Duct'
 
 OccludedImage: '<img src="paste-f14d2a9c4e3a6493447225cb62c7aab4f73632f7.jpg">'
-Clinical: '<img src="paste-b08d6e4c36fa7dde9c304c4acd639b8742556075.jpg">'
-Comment: '<img src="paste-b32b62c006d5d8c424e69912da2679776d8bd796.jpg">'
+Clinical: '<img src="paste-b08d6e4c36fa7dde9c304c4acd639b8742556075.jpg"><br>Renal cell carcinoma is a diverse group of malignant tumors of the kidney, which arise from different parts of the uriniferous tubule in the cortex or medulla. Although rare, collecting duct carcinoma is the most aggressive of renal neoplasms. It is a histologically distinct tumor with a tendency to metastasize rapidly. It has a poor prognosis, frequently leading to death.'
+Comment: '<img src="paste-b32b62c006d5d8c424e69912da2679776d8bd796.jpg"><br>Comment: Collecting tubules are 40 to 200 um in diameter as they approach the renal pelvis as collecting ducts. Their walls are composed of simple cuboidal to low columnar epithelium. Lining cells bulge into the lumen and have a single, rounded nucleus. Two types of epithelial cells of collecting ducts—light (principal) and dark (intercalated) cells—likely represent different functional stages. Dark cells play a more active role in urine acidification and have more organelles than light cells. Collecting ducts take urine from nephrons to the renal pelvis. Under control of antidiuretic hormone (ADH) from the pituitary, collecting ducts resorb water, regulate acid-base balance, and concentrate urine.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::16_Urinary::Collecting_Duct'
 

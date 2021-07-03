@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '#FjHtrqEWM'
+guid: '#FjHtqqEWM'
 
 noteid: '1555430850214'
 
 Title: 'Stomach'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 11.07.36 AM.png">'
-Clinical: '<img src="paste-278814e4b2f2bae3c11c6548ca23d2f21361d8b7.jpg">'
-Comment: '<img src="paste-c3e0acb7c3a742d1551e371f47ae85f2118a9c3b.jpg">'
+Clinical: '<img src="paste-278814e4b2f2bae3c11c6548ca23d2f21361d8b7.jpg"><br>Hiatus (diaphragmatic) hernia is a common clinical condition in which the upper part of the stomach prolapses into the mediastinum through the opening (hiatus) of the diaphragm. It is common in people over the age of 60, and affects more women than men. Although usually asymptomatic, it may interfere with reflux barrier mechanisms, resulting in reflux of gastric contents into the  esophagus.'
+Comment: '<img src="paste-c3e0acb7c3a742d1551e371f47ae85f2118a9c3b.jpg"><br>Comment: The stomach is an expandable fibromuscular sac that stores and mixes food. It has a capacity of 1.5 L to 3 L when distended. It comprises 4 anatomic regions: cardia, fundus, body, and pylorus. As in other parts of the digestive tract, its wall has 4 concentric layers: mucosa, submucosa, muscularis externa, and serosa. The mucosa—the thickest layer—is 0.3 mm-1.5 mm deep, and shows irregular longitudinal folds, known as rugae, which flatten as the stomach expands. The epithelium regularly dips to form small gastric pits, or foveolae, which lead to long tubular gastric glands.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::13_Lower_Digestive::Stomach'
 

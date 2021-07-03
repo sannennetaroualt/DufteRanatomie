@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '@Yg3d07zF&'
+guid: '@Yg3dZ7zF&'
 
 noteid: '1555434449153'
 
 Title: 'Bronchiole'
 
 OccludedImage: '<img src="Screen Shot 2019-04-16 at 12.07.41 PM.png">'
-Clinical: '<img src="paste-a6eff29fd7d8c80c1e974ca49877a578888aea50.jpg">'
-Comment: '<img src="paste-e10bc203726789762161df2279fe33c3ff01d281.jpg">'
+Clinical: '<img src="paste-a6eff29fd7d8c80c1e974ca49877a578888aea50.jpg"><br>Bronchioles are affected in asthma—a common clinical condition— whereby hypercontraction of bronchiolar smooth muscle causes excessive narrowing of the bronchiolar lumen and increases resistance to airflow. Symptoms of dyspnea, coughing, respiratory distress, and wheezing result from bronchial spasm, bronchial wall edema in bronchi and bronchioles, and hypersecretion of mucous glands.'
+Comment: '<img src="paste-e10bc203726789762161df2279fe33c3ff01d281.jpg"><br>Comment: Intrapulmonary airways are characterized by successive, dichotomous branching, with about 20 generations extending from the bronchi to the respiratory bronchioles. Terminal bronchioles are distal to bronchi and lead into respiratory bronchioles, which have small, spherical alveolar outpocketings in their walls. Bronchioles are 1mm or less in diameter and have very thin walls. In contrast to the walls of bronchi, those of bronchioles are devoid of glands and cartilage. Helically arranged smooth muscle, however, is a prominent feature of bronchiolar walls. In addition, bronchioles have an abundance of elastic fibers, which are continuous with those of adjacent pulmonary alveoli.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::15_Respiratory::Bronchiole'
 

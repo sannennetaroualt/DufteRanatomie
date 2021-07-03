@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'RS[JL|-BLH'
+guid: 'RS[JL{-BLH'
 
 noteid: '1555354212247'
 
 Title: 'Simple Columnar and Pseudostratified Epithelia'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.50.57 PM.png">'
-Clinical: '<img src="paste-64453a2c6108c146b0a914a8dc9e18762a47a368.jpg">'
-Comment: '<img src="paste-da617e514aba29e648529b1bc732de823935bbb8.jpg">'
+Clinical: '<img src="paste-64453a2c6108c146b0a914a8dc9e18762a47a368.jpg"><br>Epithelial metaplasia occurs when one type of mature differentiated epithelium is converted to another adult form. In the airways, metaplasia of respiratory epithelium to a stratified squamous epithelium frequently occurs as a protective response to chronic  cigarette smoking.'
+Comment: '<img src="paste-da617e514aba29e648529b1bc732de823935bbb8.jpg"><br>Comment: Simple columnar epithelium lines the small and large intestines, inner lining of the stomach, major ducts of glands, convoluted tubules of the kidney, gallbladder, small bronchi of the lungs, and parts of the male and female reproductive tracts. The base of each cell rests on a basement membrane, and the apical surface contacts a lumen. The nucleus is ovoid in shape and is centrally or basally placed. This epithelium is mainly found in sites engaged in protection of wet surfaces, absorption of nutrients, and secretion.  Pseudostratified (respiratory) epithelium consists of more than one type of epithelial cell that show variation in size, shape, and function. The basal layer belongs to replacement (stem) cells that retain mitotic potential. The more apical layer of nuclei belongs to tall columnar cells, many of which bear cilia on their surface. Whereas all cells contact a basement membrane, only some reach the free surface. Mucous goblet cells are usually present in this epithelium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Simple_Columnar_and_Pseduostratified_Epithelia'
 

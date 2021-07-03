@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: 'OrCF-;+3}u'
+guid: 'OrCF-:+3}u'
 
 noteid: '1555363267568'
 
 Title: 'Pituitary'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 4.22.31 PM.png">'
-Clinical: '<img src="paste-9f3b393a84748bbb7851c9d437634869555694a9.jpg">'
-Comment: '<img src="paste-7d59b32b7f76f5876da3f9abd96742e4b659f169.jpg">'
+Clinical: '<img src="paste-9f3b393a84748bbb7851c9d437634869555694a9.jpg"><br>Pituitary tumors can be either secretory or nonsecretory adenomas. One type of secretory adenoma causes acromegaly in adults and gigantism in children. It is due to an overproduction of growth hormone. Another type of adenoma causes Cushing disease—an excess of adrenocorticotropic hormone—that leads to overproduction of cortisol by the adrenal glands.'
+Comment: '<img src="paste-7d59b32b7f76f5876da3f9abd96742e4b659f169.jpg"><br>Comment: The pituitary gland is often called the “master” endocrine gland because its secreted hormones directly or indirectly control growth, differentiation, and functions of many tissues and organs in the body. Shaped like a flattened pea or grape, it weighs 500 to  900 mg in the adult and lies in a midline depression of the sphenoid bone called the sella turcica. It is connected to the hypothalamus of the brain by the infundibular stalk. In general, the pituitary is divided into an anterior and a posterior portion, which are derived from oral and neural ectoderm, respectively.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::10_Endocrine::Pituitary'
 

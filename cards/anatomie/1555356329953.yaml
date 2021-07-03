@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: ':/R0G2V0@h'
+guid: ':/R0G1V0@h'
 
 noteid: '1555356329953'
 
 Title: 'Skeletal Muscle'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.25.38 PM.png">'
-Clinical: '<img src="paste-d0ca4ad0d967f20fe5d95247d91a8cdc001dfba9.jpg">'
-Comment: '<img src="paste-4b6f96ded57ef17a7ccd337082ac47d475f48b94.jpg">'
+Clinical: '<img src="paste-d0ca4ad0d967f20fe5d95247d91a8cdc001dfba9.jpg"><br>Myotonic dystrophy is the most common form of adult muscular dystrophy, commonly occurring in early adulthood. It is a rare hereditary disorder characterized by progressive weakness and wasting of skeletal muscle and delayed relaxation after contraction (myotonia). A defect in a regulatory protein kinase is implicated in one form of myotonic dystrophy.'
+Comment: '<img src="paste-4b6f96ded57ef17a7ccd337082ac47d475f48b94.jpg"><br>Comment: Muscle tissue is classified into one of three major categories according to structure, function, and location. Skeletal muscle is the most common and characteristic type; the other two types are cardiac muscle and smooth muscle. Skeletal muscles contain elongated cylindrical-shaped muscle fibers that have multiple, peripherally located subsarcolemmal nuclei and a sarcoplasm filled with contractile filaments. Varying amounts of mitochondria are present depending on fiber type. Slow fibers are smaller in diameter and contain more mitochondria than fast fibers. Capillaries and nerves course between muscle fibers in the perimysium.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::4_Muscle_Tissue::Skeletal_Muscle'
 

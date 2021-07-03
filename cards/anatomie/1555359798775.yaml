@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '>u#++`jyPy'
+guid: '>u#++_jyPy'
 
 noteid: '1555359798775'
 
 Title: 'Lymphocyte'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.23.30 PM.png">'
-Clinical: '<img src="paste-67fe612101b1ddcc0eaff0be4aa28318745c1d29.jpg">'
-Comment: '<img src="paste-9ba5a50fa679fd447422c48ead37d2b7c5ae7509.jpg">'
+Clinical: '<img src="paste-67fe612101b1ddcc0eaff0be4aa28318745c1d29.jpg"><br>Lymphocytosis is an increase in the absolute number of lymphocytes in peripheral blood. It often occurs in infants and adolescents in response to infections that, in adults, would typically produce a neutrophil response. While there are many causes, the most common is a primary infection with the Epstein-Barr virus (EBV). The condition, otherwise known as infectious mononucleosis, causes a rise in circulating T lymphocytes in response to EBV infection of B cells.'
+Comment: '<img src="paste-9ba5a50fa679fd447422c48ead37d2b7c5ae7509.jpg"><br>Comment: Lymphocytes are the most numerous of the agranular leukocytes, constituting 20% to 30% of the leukocyte count. They range in size from 7 to 16 um and are classified into small (7 to  10 um) and medium-to-large (11 to 16 um) lymphocytes. They are spherical cells with a densely stained nucleus and a thin rim of blue- gray cytoplasm. Whereas all lymphocytes are derived from bone marrow stem cells, those that differentiate and mature in the thymus are called T cells; those that develop in the bone marrow, where they acquire specific cell surface antigens, are known as B cells. T cells are involved in cell-mediated immunity as opposed to B cells, which are engaged in humoral (antibody) immunity. The lifespan of lymphocytes ranges from days to many years.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::7_Blood_and_Bone_Marrow::Lymphocyte'
 

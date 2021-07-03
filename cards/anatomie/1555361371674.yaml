@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '?3gcF3B@<*'
+guid: '?3gcF2B@<*'
 
 noteid: '1555361371674'
 
 Title: 'Arteriole and Venule'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 3.49.38 PM.png">'
-Clinical: '<img src="paste-401092484114a533b0b69e2896657ad8d9fbf64d.jpg">'
-Comment: '<img src="paste-eb6db6d9e1e755f6dd5528b2c1af9db5846f43bf.jpg">'
+Clinical: '<img src="paste-401092484114a533b0b69e2896657ad8d9fbf64d.jpg"><br>Chronic elevation of blood pressure, or hypertension, is a condition that can lead to cardiac hypertrophy, atherosclerosis, heart attack, or stroke. In essential hypertension, the activity of phospholipase C, a critical membrane-associated effector enzyme in growth factor and vasoconstrictor signaling, is enhanced in vascular smooth muscle cells.'
+Comment: '<img src="paste-eb6db6d9e1e755f6dd5528b2c1af9db5846f43bf.jpg"><br>Comment: Since arterioles and venules travel close together, obtaining views of them in the same section is common. Both vessels are lined by a continuous endothelium, although the endothelium of venules is generally looser than that of arterioles. The wall of the venule is also thinner than that of its companion arteriole. Due to intraluminal pressure differences, venules often appear collapsed in section and with an irregular contour, whereas arterioles usually appear as circular profiles due to the relatively high elastin content in their walls. Smooth muscle is the distinguishing feature of arterioles consisting of 1 to 2 layers of closely packed and helically arranged smooth muscle cells.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Systems::08_Cardiovascular::Arteriole_and_Venule'
 

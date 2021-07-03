@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '--{W0IgIL{'
+guid: '--{W0HgIL{'
 
 noteid: '1555355956297'
 
 Title: 'Elastic Connective Tissue'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 2.19.25 PM.png">'
-Clinical: '<img src="paste-4a8b801c3e8becd84831e32c7845ab08dc1370a7.jpg">'
-Comment: '<img src="paste-1d7012a698567b3f109a0effbb6a95aa1f70095f.jpg">'
+Clinical: '<img src="paste-4a8b801c3e8becd84831e32c7845ab08dc1370a7.jpg"><br>Marfan syndrome is an inherited connective tissue disorder resulting from molecular defects in the FBN-1 gene that encodes the glycoprotein, fibrillin-1. This disease is marked by impairment of elastic tissues throughout the body including the aorta, where aneurysms can occur and potentially cause sudden death if they tear  or rupture.'
+Comment: '<img src="paste-1d7012a698567b3f109a0effbb6a95aa1f70095f.jpg"><br>Comment: Elastic fibers contain bundles of microfibrils that function as a scaffold during development and consist of the glycoprotein, fibrillin. Elastin, an amorphous component, is added to the microfibrils and forms the major part of the elastic fiber. Organs containing elastic fibers (e.g., lung, skin, blood vessels, urinary bladder) can undergo considerable expansion and return passively to their original shape. In walls of arteries and arterioles, they form concentric laminae or sheets. In these sites, smooth muscle cells produce the elastic fibers, although in other areas they are produced by fibroblasts. Elastic fibers cannot be distinguished with conventional methods and require special stains.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::3_Connective_Tissue::Elastic_Connective_Tissue'
 

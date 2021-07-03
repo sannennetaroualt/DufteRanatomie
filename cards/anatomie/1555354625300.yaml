@@ -1,13 +1,13 @@
 # https://github.com/sannennetarou/DufteRanatomie card
-guid: '=xn$i%){pu'
+guid: '=xn$i$){pu'
 
 noteid: '1555354625300'
 
 Title: 'Transitional Epithelium'
 
 OccludedImage: '<img src="Screen Shot 2019-04-15 at 1.57.23 PM.png">'
-Clinical: '<img src="paste-b2a02704b31092d05e7c41dcfdc790f26feeced8.jpg">'
-Comment: '<img src="paste-68e78fde10a87f40eaec11cf4207017b23a0a96d.jpg">'
+Clinical: '<img src="paste-b2a02704b31092d05e7c41dcfdc790f26feeced8.jpg"><br>Transitional cell carcinoma (TCC) is a common malignant neoplasm of the urinary tract arising from the urothelium of the renal pelvis, ureter, or bladder. It is usually fatal unless treated. Hematuria (blood in the urine) and pain due to gradual obstruction to urination are common presenting symptoms.'
+Comment: '<img src="paste-68e78fde10a87f40eaec11cf4207017b23a0a96d.jpg"><br>Comment: Transitional epithelium (urothelium) is a multilayered epithelium found in the lower urinary tract, where it lines the renal pelvis, ureters, urinary bladder, and part of the urethra. The appearance of urothelium is not static. It rapidly adapts to distention and contraction by changing from a tall epithelium, which is many cells thick (5 to 7 cells) in the empty bladder, to a thinner epithelium, which is only a few layers thick (2 to 3 cell layers) in the distended state. Umbrella cells are highly dynamic cells at the luminal surface that are able to cycle apical membrane components to accommodate the change in cell surface area.'
 Usernotes: ''
 Origin: ''
 Insertion: ''
@@ -37,5 +37,6 @@ Plate: ''
 20a: ''
 tags:
 - 'DopeRanatomy::#NAVICULARIS'
+- 'DopeRanatomy::#NAVICULARIS::ocr'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Transitional_Epithelium'
 
