@@ -15,6 +15,7 @@ foreach($item in $csv) {
 	$yaml += 'OccludedImage: '''+$item.OccludedImage.replace("'","''")+"'`n"
 	$yaml += 'Clinical: '''+$item.Clinical.replace("'","''")+"'`n"
 	$yaml += 'Comment: '''+$item.Comment.replace("'","''")+"'`n"
+	$yaml += 'Usernotes: '''+$item.Usernotes.replace("'","''")+"'`n"
 	$yaml += 'Origin: '''+$item.Origin.replace("'","''")+"'`n"
 	$yaml += 'Insertion: '''+$item.Insertion.replace("'","''")+"'`n"
 	$yaml += 'Attachments: '''+$item.Attachments.replace("'","''")+"'`n"

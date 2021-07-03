@@ -42,6 +42,13 @@
 			'fieldName': "Comment"
 		}
 	},
+	'Usernotes': {
+		'required': True,
+		'type': 'string',
+		'meta': {
+			'fieldName': "Usernotes"
+		}
+	},
 	'Origin': {
 		'required': True,
 		'type': 'string',
