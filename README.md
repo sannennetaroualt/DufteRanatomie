@@ -20,7 +20,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 - Sich gegenseitig über die Schulter zu schauen
 - Änderungen des Decks zu dokumentieren und zwischenzuspeichern, falls man auf eine ältere Version downgraden möchte
 - Jeder Zeit den aktuellen Stand des Decks zu überprüfen
-- Regelmäßig und (hoffentlich bald) auf Knopfdruck Decks zu releasen
+- Regelmäßig (und hoffentlich bald auf Knopfdruck) Decks zu releasen
 
 # Guidelines
 ## Allgemeine Informationen
