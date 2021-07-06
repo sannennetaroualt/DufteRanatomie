@@ -38,7 +38,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 * Was Verwaltung von Medien angeht, werden wir uns nochmal was eleganteres überlegen.
 
 ## Schema der Übersetzung
-* Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC) gefolgt von einem Komma ",".
+* Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC) gefolgt von einem Strichpunkt ";".
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
 * Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
