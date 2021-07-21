@@ -40,8 +40,8 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 ## Schema der Übersetzung
 * Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC) gefolgt von einem Strichpunkt ";".
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
-* Wenn es keinen Alltagsnamen gibt, dann nur den Fachbegriff in einer Zeile.
-* Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen Querstrich "/" getrennt in der selben Zeile angeben.
+* Wenn es keinen Alltagsnamen gibt, oder dieser mit dem Fachbegriff übereinstimmt, nur den Fachbegriff in einer Zeile.
+* Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen unterstrichenen Querstrich "<u> / </u>" getrennt in der selben Zeile angeben.
 * Gib bei deiner Übersetzung als Quellenangabe am besten [Amboss](https://www.amboss.com/de), ansonsten entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Wikipedia](https://www.wikipedia.org) oder [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) an.
 * Quellenangaben aus Büchern sollten leicht nachvollziehbar sein. ~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ)
 
@@ -87,7 +87,7 @@ Im Editor siehst du Inhalte der Felder im Format:
   ```
 ... wobei die Elemente in eckigen Klammern Textformattinerung im HTML-Format darstellen. (In diesem Fall, <b>fett</b> = **fett**).
 
-Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren gehen, musst du den Text als HTML aus dem Anki-Editor kopieren, und in die Gänsefüßchen des betreffenden Feldes eintragen:
+Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren gehen, musst du den Text als HTML aus dem Anki-Editor kopieren und in die Gänsefüßchen des betreffenden Feldes eintragen:
 ```
   Feldname1: 'Inhalt des <b>ersten Felds</b> mit HTML-Tags'
   Feldname2: 'Inhalt des zweiten Felds'
