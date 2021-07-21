@@ -41,7 +41,7 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 * Die erste Zeile enthält den _Alltagsnamen_ (bspw. "Untere Hohlvene") und die gängige _Abkürzung_ (bspw. IVC) gefolgt von einem Strichpunkt ";".
 * Die zweite Zeile enthält den abgekürzten _Fachbegriff_ nach Terminologia Anatomica (bspw. "V. cava inferior").
 * Wenn es keinen Alltagsnamen gibt, oder dieser mit dem Fachbegriff übereinstimmt, nur den Fachbegriff in einer Zeile.
-* Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen unterstrichenen Querstrich "<u> / </u>" getrennt in der selben Zeile angeben.
+* Sollte es mehrere wichtige Alltagsnamen oder Abkürzungen geben, dann kannst du diese durch einen unterstrichenen Querstrich "`<u> / </u>`" getrennt in der selben Zeile angeben.
 * Gib bei deiner Übersetzung als Quellenangabe am besten [Amboss](https://www.amboss.com/de), ansonsten entweder [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page), [Wikipedia](https://www.wikipedia.org) oder [Terminologia-Anatomica](http://terminologia-anatomica.org/en/) an.
 * Quellenangaben aus Büchern sollten leicht nachvollziehbar sein. ~~Prometheus~~ -> Prometheus (X. Auflage, Seite YZ)
 
