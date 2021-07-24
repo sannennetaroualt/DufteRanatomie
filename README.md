@@ -51,7 +51,7 @@ Before:
   ```
 After:
 ```
-  1a: 'Untere Hohlvene (IVC),<br>V. cava inferior'
+  1a: 'Untere Hohlvene (IVC);<br>V. cava inferior'
   ```
 ..hierbei ist `<br>` ein HTML-Tag für einen Zeilenumbruch. Dieser ist notwendig, um den Inhalt der Karte richtig darzustellen.
 
