@@ -113,8 +113,8 @@ Du kannst im Editor durch Click auf den "</>"-Button zwischen HTML und Normalans
   </kbd></p>
 
 ## Tags
-Bei Tags brauchst du dir keine Gedanken um Formattierung machen. Diese haben keine HTML-Tags.
-Tags sind aufgeteilt in einen Tag pro Zeile im Format:
+Bei Tags brauchst du dir keine Gedanken um Formattierung machen. Diese enthalten kein HTML-Gedöns.
+Jede Zeile entspricht einem Tag:
 ```
   - 'Parent::Child::Leberkas'
   ```
