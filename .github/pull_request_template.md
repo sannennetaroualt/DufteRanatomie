@@ -1,4 +1,4 @@
-<!-- Grey ext in these tags are comments. They don't show up in the description. -->
+<!-- Grey text in these tags are comments. They don't show up in the description. -->
 
 ## Type of request
 <!-- You can tick a box by typing replacing [ ] with [x] -->
@@ -17,11 +17,3 @@ Please describe your request:
 <!-- You can enter web sources like so: -->
 <!-- [Terminologia Anatonomica](http://terminologia-anatomica.org/en/Search?query=hepar) -->
 <!-- [Wiktionary](https://en.wiktionary.org/wiki/hepar)-->
-
-## Status
-<!-- Leave this bit as it is. It helps us track progress on your Request. -->
-- [ ] Request received
-- [ ] Sources verified
-- [ ] Approved
-- [ ] Denied
-- [ ] Postponed
