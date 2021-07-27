@@ -24,6 +24,8 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 
 # Guidelines
 ## Allgemeine Informationen
+### Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "Fork Repository" auswählen. In den darauffolgenden Schritten clickst du auf "Create Pull Request".
+
 **Updates zum Deck umfassen zur Zeit:**
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
