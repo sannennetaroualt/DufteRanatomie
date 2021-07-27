@@ -1,8 +1,8 @@
 - [Projekt DufteRanatomie](#projekt-dufteranatomie)
+- [Cheatsheet](#cheatsheet)
 - [Guidelines](#guidelines)
   * [Allgemeine Informationen](#allgemeine-informationen)
   * [Schema der Übersetzung](#schema-der-übersetzung)
-- [Cheatsheet](#cheatsheet)
 - [Bearbeiten einer Karte](#bearbeiten-einer-karte)
   * [Editor](#editor)
     + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
@@ -73,6 +73,7 @@ _Klassen_ (Nervus, Nodus, Arteria, etc.) sollten bitte nach diesem Schema abgek�
 |      ...          |      ...          |      ...          |
 
 # Bearbeiten einer Karte
+### Wenn du den Editor zum ersten mal öffnest, musst du zunächst "Fork Repository" auswählen. Dadurch wird auf deinem Account eine Kopie hinterlegt, auf der deine Änderungen zwischengespeichert werden. Das passiert aber alles im Hintergrund, mach dir keine Gedanken.
 * Alle Karten des Dufte-Ranatomie-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
 * Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte _Plattformunabhängig_ und _Unabhängig von deiner Anki-Version_ funktionieren.
 * Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
@@ -122,19 +123,17 @@ Jede Zeile entspricht einem Tag:
 Um neue Tags hinzuzufügen, könnt ihr einfach neue Zeilen nach bestehendem Schema hinzufügen.
 
 # Einreichen der Änderung
-Wenn du zum Ende der Seite scrollst, kannst du die Änderung einreichen. Im unteren Beispiel habe ich einen neuen Tag hinzugefügt.
-Wähle die Option "_New Branch_" und clicke anschließend auf "_Propose Changes_". Du kannst die übrigen Felder gerne ignorieren.
+1. Wenn du zum Ende der Seite scrollst, kannst du die Änderung einreichen. Im unteren Beispiel habe ich einen neuen Tag hinzugefügt.
+Wähle die Option "_Propose Changes_".
 
-<p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 01 44" src="https://user-images.githubusercontent.com/85392967/123752482-c80ed580-d8f3-11eb-8b84-8d02345f4bc6.png"></kbd></p>
+<p align="center"><kbd><img width="800" alt="Screenshot 2021-07-27 at 23 05 09" src="https://user-images.githubusercontent.com/85392967/127227707-dd7ccd57-daf2-4fe0-9be0-e3c4c2c205f1.png"></kbd></p>
 
-Im nächsten Bildschirm ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
+2. Du kannst die Änderungen im nächsten Bildschirm kurz überprüfen. Wenn alles passt clickst du auf "_Create Pull Request_".
+
+3. Im nächsten Bildschirm ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 03 58" src="https://user-images.githubusercontent.com/85392967/123752773-19b76000-d8f4-11eb-8566-37f7eda42469.png"></kbd></p>
 
-Wenn du das einreichst, sieht das ganze für uns so aus:
-
-<p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 08 01" src="https://user-images.githubusercontent.com/85392967/123753256-9b0ef280-d8f4-11eb-9f4f-116922fe45ce.png"></kbd></p>
-
-Über den Reiter "_Pull Requests_ kannst du jeder Zeit den Stand aller Submissions einsehen.
+4. Über den Reiter "_Pull Requests_ kannst du jeder Zeit den Stand aller Submissions einsehen.
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
