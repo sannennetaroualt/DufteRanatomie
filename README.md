@@ -10,8 +10,6 @@
   * [Tags](#tags)
 - [Einreichen der Änderung](#einreichen-der-änderung)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # Projekt DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https://old.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) und des Histologie-Decks [Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/) ins Deutsche.
 
@@ -22,10 +20,15 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 - Jeder Zeit den aktuellen Stand des Decks zu überprüfen
 - Regelmäßig (und hoffentlich bald auf Knopfdruck) Decks zu releasen
 
+# Cheatsheet
+1. Click auf den _Errata-Button_
+2. Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "Fork Repository" auswählen.
+3. Bearbeite die Karte im _Editor_
+4. New Branch -> "_Propose Changes_"
+5. Formular ausfüllen -> "_Create Pull Request_"
+
 # Guidelines
 ## Allgemeine Informationen
-### Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "Fork Repository" auswählen. In den darauffolgenden Schritten clickst du auf "Create Pull Request".
-
 **Updates zum Deck umfassen zur Zeit:**
 * Übersetzung
 * Rechtschreib-/Grammatikfehler
@@ -67,12 +70,6 @@ _Klassen_ (Nervus, Nodus, Arteria, etc.) sollten bitte nach diesem Schema abgek�
 |      Nervus       |      N.           |      Nn.          |
 |      Nodus        |      Nd.          |      Ndd.         |
 |      ...          |      ...          |      ...          |
-
-# Cheatsheet
-1. Click auf den _Errata-Button_
-2. Bearbeite die Karte im _Editor_
-3. New Branch -> "_Propose Changes_"
-4. Formular ausfüllen -> "_Create Pull Request_"
 
 # Bearbeiten einer Karte
 * Alle Karten des Dufte-Ranatomie-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
@@ -138,3 +135,5 @@ Wenn du das einreichst, sieht das ganze für uns so aus:
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 08 01" src="https://user-images.githubusercontent.com/85392967/123753256-9b0ef280-d8f4-11eb-9f4f-116922fe45ce.png"></kbd></p>
 
 Über den Reiter "_Pull Requests_ kannst du jeder Zeit den Stand aller Submissions einsehen.
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
