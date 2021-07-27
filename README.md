@@ -24,8 +24,9 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 1. Click auf den _Errata-Button_
 2. Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "Fork Repository" auswählen.
 3. Bearbeite die Karte im _Editor_
-4. New Branch -> "_Propose Changes_"
-5. Formular ausfüllen -> "_Create Pull Request_"
+4. Clicke ganz unten auf"_Propose Changes_"
+5. Im Fenster "Comparing Changes" auf "_Create Pull Request_"
+6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_Create Pull Request_"
 
 # Guidelines
 ## Allgemeine Informationen
