@@ -87,7 +87,7 @@ Im Editor siehst du Inhalte der Felder im Format:
   Feldname1: 'Inhalt des <b>ersten Flelds</b> mit HTML-Tags'
   Feldname2: 'Inhalt des zweiten Felds'
   ```
-... wobei die Elemente in eckigen Klammern Textformattinerung im HTML-Format darstellen. (In diesem Fall, <b>fett</b> = **fett**).
+... wobei die Elemente in eckigen Klammern Textformattinerung im HTML-Format darstellen. (In diesem Fall, `<b>fett</b>` = **fett**).
 
 Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren gehen, musst du den Text als HTML aus dem Anki-Editor kopieren und in die Gänsefüßchen des betreffenden Feldes eintragen:
 ```
@@ -128,12 +128,12 @@ Wähle die Option "_Propose Changes_".
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-07-27 at 23 05 09" src="https://user-images.githubusercontent.com/85392967/127227707-dd7ccd57-daf2-4fe0-9be0-e3c4c2c205f1.png"></kbd></p>
 
-2. Du kannst die Änderungen im nächsten Bildschirm kurz überprüfen. Wenn alles passt clickst du auf "_Create Pull Request_".
+2. Du kannst die Änderungen im nächsten Fenster ("Comparing Changes") kurz überprüfen. Wenn alles passt clickst du auf "_Create Pull Request_".
 
-3. Im nächsten Bildschirm ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
+3. Im nächsten Fenster ("Open Pull Request") ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 03 58" src="https://user-images.githubusercontent.com/85392967/123752773-19b76000-d8f4-11eb-8566-37f7eda42469.png"></kbd></p>
 
-4. Über den Reiter "_Pull Requests_ kannst du jeder Zeit den Stand aller Submissions einsehen.
+4. Über den Reiter "_Pull Requests_" kannst du jeder Zeit den Stand aller Submissions einsehen.
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
