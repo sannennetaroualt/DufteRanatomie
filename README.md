@@ -130,7 +130,7 @@ Wähle die Option "_Propose Changes_".
 
 2. Du kannst die Änderungen im nächsten Fenster ("Comparing Changes") kurz überprüfen. Wenn alles passt clickst du auf "_Create Pull Request_".
 
-3. Im nächsten Fenster ("Open Pull Request") ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst.
+3. Im nächsten Fenster ("Open Pull Request") ist ein _Formular_, in dem du deinen Vorschlag kategorisieren, Quellen hinzufügen oder eine kurze Erklärung einfügen kannst. Um deinen Vorschlag einzureichen, clickst du auf "_Create Pull Request_".
 
 <p align="center"><kbd><img width="800" alt="Screenshot 2021-06-29 at 16 03 58" src="https://user-images.githubusercontent.com/85392967/123752773-19b76000-d8f4-11eb-8566-37f7eda42469.png"></kbd></p>
 
