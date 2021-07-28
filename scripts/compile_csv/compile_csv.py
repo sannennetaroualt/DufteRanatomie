@@ -38,7 +38,7 @@ for cardFile in tqdm(cards, desc="Compiling", unit="cards"):
 	csvLine = ""
 	for field, val in card.items():
 		csvLine += '"'+val.replace('"', '""')+'"'+args.delimiter
-	csvLine += tags.replace('"', '""')
+	csvLine += '"'+tags.replace('"', '""')+'"'
 
 	with io.open(filePath, mode="a", encoding="utf-8") as csvFile:
 		csvFile.write(csvLine + '\n')
