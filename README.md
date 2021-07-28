@@ -27,3 +27,5 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 4. Clicke ganz unten auf"_Propose Changes_"
 5. Im Fenster "Comparing Changes" auf "_Create Pull Request_"
 6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_Create Pull Request_"
+
+### Eine ausführliche Version mit Guidelines für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
