@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 490'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg'
-- 'DopeRanatomy::System::Nervous::PNS::Lower_Limb::Upper_Leg'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg,'
+- 'DopeRanatomy::System::Nervous::PNS::Lower_Limb::Upper_Leg,'
 - 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte::Leitungsbahnen'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 165'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Back/Spine'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Back/Spine'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Back/Spine,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Back/Spine,'
 - 'Dufte::Rücken_und_Rückenmark::Rücken::Leitungsbahnen'
 

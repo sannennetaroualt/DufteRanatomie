@@ -36,9 +36,9 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Lower_Limb::Lower_Leg'
-- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm'
-- 'DopeRanatomy::System::Integumentary'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Lower_Limb::Lower_Leg,'
+- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm,'
+- 'DopeRanatomy::System::Integumentary,'
 - 'Dufte::Obere_Extremitäten::Unterarm_Hand'
 

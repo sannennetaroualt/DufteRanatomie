@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 193'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Pulmonary'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Pulmonary,'
 - 'Dufte::Thorax::Lunge'
 

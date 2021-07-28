@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 297'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Nervous::PNS::Abdomen'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Nervous::PNS::Abdomen,'
 - 'Dufte::Abdomen::Leitungsbahnen'
 

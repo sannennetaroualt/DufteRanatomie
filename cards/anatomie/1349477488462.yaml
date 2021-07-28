@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 185;See also Plates 174, 252'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Thorax'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Thorax,'
 - 'Dufte::Thorax::Leitungsbahnen'
 

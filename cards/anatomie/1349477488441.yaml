@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 205'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax::Pericardial_Cavity'
-- 'DopeRanatomy::System::Cardiovascular::Heart'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax::Pericardial_Cavity,'
+- 'DopeRanatomy::System::Cardiovascular::Heart,'
 - 'Dufte::Thorax::Leitungsbahnen'
 

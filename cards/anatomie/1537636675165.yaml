@@ -36,8 +36,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Abdomen'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Abdomen,'
 - 'DopeRanatomy::System::Reproductive::Male'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 500'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Lower_Limb::Upper_Leg'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Lower_Limb::Upper_Leg,'
 - 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte::Leitungsbahnen'
 

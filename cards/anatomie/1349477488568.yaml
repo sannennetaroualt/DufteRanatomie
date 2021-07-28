@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 484'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Pelvic'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Pelvic'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Pelvic,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Pelvic,'
 - 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte::Muskulatur'
 

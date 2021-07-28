@@ -36,8 +36,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Head&Neck::Cranial'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Head&Neck'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Head&Neck::Cranial,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Head&Neck,'
 - 'DopeRanatomy::System::Otorhinolaryngological'
 

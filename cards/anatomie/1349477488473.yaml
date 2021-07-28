@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 497'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Lower_Limb::Knee'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Lower_Limb::Knee'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Lower_Limb::Knee,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Lower_Limb::Knee,'
 - 'Dufte::Untere_Extremitäten::Knie'
 

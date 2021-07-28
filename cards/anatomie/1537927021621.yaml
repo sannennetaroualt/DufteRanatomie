@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Pelvic'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Pelvic,'
 - 'DopeRanatomy::System::Reproductive::Female'
 

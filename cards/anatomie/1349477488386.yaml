@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 424'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Upper_Limb::Elbow'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Upper_Limb::Elbow'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Upper_Limb::Elbow,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Upper_Limb::Elbow,'
 - 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Knochen'
 

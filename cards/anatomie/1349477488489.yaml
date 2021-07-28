@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 486'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Pelvic'
-- 'DopeRanatomy::System::Nervous::PNS::Pelvic'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Pelvic,'
+- 'DopeRanatomy::System::Nervous::PNS::Pelvic,'
 - 'Dufte::Untere_Extremitäten::Oberschenkel_Hüfte::Leitungsbahnen'
 

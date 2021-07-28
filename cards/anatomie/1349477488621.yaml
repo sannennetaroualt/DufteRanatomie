@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 256'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Abdomen'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Abdomen,'
 - 'Dufte::Abdomen::Muskulatur'
 

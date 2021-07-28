@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm,'
 - 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Hand/Wrist/Forearm'
 

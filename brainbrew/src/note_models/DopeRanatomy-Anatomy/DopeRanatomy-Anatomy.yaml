@@ -1,0 +1,198 @@
+name: DopeRanatomy-Anatomy
+id: ae275a02-c67e-11eb-a4ea-1e00f10a5c32
+css_file: src/note_models/DopeRanatomy-Anatomy/style.css
+sort_field_num: 13
+fields:
+- name: noteid
+  font: Arial
+- name: Title
+  font: Academy Engraved LET
+- name: OccludedImage
+  font: Arial
+- name: Clinical
+  font: Arial
+- name: Comment
+  font: Arial
+- name: Usernotes
+  font: Arial
+- name: Origin
+  font: Arial
+- name: Insertion
+  font: Arial
+- name: Attachments
+  font: Arial
+- name: Innervation
+  font: Arial
+- name: Actions
+  font: Arial
+- name: Plate
+  font: Arial
+- name: 1a
+  font: Arial
+- name: 2a
+  font: Arial
+- name: 3a
+  font: Arial
+- name: 4a
+  font: Arial
+- name: 5a
+  font: Arial
+- name: 6a
+  font: Arial
+- name: 7a
+  font: Arial
+- name: 8a
+  font: Arial
+- name: 9a
+  font: Arial
+- name: 10a
+  font: Arial
+- name: 11a
+  font: Arial
+- name: 12a
+  font: Arial
+- name: 13a
+  font: Arial
+- name: 14a
+  font: Arial
+- name: 15a
+  font: Arial
+- name: 16a
+  font: Arial
+- name: 17a
+  font: Arial
+- name: 18a
+  font: Arial
+- name: 19a
+  font: Arial
+- name: 20a
+  font: Arial
+templates:
+- name: '1'
+  html_file: src/note_models/DopeRanatomy-Anatomy/1.html
+- name: '2'
+  html_file: src/note_models/DopeRanatomy-Anatomy/2.html
+- name: '3'
+  html_file: src/note_models/DopeRanatomy-Anatomy/3.html
+- name: '4'
+  html_file: src/note_models/DopeRanatomy-Anatomy/4.html
+- name: '5'
+  html_file: src/note_models/DopeRanatomy-Anatomy/5.html
+- name: '6'
+  html_file: src/note_models/DopeRanatomy-Anatomy/6.html
+- name: '7'
+  html_file: src/note_models/DopeRanatomy-Anatomy/7.html
+- name: '8'
+  html_file: src/note_models/DopeRanatomy-Anatomy/8.html
+- name: '9'
+  html_file: src/note_models/DopeRanatomy-Anatomy/9.html
+- name: '10'
+  html_file: src/note_models/DopeRanatomy-Anatomy/10.html
+- name: '11'
+  html_file: src/note_models/DopeRanatomy-Anatomy/11.html
+- name: '12'
+  html_file: src/note_models/DopeRanatomy-Anatomy/12.html
+- name: '13'
+  html_file: src/note_models/DopeRanatomy-Anatomy/13.html
+- name: '14'
+  html_file: src/note_models/DopeRanatomy-Anatomy/14.html
+- name: '15'
+  html_file: src/note_models/DopeRanatomy-Anatomy/15.html
+- name: '16'
+  html_file: src/note_models/DopeRanatomy-Anatomy/16.html
+- name: '17'
+  html_file: src/note_models/DopeRanatomy-Anatomy/17.html
+- name: '18'
+  html_file: src/note_models/DopeRanatomy-Anatomy/18.html
+- name: '19'
+  html_file: src/note_models/DopeRanatomy-Anatomy/19.html
+- name: '20'
+  html_file: src/note_models/DopeRanatomy-Anatomy/20.html
+- name: Origin
+  html_file: src/note_models/DopeRanatomy-Anatomy/Origin.html
+- name: Insertion
+  html_file: src/note_models/DopeRanatomy-Anatomy/Insertion.html
+- name: Innervation
+  html_file: src/note_models/DopeRanatomy-Anatomy/Innervation.html
+- name: Attachments
+  html_file: src/note_models/DopeRanatomy-Anatomy/Attachments.html
+- name: Action
+  html_file: src/note_models/DopeRanatomy-Anatomy/Action.html
+tags:
+- DopeRanatomy::Notetype
+required_fields_per_template:
+- - 0
+  - all
+  - - 12
+- - 1
+  - all
+  - - 13
+- - 2
+  - all
+  - - 14
+- - 3
+  - all
+  - - 15
+- - 4
+  - all
+  - - 16
+- - 5
+  - all
+  - - 17
+- - 6
+  - all
+  - - 18
+- - 7
+  - all
+  - - 19
+- - 8
+  - all
+  - - 20
+- - 9
+  - all
+  - - 21
+- - 10
+  - all
+  - - 22
+- - 11
+  - all
+  - - 23
+- - 12
+  - all
+  - - 24
+- - 13
+  - all
+  - - 25
+- - 14
+  - all
+  - - 26
+- - 15
+  - all
+  - - 27
+- - 16
+  - all
+  - - 28
+- - 17
+  - all
+  - - 29
+- - 18
+  - all
+  - - 30
+- - 19
+  - all
+  - - 31
+- - 20
+  - all
+  - - 6
+- - 21
+  - all
+  - - 7
+- - 22
+  - all
+  - - 9
+- - 23
+  - all
+  - - 8
+- - 24
+  - all
+  - - 10

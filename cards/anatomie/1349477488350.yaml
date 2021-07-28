@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 374'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Pelvic'
-- 'DopeRanatomy::System::Gastrointestinal'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Pelvic'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Pelvic,'
+- 'DopeRanatomy::System::Gastrointestinal,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Pelvic,'
 - 'Dufte::Becken_Beckenboden::Analkanal'
 

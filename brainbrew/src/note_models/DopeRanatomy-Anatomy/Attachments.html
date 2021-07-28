@@ -1,0 +1,220 @@
+{{#Attachments}}
+<!-- ##############  HEADER  ############## -->
+<div class="header">
+
+    <!-- TIMER -->
+    <span class="timer" id="timer"></span>
+    <script>
+      //############## TIMER CONFIGURATION START ##############
+      //Set Timer Length
+
+        var minutes = 0
+        var seconds = 15
+
+      //############## TIMER CONFIGURATION END ##############
+
+      function countdown( elementName, minutes, seconds )
+      {
+        var element, endTime, hours, mins, msLeft, time;
+        function twoDigits( n )
+        {
+            return (n <= 9 ? "0" + n : n);
+        }
+        function updateTimer()
+        {
+            msLeft = endTime - (+new Date);
+            //USER CUSTOMIZATION - you can edit color and text of the 'time expired' readout under the element.innerHTML
+            if ( msLeft < 1000 ) {
+                element.innerHTML = "<span style='color:#BF616A; font-weight:bold; margin-right: 5px;'>! ! !</span>";
+            } else {
+                time = new Date( msLeft );
+                hours = time.getUTCHours();
+                mins = time.getUTCMinutes();
+                element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );
+                setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );
+            }
+        }
+        element = document.getElementById( elementName );
+        endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;
+        updateTimer();
+      }
+        countdown("timer", minutes, seconds ); //2nd value is the minute, 3rd is the seconds
+    </script>
+
+    <div class="head-flex-mid">
+        <!-- TAGS FIELD -->
+        <div class="headhov">{{#Tags}}<button class="button-tags" onclick="myFunction('button-tags', 'hint-tags', 'button-tags')" title="Öffne/Schließe&#10;(⌥/Alt+T)"><strong>Tags</strong></button>{{/Tags}}</div>
+            <div class="headhov"><div id="button-tags" class="generalclass" style="display:none;">
+            {{Tags}}</div></div> |
+
+        <!-- NOTE ID FIELD -->
+        <div class="headhov">{{#noteid}}<button class="button-nid" onclick="myFunction('button-nid', 'hint-nid', 'button-nid')" title="Öffne/Schließe&#10;(⌥/Alt+N)"><strong>Note ID</strong></button>{{/noteid}}</div>
+            <div class="headhov"><div id="button-nid" class="generalclass" style="display:none;">
+            {{noteid}}</div> </div>
+    </div>
+
+    <!-- ERRATA BUTTON -->
+    <div class="head-flex-right"><a href="https://github.com/sannennetarou/DufteRanatomie/edit/main/cards/anatomie/{{noteid}}.yaml"><button class="button-errata" id="button-errata" title="Zum Errata Formular…"><strong>Errata</strong></button></a></div>
+</div><hr>
+
+<span id=title>{{Title}}</span> <br><br>
+<span id=question>Anhangsgebilde von: <b>{{1a}}</b></span><br>
+<br>{{OccludedImage}}
+
+<br><br>
+
+<script>
+  // ##############  BUTTON REVEAL SHORTCUTS  ##############
+  // Visit https://keycode.info/ to get the number/letter for the key you want to assign
+  // The shortcuts are  Alt  +  the number/letter below
+  // All shortcuts will also open with "H" if using the Hint Hotkeys add-on
+
+  var tags = '84'
+  var nid = '78'
+  var errata = '69'
+
+  var ScrollToHint = true;
+</script>
+
+<script>
+  function myFunction(divid, id, divid) {
+    var x = document.getElementById(divid), y = document.getElementById(id), z = document.getElementById(divid);
+    if (x.style.display == "none")
+    {
+    x.style.display = "block"; y.style.display = "none"; z.scrollToId;
+    }
+        else {
+         x.style.display = "none"; y.style.display = "inline-block";
+        }
+    if (ScrollToHint){
+        z.scrollIntoView({
+         behavior: "smooth", //"auto" for instant scrolling
+         block: "start",
+         inline: "nearest"
+    });}
+    }
+    document.onkeydown = function(evt) {
+    evt = evt || window.event;
+        if (evt.altKey && evt.keyCode == tags) {
+            myFunction('button-tags', 'hint-tags', 'button-tags')}
+        if (evt.altKey && evt.keyCode == nid) {
+            myFunction('button-nid', 'hint-nid', 'button-nid')}
+        if (evt.altKey && evt.keyCode == errata) {
+            document.getElementById('button-errata').click(); document.getElementById('button-errata').style.display = "inline-block";}
+    }
+</script>
+
+{{/Attachments}}
+
+--
+
+<!-- ##############  HEADER  ############## -->
+<div class="header">
+
+    <!-- TIMER -->
+    <span class="timer" id="timer"></span>
+    <script>
+      //############## TIMER CONFIGURATION START ##############
+      //Set Timer Length
+
+        var minutes = 0
+        var seconds = 15
+
+      //############## TIMER CONFIGURATION END ##############
+
+      function countdown( elementName, minutes, seconds )
+      {
+        var element, endTime, hours, mins, msLeft, time;
+        function twoDigits( n )
+        {
+            return (n <= 9 ? "0" + n : n);
+        }
+        function updateTimer()
+        {
+            msLeft = endTime - (+new Date);
+            //USER CUSTOMIZATION - you can edit color and text of the 'time expired' readout under the element.innerHTML
+            if ( msLeft < 1000 ) {
+                element.innerHTML = "<span style='color:#BF616A; font-weight:bold; margin-right: 5px;'>! ! !</span>";
+            } else {
+                time = new Date( msLeft );
+                hours = time.getUTCHours();
+                mins = time.getUTCMinutes();
+                element.innerHTML = (hours ? hours + ':' + twoDigits( mins ) : mins) + ':' + twoDigits( time.getUTCSeconds() );
+                setTimeout( updateTimer, time.getUTCMilliseconds() + 500 );
+            }
+        }
+        element = document.getElementById( elementName );
+        endTime = (+new Date) + 1000 * (60*minutes + seconds) + 500;
+        updateTimer();
+      }
+        countdown("timer", minutes, seconds ); //2nd value is the minute, 3rd is the seconds
+    </script>
+
+    <div class="head-flex-mid">
+        <!-- TAGS FIELD -->
+        <div class="headhov">{{#Tags}}<button class="button-tags" onclick="myFunction('button-tags', 'hint-tags', 'button-tags')" title="Öffne/Schließe&#10;(⌥/Alt+T)"><strong>Tags</strong></button>{{/Tags}}</div>
+            <div class="headhov"><div id="button-tags" class="generalclass" style="display:none;">
+            {{Tags}}</div></div> |
+
+        <!-- NOTE ID FIELD -->
+        <div class="headhov">{{#noteid}}<button class="button-nid" onclick="myFunction('button-nid', 'hint-nid', 'button-nid')" title="Öffne/Schließe&#10;(⌥/Alt+N)"><strong>Note ID</strong></button>{{/noteid}}</div>
+            <div class="headhov"><div id="button-nid" class="generalclass" style="display:none;">
+            {{noteid}}</div> </div>
+    </div>
+
+    <!-- ERRATA BUTTON -->
+    <div class="head-flex-right"><a href="https://github.com/sannennetarou/DufteRanatomie/edit/main/cards/anatomie/{{noteid}}.yaml"><button class="button-errata" id="button-errata" title="Zum Errata Formular…"><strong>Errata</strong></button></a></div>
+</div><hr>
+
+<span id=title>{{Title}}</span><br>
+<br> <span id=question>Anhangsgebilde von: <b>{{1a}}</b></span><br>
+<br><span id=attachments>{{Attachments}} </span></div><br/>
+<br>{{OccludedImage}}<br>
+<div style="text-align: left">
+<br><span id=clinic>{{Clinical}}</span><br/>
+<br><span id=comment>{{Comment}}</span><br/>
+<br><span id=comment>{{Usernotes}}</span>
+</div>
+
+<br><br>
+
+<script>
+  // ##############  BUTTON REVEAL SHORTCUTS  ##############
+  // Visit https://keycode.info/ to get the number/letter for the key you want to assign
+  // The shortcuts are  Alt  +  the number/letter below
+  // All shortcuts will also open with "H" if using the Hint Hotkeys add-on
+
+  var tags = '84'
+  var nid = '78'
+  var errata = '69'
+
+  var ScrollToHint = true;
+</script>
+
+<script>
+  function myFunction(divid, id, divid) {
+    var x = document.getElementById(divid), y = document.getElementById(id), z = document.getElementById(divid);
+    if (x.style.display == "none")
+    {
+    x.style.display = "block"; y.style.display = "none"; z.scrollToId;
+    }
+        else {
+         x.style.display = "none"; y.style.display = "inline-block";
+        }
+    if (ScrollToHint){
+        z.scrollIntoView({
+         behavior: "smooth", //"auto" for instant scrolling
+         block: "start",
+         inline: "nearest"
+    });}
+    }
+    document.onkeydown = function(evt) {
+    evt = evt || window.event;
+        if (evt.altKey && evt.keyCode == tags) {
+            myFunction('button-tags', 'hint-tags', 'button-tags')}
+        if (evt.altKey && evt.keyCode == nid) {
+            myFunction('button-nid', 'hint-nid', 'button-nid')}
+        if (evt.altKey && evt.keyCode == errata) {
+            document.getElementById('button-errata').click(); document.getElementById('button-errata').style.display = "inline-block";}
+    }
+</script>

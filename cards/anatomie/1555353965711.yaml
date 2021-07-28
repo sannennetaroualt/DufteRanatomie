@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#NAVICULARIS'
-- 'DopeRanatomy::#NAVICULARIS::ocr'
+- 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Cells_and_Tissues::2_Epithelium_and_Exocrine_Glands::Epithelia_Classification'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 102'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck'
-- 'DopeRanatomy::System::Nervous::CNS'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck,'
+- 'DopeRanatomy::System::Nervous::CNS,'
 - 'Dufte::Kopf_und_Hals::ZNS::Leitungsbahnen'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 330'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Gastrointestinal'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Gastrointestinal,'
 - 'Dufte::Abdomen::Schnittbilder'
 

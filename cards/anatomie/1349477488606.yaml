@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 461'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Upper_Limb::Arm'
-- 'DopeRanatomy::System::Nervous::PNS::Upper_Limb::Arm'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Upper_Limb::Arm,'
+- 'DopeRanatomy::System::Nervous::PNS::Upper_Limb::Arm,'
 - 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Leitungsbahnen'
 

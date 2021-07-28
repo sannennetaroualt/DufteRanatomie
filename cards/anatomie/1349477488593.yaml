@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 228'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Neck'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Neck'
-- 'DopeRanatomy::System::Otorhinolaryngological::Oesophagus'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Otorhinolaryngological::Oesophagus,'
 - 'Dufte::Abdomen'
 

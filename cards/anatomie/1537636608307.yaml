@@ -36,8 +36,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Thorax'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Thorax,'
 - 'DopeRanatomy::System::Nervous::PNS::Thorax'
 

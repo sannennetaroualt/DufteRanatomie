@@ -36,8 +36,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Pelvic'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Pelvic,'
 - 'DopeRanatomy::System::Reproductive::Male'
 

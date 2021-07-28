@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 288'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen::GI'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
-- 'DopeRanatomy::System::Gastrointestinal::Large_Intestine'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen::GI,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen,'
+- 'DopeRanatomy::System::Gastrointestinal::Large_Intestine,'
 - 'Dufte::Abdomen::Leitungsbahnen'
 

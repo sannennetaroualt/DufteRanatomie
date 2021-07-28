@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Lower_Limb'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Lower_Limb,'
 - 'DopeRanatomy::System::Musculoskeletal::Muscular::Lower_Limb::Lower_Leg'
 

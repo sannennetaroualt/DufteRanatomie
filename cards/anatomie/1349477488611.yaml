@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 76'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Neck'
-- 'DopeRanatomy::System::Endocrine'
-- 'DopeRanatomy::System::Otorhinolaryngological::Thyroid'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Endocrine,'
+- 'DopeRanatomy::System::Otorhinolaryngological::Thyroid,'
 - 'Dufte::Kopf_und_Hals::Halsorgane'
 

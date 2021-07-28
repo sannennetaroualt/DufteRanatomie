@@ -1,0 +1,625 @@
+html { overflow: scroll; overflow-x: hidden; }
+
+/* CONTAINER FOR YOUR CARDS */
+
+#kard {
+    padding: 0px 0px;
+    max-width: 700px; /* CHANGE CARD SIZE HERE */
+    margin: 0 auto; /* CENTERS THE CARD IN THE MIDDLE OF THE WINDOW */
+    word-wrap: break-word; /* BREAKS UP LONG WORKS */
+}
+
+/* STYLE TAGS TO APPEAR WHEN HOVERING OVER TOP OF CARD */
+
+.tags {
+    color: #4C566A;
+    opacity: 0;
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    padding: 0;
+    top:0;
+    right: 0;}
+.tags:hover { opacity: 1; position: fixed;}
+
+/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */
+b { color: #5E81AC; } /* BOLD STYLE */
+.nightMode
+b { color: #BF616A; } /* BOLD STYLE */
+
+
+u { text-decoration: none; color: #2E3440;
+      background-color: #E5E9F0;}  /* UNDERLINE STYLE */
+.nightMode
+u { text-decoration: none; color: #E5E9F0;
+      background-color: #3B4252}  /* UNDERLINE STYLE */
+
+
+i { color: #88C0D0; }  /* UNDERLINE STYLE */
+.nightMode
+i  { color: #EBCB8B; },  /* ITALICS STYLE */
+
+
+a { color: #B48EAD !important; text-decoration: none; font-size: 10px; font-style: normal; } /* LINK STYLE */
+
+
+.card.nightMode {
+
+    font-family:  Arial Greek, Arial;
+    font-size: 28px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #ECEFF4; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+
+}
+
+/* STYLE FOR LIGHT MODE */
+
+.card.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+/* IMAGE STYLE */
+img { display: block; max-width: 80% ; max-height: none; margin-left: auto; margin: 10px auto 10px auto;}
+tr {font-size: 12px; }
+
+#origin{
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+  font-weight:bold;
+}
+
+
+#insertion{
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+  font-weight:bold;
+}
+
+#innervation{
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+  font-weight:bold;
+}
+
+#attachments{
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+  font-weight:bold;
+}
+
+#title {
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+}
+
+#action {
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+  font-weight:bold;
+}
+
+#plate {
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+}
+
+#question {
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+}
+#answer {
+  font-family: Helvetica, Arial;
+  font-size: 28px;
+  color: #5E81AC;
+ font-weight:bold;
+}
+
+#clinic {
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+  color: #BF616A;
+}
+
+#comment {
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+  color: #88C0D0;
+  font-style:italic;
+}
+
+#comment {
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+  color: #88C0D0;
+  font-style:italic;
+}
+
+#instructions {
+  font-family: Helvetica, Arial;
+  font-size: 20px;
+  color: #5E81AC
+}
+
+.card1.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card1 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card2.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card2 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card3.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card3 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card4.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card4 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card5.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card5 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card6.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card6 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card7.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card7 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card8.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card8 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card9.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card9 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card10.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card10 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card11.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card11 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card12.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card12 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card13.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card13 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card14.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card14 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card15.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card15 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+
+
+.card16.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card16 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card17.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card17 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card18.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card18 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card19.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card19 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+.card20.nightMode {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+    color: #D8DEE9; /* FONT COLOR */
+    line-height: 1.6em;
+    background-color: #2E3440; /* BACKGROUND COLOR */
+}
+.card20 {
+    font-family: Helvetica, Arial;
+    font-size: 18px; /* FONT SIZE */
+    text-align: center; /* ALIGN TEXT */
+  color: #2E3440; /* FONT COLOR */
+  line-height: 1.6em;
+  background-color: #ECEFF4; /* BACKGROUND COLOR */
+}
+
+/* Code to make header and header buttons work */
+.button-tags {
+  outline: 0;
+  background: none !important;
+  border: none !important;
+  color: #93a1a1 !important;
+  padding: 1px 2px !important;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: -3px;
+  /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+.button-tags:hover {
+  background: none !important;
+  color: #BF616A !important;
+  cursor: default;
+}
+
+.button-errata {
+  outline: 0;
+  background: none !important;
+  border: none !important;
+  color: #93a1a1 !important;
+  padding: 1px 2px !important;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0px;
+  /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+.button-errata:hover {
+  background: none !important;
+  color: #BF616A !important;
+  cursor: default;
+}
+
+.button-nid {
+  outline: 0;
+  background: none !important;
+  border: none !important;
+  color: #93a1a1 !important;
+  padding: 1px 2px !important;
+  text-align: center;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0px;
+  /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+}
+
+.button-nid:hover {
+  background: none !important;
+  color: #BF616A !important;
+  cursor: default;
+}
+
+.header {
+  padding-bottom: 0px;
+  color: #93a1a1;
+  font-size: 13px;
+  position: relative;
+  display: flex;
+  top: -5px;
+  word-break: break-word;
+}
+.headhov {
+  display: inline-block;
+}
+.headhov:hover {
+  color: #d33682;
+  cursor: default;
+}
+.head-flex-right {
+  flex: 0 0 auto;
+  text-align: right;
+  display: inline-block;
+}
+.head-flex-mid {
+  flex: 1 1 auto;
+  text-align: center;
+  display: inline-block;
+}
+.ipad .header {
+  padding-bottom: 4px;
+}
+.iphone .header {
+  padding-bottom: 4px;
+}
+.mobile .header {
+  top: 0px;
+}
+
+/* ADJUSTMENT FOR MOBILE DEVICES */
+.mobile .card.nightMode { color: #ECEFF4; background-color: #2E3440; }
+.mobile .card { color: #2E3440; background-color: #ECEFF4;}
+.mobile .tags:hover { opacity: 1; position: relative;}

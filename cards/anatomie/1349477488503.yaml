@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 210;See also Plate 239'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Cardiovascular::Heart'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Cardiovascular::Heart,'
 - 'Dufte::Thorax::Herz'
 

@@ -36,9 +36,9 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
-- 'DopeRanatomy::System::Nervous::PNS::Abdomen'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen,'
+- 'DopeRanatomy::System::Nervous::PNS::Abdomen,'
 - 'DopeRanatomy::System::Renal'
 

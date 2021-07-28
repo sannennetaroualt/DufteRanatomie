@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 277'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Gastrointestinal::Liver'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Gastrointestinal::Liver,'
 - 'Dufte::Abdomen::Leber'
 

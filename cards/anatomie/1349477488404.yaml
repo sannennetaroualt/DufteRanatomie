@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 450'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Hand/Wrist/Forearm'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Upper_Limb::Hand/Wrist/Forearm,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Hand/Wrist/Forearm,'
 - 'Dufte::Obere_Extremitäten::Unterarm_Hand'
 

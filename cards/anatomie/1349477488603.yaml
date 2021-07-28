@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 392;See also Plate  297'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Pelvic'
-- 'DopeRanatomy::System::Nervous::PNS::Pelvic'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Pelvic,'
+- 'DopeRanatomy::System::Nervous::PNS::Pelvic,'
 - 'Dufte::Becken_Beckenboden::Becken'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 179;See also Plate 241'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Thorax'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Thorax,'
 - 'Dufte::Thorax::Knochen'
 

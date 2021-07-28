@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 304'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Back/Spine'
-- 'DopeRanatomy::System::Nervous::PNS::Back/Spine'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Back/Spine,'
+- 'DopeRanatomy::System::Nervous::PNS::Back/Spine,'
 - 'Dufte::Rücken_und_Rückenmark::Rückenmark'
 

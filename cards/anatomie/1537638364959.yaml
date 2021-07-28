@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Abdomen'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Abdomen,'
 - 'DopeRanatomy::System::Nervous::PNS::Abdomen'
 

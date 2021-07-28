@@ -36,8 +36,8 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Head&Neck::Cranial'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Head&Neck'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Head&Neck::Cranial,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Head&Neck,'
 - 'DopeRanatomy::System::Nervous::CNS::Brain'
 

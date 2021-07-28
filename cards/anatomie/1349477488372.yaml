@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 69'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Face'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Head&Neck::Face'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Face,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Head&Neck::Face,'
 - 'Dufte::Kopf_und_Hals::Leitungsbahnen::Arterien'
 

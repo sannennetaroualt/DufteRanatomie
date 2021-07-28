@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 257'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Cardiovascular::Vascular::Abdomen,'
 - 'Dufte::Abdomen::Leitungsbahnen'
 

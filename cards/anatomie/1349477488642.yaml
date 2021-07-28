@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 61'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Face'
-- 'DopeRanatomy::System::Endocrine'
-- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Face,'
+- 'DopeRanatomy::System::Endocrine,'
+- 'DopeRanatomy::System::Otorhinolaryngological,'
 - 'Dufte::Kopf_und_Hals::Mundhöhle_und_Kauapparat::Speicheldrüsen'
 

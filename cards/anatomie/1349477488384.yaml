@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 335;See also Plate 154'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Pelvic'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Pelvic'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Pelvic,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Pelvic,'
 - 'Dufte::Becken_Beckenboden::Becken::Bänder'
 

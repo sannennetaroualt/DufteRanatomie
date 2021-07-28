@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 82'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Eye'
-- 'DopeRanatomy::System::Ophthalmological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Eye,'
+- 'DopeRanatomy::System::Ophthalmological,'
 - 'Dufte::Kopf_und_Hals::Auge::Tränendrüse'
 

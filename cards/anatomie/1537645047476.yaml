@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#RANATOMY'
-- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg'
+- 'DopeRanatomy::#RANATOMY,'
+- 'DopeRanatomy::Region::Lower_Limb::Upper_Leg,'
 - 'DopeRanatomy::System::Cardiovascular::Vascular::Lower_Limb::Upper_Leg'
 

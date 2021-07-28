@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 183'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Thorax'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Thorax'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Thorax,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Thorax,'
 - 'Dufte::Thorax::Muskulatur'
 

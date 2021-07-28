@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 36'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Nasal'
-- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Nasal,'
+- 'DopeRanatomy::System::Otorhinolaryngological,'
 - 'Dufte::Kopf_und_Hals::Nase'
 

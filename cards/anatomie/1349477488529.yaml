@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 25'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Face'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Face'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Face,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Head&Neck::Face,'
 - 'Dufte::Kopf_und_Hals::Mimische_Muskulatur'
 

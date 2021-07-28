@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 23'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Neck'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Head&Neck::Neck'
-- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Otorhinolaryngological,'
 - 'Dufte::Kopf_und_Hals::Hals::Knochen'
 

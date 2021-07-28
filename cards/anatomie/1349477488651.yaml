@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 411;See also Plates 26, 168, 182, 183'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Upper_Limb::Shoulder'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Shoulder'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Upper_Limb::Shoulder,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Upper_Limb::Shoulder,'
 - 'Dufte::Obere_Extremitäten::Schulter_Oberarm_Ellenbogen::Muskulatur'
 

@@ -1,5 +1,5 @@
 # this script is a dumpster fire and was supposed to be a quick two liner, but I'm no quitter
-$csv = Import-Csv -Delimiter "," "..\..\sourcedata\data.csv"
+$csv = Import-Csv -Delimiter "," "..\..\brainbrew\src\data\DopeRanatomy-Anatomy.csv"
 $i = 1
 foreach($item in $csv) {
 	Write-Output $i

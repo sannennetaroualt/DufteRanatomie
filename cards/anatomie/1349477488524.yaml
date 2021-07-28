@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 169'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Back/Spine'
-- 'DopeRanatomy::System::Musculoskeletal::Muscular::Back'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Back/Spine,'
+- 'DopeRanatomy::System::Musculoskeletal::Muscular::Back,'
 - 'Dufte::Rücken_und_Rückenmark::Rücken::Muskulatur'
 

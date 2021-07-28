@@ -36,9 +36,9 @@ Plate: 'Atlas Plate 124'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck'
-- 'DopeRanatomy::System::Nervous::PNS::Head&Neck'
-- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck,'
+- 'DopeRanatomy::System::Nervous::PNS::Head&Neck,'
+- 'DopeRanatomy::System::Otorhinolaryngological,'
 - 'Dufte::Kopf_und_Hals::Leitungsbahnen::Nerven'
 

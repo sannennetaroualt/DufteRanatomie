@@ -36,7 +36,7 @@ Plate: ''
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#NAVICULARIS'
-- 'DopeRanatomy::#NAVICULARIS::ocr'
+- 'DopeRanatomy::#NAVICULARIS,'
+- 'DopeRanatomy::#NAVICULARIS::ocr,'
 - 'DopeRanatomy::Histology::Systems::19_Eye_and_Adnexa::Canal_of_Schlemm_and_Aqueous_Humor'
 

@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 280'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen::GI'
-- 'DopeRanatomy::System::Gastrointestinal::Gall_Bladder'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen::GI,'
+- 'DopeRanatomy::System::Gastrointestinal::Gall_Bladder,'
 - 'Dufte::Abdomen::Leber'
 

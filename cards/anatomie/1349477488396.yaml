@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 77'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Head&Neck::Neck'
-- 'DopeRanatomy::System::Otorhinolaryngological'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Head&Neck::Neck,'
+- 'DopeRanatomy::System::Otorhinolaryngological,'
 - 'Dufte::Kopf_und_Hals::Halsorgane::Larynx'
 

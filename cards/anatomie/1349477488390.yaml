@@ -36,8 +36,8 @@ Plate: 'Atlas Plate 241'
 19a: ''
 20a: ''
 tags:
-- 'DopeRanatomy::#DOPE'
-- 'DopeRanatomy::Region::Abdomen'
-- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Abdomen'
+- 'DopeRanatomy::#DOPE,'
+- 'DopeRanatomy::Region::Abdomen,'
+- 'DopeRanatomy::System::Musculoskeletal::Skeletal::Abdomen,'
 - 'Dufte::Abdomen::Hüfte'
 
