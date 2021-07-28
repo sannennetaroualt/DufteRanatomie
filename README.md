@@ -10,9 +10,9 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 # Cheatsheet
 1. Click auf den _**Errata-Button**_
 2. Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "_**Fork Repository**_" auswählen.
-3. Bearbeite die Karte im "_**Editor**_"
+3. Bearbeite die Karte im _**Editor**_
 4. Clicke ganz unten auf"_**Propose Changes**_"
-5. Im Fenster "Comparing Changes" auf "_**Create Pull Request**_"
-6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_**Create Pull Request**_"
+5. Clicke im Fenster "Comparing Changes" auf "_**Create Pull Request**_"
+6. Fülle im Fenster "Open Pull Request" das Formular aus und clicke anschließend auf "_**Create Pull Request**_"
 
 ### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
