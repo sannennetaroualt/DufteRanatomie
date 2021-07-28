@@ -1,15 +1,15 @@
 - build_parts:
   - headers_from_crowd_anki:
       part_id: deck_headers
-      source: build/crowdanki-exp
+      source: build/DufteRanatomie
   - notes_from_crowd_anki:
       part_id: deck_notes
-      source: build/crowdanki-exp
+      source: build/DufteRanatomie
   - note_models_all_from_crowd_anki:
-      source: build/crowdanki-exp
+      source: build/DufteRanatomie
   - media_group_from_crowd_anki:
       part_id: deck_media
-      source: build/crowdanki-exp
+      source: build/DufteRanatomie
       recursive: true
 - save_media_groups_to_folder:
     parts:

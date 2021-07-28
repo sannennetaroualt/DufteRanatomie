@@ -24,7 +24,7 @@
       source: src/media/
       recursive: true
 - generate_crowd_anki:
-    folder: build/crowdanki-exp
+    folder: build/DufteRanatomie
     notes:
       part_id: deck_notes
     note_models:
