@@ -1,14 +1,5 @@
 - [Projekt DufteRanatomie](#projekt-dufteranatomie)
 - [Cheatsheet](#cheatsheet)
-- [Guidelines](#guidelines)
-  * [Allgemeine Informationen](#allgemeine-informationen)
-  * [Schema der Übersetzung](#schema-der-übersetzung)
-- [Bearbeiten einer Karte](#bearbeiten-einer-karte)
-  * [Editor](#editor)
-    + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
-    + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
-  * [Tags](#tags)
-- [Einreichen der Änderung](#einreichen-der-änderung)
 
 # Projekt DufteRanatomie
 Ziel des Projekts ist eine Übersetzung des Anatomie-Decks [DopeRanatomy](https://old.reddit.com/r/medicalschoolanki/comments/gx128c/fully_tagged_dope_anatomy/) und des Histologie-Decks [Navicularis](https://www.reddit.com/r/medicalschoolanki/comments/beg21n/navis_histology/) ins Deutsche.
@@ -28,4 +19,4 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 5. Im Fenster "Comparing Changes" auf "_Create Pull Request_"
 6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_Create Pull Request_"
 
-### Eine ausführliche Version mit Guidelines für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
+### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
