@@ -6,7 +6,7 @@
     + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
     + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
   * [Tags](#tags)
-- [Einreichen der Änderung](#einreichen-der-änderung)# Guidelines
+- [Einreichen der Änderung](#einreichen-der-änderung)
 
 # Guidelines
 ## Allgemeine Informationen
