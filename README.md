@@ -8,11 +8,11 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 - Regelmäßig Decks zu releasen
 
 # Cheatsheet
-1. Click auf den _Errata-Button_
-2. Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "Fork Repository" auswählen.
-3. Bearbeite die Karte im _Editor_
-4. Clicke ganz unten auf"_Propose Changes_"
-5. Im Fenster "Comparing Changes" auf "_Create Pull Request_"
-6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_Create Pull Request_"
+1. Click auf den _**Errata-Button**_
+2. Wenn du zum ersten Mal eine Änderung einreichst, musst du zuerst "_**Fork Repository**_" auswählen.
+3. Bearbeite die Karte im _**Editor**_
+4. Clicke ganz unten auf"_**Propose Changes**_"
+5. Im Fenster "Comparing Changes" auf "_**Create Pull Request**_"
+6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_**Create Pull Request**_"
 
 ### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
