@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "d3cc2f8e-efbf-11eb-9d11-1e00f10a5c31",
-    "deck_config_uuid": "d3cc33d0-efbf-11eb-9d11-1e00f10a5c31",
+    "crowdanki_uuid": "810d6b9e-efd5-11eb-91eb-1e00f10a5c31",
+    "deck_config_uuid": "810d7080-efd5-11eb-91eb-1e00f10a5c31",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "d3cc33d0-efbf-11eb-9d11-1e00f10a5c31",
+            "crowdanki_uuid": "810d7080-efd5-11eb-91eb-1e00f10a5c31",
             "dyn": false,
             "interdayLearningMix": 0,
             "lapse": {
