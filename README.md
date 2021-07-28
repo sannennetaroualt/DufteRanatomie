@@ -20,3 +20,5 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 6. Im Fenster "Open Pull Request" das Formular ausfüllen, anschließend auf "_Create Pull Request_"
 
 ### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
