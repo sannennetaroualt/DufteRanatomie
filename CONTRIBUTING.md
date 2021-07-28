@@ -1,3 +1,13 @@
+- [Guidelines](#guidelines)
+  * [Allgemeine Informationen](#allgemeine-informationen)
+  * [Schema der Übersetzung](#schema-der-übersetzung)
+- [Bearbeiten einer Karte](#bearbeiten-einer-karte)
+  * [Editor](#editor)
+    + [HTML-Quelltext aus Anki-Desktop](#html-quelltext-aus-anki-desktop)
+    + [HTML-Quelltext aus Anki-iOS](#html-quelltext-aus-anki-ios)
+  * [Tags](#tags)
+- [Einreichen der Änderung](#einreichen-der-änderung)# Guidelines
+
 # Guidelines
 ## Allgemeine Informationen
 **Updates zum Deck umfassen zur Zeit:**
