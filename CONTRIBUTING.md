@@ -53,7 +53,7 @@ _Klassen_ (Nervus, Nodus, Arteria, etc.) sollten bitte nach diesem Schema abgek�
 |      ...          |      ...          |      ...          |
 
 # Bearbeiten einer Karte
-### Wenn du den Editor zum ersten mal öffnest, musst du zunächst "Fork Repository" auswählen. Dadurch wird auf deinem Account eine Kopie hinterlegt, auf der deine Änderungen zwischengespeichert werden. Das passiert aber alles im Hintergrund, mach dir keine Gedanken.
+### Wenn du den Editor zum ersten mal öffnest, musst du zunächst "Fork Repository" auswählen. Dadurch wird auf deinem Account eine Kopie hinterlegt, auf der deine Änderungen zwischengespeichert werden. Das passiert danach alles im Hintergrund, mach dir also keine Gedanken.
 * Alle Karten des Dufte-Ranatomie-Decks, die am oberen rechten Bildrand einen "Errata"-Button haben, sind Teil dieses Projekts.
 * Ein Click auf diesen Button führt dich, wenn du in Github eingeloggt bist, zu einem Editor. Das ganze sollte _Plattformunabhängig_ und _Unabhängig von deiner Anki-Version_ funktionieren.
 * Wenn du bei Click auf den Errata-Button einen 404-Fehler bekommst, bearbeitest du höchstwahrscheinlich eine selbst gemachte, neue Karte, die nicht Teil des Decks ist.
