@@ -17,18 +17,11 @@ Um das ganze für die Organisatoren möglichst reibungslos zu gestalten, wird de
 
 ### Eine ausführliche Guide mit Richtlinien für Korrekturen findest du [hier](https://github.com/sannennetarou/DufteRanatomie/blob/main/CONTRIBUTING.md).
 
-# Manuelles aktualisieren des Decks
-Benutzer des Addons [CrowdAnki](https://ankiweb.net/shared/info/1788670778) können jeder Zeit über "File -> CrowdAnki: Import git repository" die aktuellste Version des Decks runterladen.
-
-<p align="center"><kbd><img width="800" alt="Screenshot 2021-07-28 at 20 45 10" src="https://user-images.githubusercontent.com/85392967/127378885-b47bc117-d4b2-4e7f-b0b6-58bac771ce76.png"></kbd></p>
-
-Gebt dafür in das Fenster "**_URL_**" einfach `https://github.com/sannennetarou/DufteRanatomie` ein. Das Deck wird hierbei umbenannt, Fortschritt und Note Type bleiben beibehalten.
-
 ## Probleme bei manuellem aktualisieren des Decks
-1. CrowdAnki erlaubt es nicht, [das Deck ohne Deckoptionen zu ex-/importieren](https://github.com/Stvad/CrowdAnki/issues/61). Wenn du über "File -> CrowdAnki" updatest, werden Deckeinstellungen (u.a. # new/day) verändert. Du musst nach jedem Update manuell zur gewünschten Deckeinstellung zurückgehen.
-Scheduling bereits gelernter Karten wird dabei nicht beeinflusst. Es geht nur um zukünftiges Verhalten von Karten bei click auf Easy/Hard oder Learning Steps neuer Karten.
+1. CrowdAnki erlaubt es nicht, [das Deck ohne Deckoptionen zu ex-/importieren](https://github.com/Stvad/CrowdAnki/issues/61). Mit jeder Aktualisierung werden Deckeinstellungen (z.B. #Neue Karten, Lernschritte) verändert.
+Du musst also nach jedem Update manuell zur gewünschten Deckeinstellung wechseln.
 
-2. CrowdAnki erzeugt bei Updates ein neues Deck. Wenn du über "File -> CrowdAnki" updatest, werden Karten (sofern du beim Importieren nicht "Do not move existing cards" anclickst) in ein neues Deck verschoben. Das leere Deck kannst du löschen.
+2. CrowdAnki erzeugt bei Updates manchmal ein neues Deck. Karten werden, sofern du beim Importieren nicht "Do not move existing cards" anclickst, in ein neues Deck verschoben. Das leere Deck kannst du dann löschen.
 
 ### Diese beiden Probleme gibt es bei .apkg-releases nicht
 
