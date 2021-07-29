@@ -10,7 +10,7 @@ deck_configurations:
     delays:
     - 30.0
     leechAction: 1
-    leechFails: 8
+    leechFails: 5
     minInt: 1
     mult: 0.75
   maxTaken: 60
@@ -18,7 +18,6 @@ deck_configurations:
   new:
     bury: false
     delays:
-    - 10.0
     - 30.0
     initialFactor: 2500
     ints:
