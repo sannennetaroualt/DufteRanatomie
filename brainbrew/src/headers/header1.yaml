@@ -14,7 +14,7 @@ deck_configurations:
     minInt: 1
     mult: 0.75
   maxTaken: 60
-  name: Default
+  name: Anatomy
   new:
     bury: false
     delays:
