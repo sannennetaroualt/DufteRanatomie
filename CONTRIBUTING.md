@@ -77,15 +77,15 @@ Damit Formattierung (**fett**, _kursiv_, Zeilenumbrüche, etc.) nicht verloren g
 Aufgrund der aktuell horrenden Implementierung unseres Programms darf der Text allerdings _keine Gänsefüßchen_ enthalten. Weder einfach noch doppelt.
 
 ### HTML-Quelltext aus Anki-Desktop
-Hierfür musst du den Anki-Editor (Taste E beim reviewen) öffnen und auf den Sandwichbutton clicken:
+Der Shortcut für HTML-View ist "_CMD+Shift+x_" bzw. "_CTRL+Shift+x_" aus dem Karten-Editor. Diesen öffnest du mit der Taste "_E_" beim reviewen.
+
+Alternativ clickst du im Editor auf den Sandwichbutton:
 
 <p align="center"><img width="800" alt="Screenshot 2021-06-29 at 15 30 17" src="https://user-images.githubusercontent.com/85392967/123748735-909e2a00-d8ef-11eb-9dad-c65a37e429a7.png"></p>
 
 Wähle hier den Reiter "_Edit HTML_" und kopiere den Inhalt des sich öffnenden Fensters:
 
 <p align="center"><img width="800" alt="Screenshot 2021-06-29 at 15 37 57" src="https://user-images.githubusercontent.com/85392967/123749127-0b674500-d8f0-11eb-86ab-a72571ab1704.png"></p>
-
-Der Shortcut für HTML-View ist "_CMD+Shift+x_" bzw. "_CTRL+Shift+x_".
 
 ### HTML-Quelltext aus Anki-iOS
 Hier geht das etwas einfacher.
